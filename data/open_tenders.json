@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-08T19:13:37.751881+00:00",
+ "last_run": "2026-10-08T19:53:40.707854+00:00",
  "tenders": {
   "ocds-h6vhtk-06f40a": {
    "title": "Fire Alarms, Intruder Alarms & Access Control   Testing, Maintenance and Monitoring Services",
@@ -27563,6 +27563,29 @@
    "region": "London",
    "summary": "Educo Consultancy & Facilities Management have been commissioned to complete a single stage tender for the catering services at Heartlands High School N22 7ST and The Grove School N17 6AR in the London Borough of Haringey, both Schools are part of the Search Education Trust.\nEduco requires any Contractor to have a clear safeguarding policy that includes an overarching declaration that the organisation acknowledges its duty of care and is committed to protecting all individuals from harm, regardless of age, disability, race, religion, sex, or sexual orientation. \nThrough this tender the Trust is seeking to engage a Contractor that is committed to delivering a consistently high quality catering service throughout the contract term and will independently choose the most suitable bidder for th",
    "link": "https://www.find-tender.service.gov.uk/Notice/095430-2026",
+   "first_seen": "2026-10-08"
+  },
+  "ocds-h6vhtk-06927e": {
+   "title": "TENDER FOR WINTER GRITTING AND SNOW CLEARANCE",
+   "buyer": "Fermanagh and Omagh District Council",
+   "value": 620000,
+   "deadline": "2026-11-04T12:00:00+00:00",
+   "published": "2026-10-08T20:43:54+01:00",
+   "category": "",
+   "cpv_codes": [
+    "90630000",
+    "90620000",
+    "34144440",
+    "34144420",
+    "34927100",
+    "34143000",
+    "43313000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "Northern Ireland",
+   "summary": "Fermanagh and Omagh District Council invite tenders from suitably Qualified and experienced Contractors for the provision of a winter gritting and snow clearance service at Council facilities throughout the Council area. The service is to include the gritting of the carpark and the footpath to the entrance of the building and snow clearance of the same. The Contract is to be for an initial period of 3 years from award Contract, with options entirely at the discretion of the Council to extend Contract for a further 2 periods of twelve Months each.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/095440-2026",
    "first_seen": "2026-10-08"
   }
  }

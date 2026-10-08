@@ -27,7 +27,7 @@ CLOSING_DAYS = 7        # "closing soon" means deadline within 7 days
 MIN_DAYS_LEFT = 2       # hide tenders closing sooner than this (no time to bid)
 MIN_VALUE = 10_000      # hide tenders below this value (blank values are kept)
 MAX_VALUE = 500_000     # hide tenders above this value (blank values are kept)
-EXCLUDE_HEALTH = True   # hide NHS and health board buyers
+EXCLUDE_HEALTH = False   # hide NHS and health board buyers
 OUTPUT_FILE = "relevant tenders.csv"
 
 # CPV codes checked against the official list
@@ -68,6 +68,14 @@ KEYWORDS = [
     "investment plan",
     "growth strategy",
     "town centre",
+    "heat network",
+    "heat decarbonisation",
+    "key worker",
+    "financial model",
+    "financial advisor",
+    "commercial advisor",
+    "funding bid",
+    "value for money",
 ]
 
 HEALTH_WORDS = ["nhs", "health board", "healthcare", "hospital"]

@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-11T05:37:59.888991+00:00",
+ "last_run": "2026-10-12T05:41:15.922514+00:00",
  "tenders": {
   "ocds-h6vhtk-06f40a": {
    "title": "Fire Alarms, Intruder Alarms & Access Control   Testing, Maintenance and Monitoring Services",
@@ -1714,23 +1714,6 @@
    "region": "Wales",
    "summary": "The provision of Generic Drugs - Injections/Infusions",
    "link": "https://www.find-tender.service.gov.uk/Notice/086051-2026",
-   "first_seen": "2026-10-08"
-  },
-  "ocds-h6vhtk-06880e": {
-   "title": "All Age PA Brokerage & Support Service",
-   "buyer": "The Royal Borough of Kingston upon Thames",
-   "value": 759465.0,
-   "deadline": "2026-10-12T00:00:00+01:00",
-   "published": "2026-09-10T16:10:26+01:00",
-   "category": "",
-   "cpv_codes": [
-    "98000000"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "London",
-   "summary": "The All Age Brokerage and Support Service will be an integrated, jointly funded provision commissioned by the Royal Borough of Kingston’s Adult Social Care (RBK) and Achieving for Children’s Children And Young People Service (AfC).",
-   "link": "https://www.find-tender.service.gov.uk/Notice/086072-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-06f74c": {
@@ -3713,30 +3696,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/087019-2026",
    "first_seen": "2026-10-08"
   },
-  "ocds-h6vhtk-06a0de": {
-   "title": "Laryngoscope Blades & Associated Consumables",
-   "buyer": "NHS Wales Shared Services Partnership-Procurement Services (hosted by Velindre University NHS Trust)",
-   "value": 3824220.0,
-   "deadline": "2026-10-12T00:00:00+01:00",
-   "published": "2026-09-14T14:05:49+01:00",
-   "category": "",
-   "cpv_codes": [
-    "33000000",
-    "33000000",
-    "33000000",
-    "33000000",
-    "33000000",
-    "33000000",
-    "33000000",
-    "33000000"
-   ],
-   "type": "goods",
-   "status": "active",
-   "region": "Not stated",
-   "summary": "The procurement of laryngoscope blades and their associated consumables. Products to be procured include laryngoscope blades & handles, bougies, airway exchange catheters, stylets, and video laryngoscopes.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/086900-2026",
-   "first_seen": "2026-10-08"
-  },
   "ocds-h6vhtk-06f93d": {
    "title": "Provision of a Managing Agent Service to Manage, Supply, Deliver, Install and Commission Air Source Heat Pumps",
    "buyer": "ENERGIA GROUP NI HOLDINGS LIMITED",
@@ -4231,23 +4190,6 @@
    "region": "North West",
    "summary": "Livv Housing Group has a stock of approximately 13,000 homes and whilst their main area of operation is currently Knowsley, services may also be required within the wider Liverpool City Region. In addition to this, the Group also has some outlying stock in the broader North West area. \nThe Livv Maintenance team currently consists of approximately 120 operatives providing a range of services including responsive repairs and maintenance services, cyclical works, planned investment and voids work to ensure the Group's housing stock remains in an excellent condition. \nThe Group is seeking bids for a framework of contractors to support Livv Maintenance in conducting responsive repairs, maintenance work and void property works across multiple lots. The framework is divided into two workstreams: ",
    "link": "https://www.find-tender.service.gov.uk/Notice/087085-2026",
-   "first_seen": "2026-10-08"
-  },
-  "ocds-h6vhtk-06f9a5": {
-   "title": "Proc-26-138 Childcare Sufficiency Assessment",
-   "buyer": "Wrexham County Borough Council",
-   "value": 9000.0,
-   "deadline": "2026-10-12T00:00:00+01:00",
-   "published": "2026-09-15T09:09:33+01:00",
-   "category": "",
-   "cpv_codes": [
-    "73000000"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "Wales",
-   "summary": "UK4 - Tender Notice\n1.\tBackground/Context\nLocal authorities are required to undertake a full assessment of the childcare provision in their area every five years. This is done through the production of a Childcare Sufficiency Assessment (CSA). Through the CSA, the local authority will need to assess the local childcare market to develop an understanding of parents’ current and future need for childcare. The local authority will compare the assessment of parents’ demand for childcare with information about the current and planned availability of childcare provision across the local authority area.  \n2.\tScope of Work\nThe contract holder will be responsible for collating and analysing data and providing a narrative on the demand, supply and gaps in childcare in Wrexham from a variety of sourc",
-   "link": "https://www.find-tender.service.gov.uk/Notice/087099-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-06f9ac": {
@@ -5818,25 +5760,6 @@
    "region": "North West",
    "summary": "Great Places Housing Group (Great Places) is seeking to award a contract to a single supplier for the provision of Office Stationery and Beverages delivered to Great Places properties and offices located in Lancashire, Greater Manchester, Cheshire, Staffordshire, Derbyshire, and South Yorkshire.\nGreat Places has outlined its core list of products. The products are detailed in the following categories: \n•\tBooks and pads\n•\tFiling and storage\n•\tOffice Environment\n•\tGeneral Stationery\n•\tPaper\n•\tPost\n•\tWriting supplies\n•\tBeverage supplies\nThe contract duration will be three years with the option to extend in one year increments up to a maximum of five years.  \nAll requirements are essential unless otherwise stated as desirable.",
    "link": "https://www.find-tender.service.gov.uk/Notice/087859-2026",
-   "first_seen": "2026-10-08"
-  },
-  "ocds-h6vhtk-0773a3": {
-   "title": "Co-ordinator - Northern New Forest and Southeast Wiltshire Deer Management Group (DMG)",
-   "buyer": "Natural England",
-   "value": 10000,
-   "deadline": "2026-10-11T23:59:00+01:00",
-   "published": "2026-09-16T15:13:12+01:00",
-   "category": "",
-   "cpv_codes": [
-    "75200000",
-    "79112100",
-    "92534000"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "South West",
-   "summary": "Part time Co-ordinator role. Supporting landowners to deliver sustainable collaborative deer management across Southeast Wiltshire and half of The New Forest. Technical knowledge of deer management is not required.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/087862-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-0773a7": {
@@ -12355,24 +12278,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/090668-2026",
    "first_seen": "2026-10-08"
   },
-  "ocds-h6vhtk-0779c1": {
-   "title": "Office365 LS 2026",
-   "buyer": "London Stadium 185",
-   "value": 150000.0,
-   "deadline": "2026-10-11T23:59:00+01:00",
-   "published": "2026-09-24T15:18:45+01:00",
-   "category": "",
-   "cpv_codes": [
-    "48218000",
-    "72212218"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "London",
-   "summary": "London Stadium is procuring Microsoft 365 (Office 365) licences and associated services through the Crown Commercial Service (CCS) RM6098 Technology Products and Associated Services 2 framework. The contract will provide the licences and support required to meet the organisation's ongoing operational requirements.\nProduct Title - Total Licenses\nExchange Online (Plan 1) -35\nExchange Online (Plan 2) -3\nMicrosoft 365 Apps for business -20\nMicrosoft 365 Business Premium -80\nMicrosoft 365 Business Standard -4\nMicrosoft Entra ID P2 -80\nMicrosoft Entra Suite -4\nPlanner and Project Plan 3 -4\nVisio Plan 2 -5\nMicrosoft Fabric (Free) -1000000\nMicrosoft Power Apps for Developer -10000\nMicrosoft Power Automate Free -10000\nFor more information about this opportunity, please visit the eSourcing portal at",
-   "link": "https://www.find-tender.service.gov.uk/Notice/090672-2026",
-   "first_seen": "2026-10-08"
-  },
   "ocds-h6vhtk-052372": {
    "title": "Framework Agreement for Provision of Welsh Government Childcare for 2 year olds in Powys.",
    "buyer": "Powys County Council",
@@ -14593,24 +14498,6 @@
    "region": "North West",
    "summary": "Blackpool Borough Council is seeking a provider to deliver the statutory Special Educational Needs and Disabilities (SEND) Mediation and Disagreement Resolution Service. The service must offer impartial, independent mediation and disagreement resolution to support the effective resolution of disputes between families, the local authority, and education providers, in line with the requirements set out in Chapter 11 of the SEND Code of Practice.",
    "link": "https://www.find-tender.service.gov.uk/Notice/091396-2026",
-   "first_seen": "2026-10-08"
-  },
-  "ocds-h6vhtk-077b7f": {
-   "title": "ONLINE EVIDENCE BASED TREATMENT/RECOVERY SERVICE",
-   "buyer": "Police and Crime Commissioner for Dyfed-Powys",
-   "value": 36000.0,
-   "deadline": "2026-10-12T00:00:00+01:00",
-   "published": "2026-10-07T14:50:11+01:00",
-   "category": "",
-   "cpv_codes": [
-    "33693300",
-    "98000000"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "Wales",
-   "summary": "Request for quotation for an online provision including treatment and recovery of drug use.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/094831-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-068ca1": {
@@ -27329,6 +27216,74 @@
    "summary": "The British Council currently occupies Wisma Great Eastern, Penang - No. 25, Lebuh Light, 10200 Level 3A, Suite 3A.1. The British Council is required to fitout the premises to reconfigure the office to add exam function.",
    "link": "https://www.find-tender.service.gov.uk/Notice/095873-2026",
    "first_seen": "2026-10-10"
+  },
+  "ocds-h6vhtk-07853c": {
+   "title": "Post Office Branch - Mansell Road",
+   "buyer": "Post Office Limited",
+   "value": null,
+   "deadline": "2027-01-06T23:59:59+00:00",
+   "published": "2026-10-11T21:54:59+01:00",
+   "category": "",
+   "cpv_codes": [
+    "64114000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "South East",
+   "summary": "Post Office Ltd is looking for a successful retailer to incorporate a Post Office Local into their existing or proposed business.\nThe offer available in this Post Office would be:\nPost Office Local - integrating Post Office services into a vibrant and sustainable retail business, so they can be offered over the same opening hours. The exact layout and design will be agreed with you to suit your business.\nEstimated Post Office fees:\nIn the current location in the range of £10,350 - £11,500 per annum. \nFurther information can be found at: https://runapostoffice.co.uk/branch/mansell-road-post-office-shoreham-by-sea-bn43-6gq?search_term=BN43 6GQ",
+   "link": "https://www.find-tender.service.gov.uk/Notice/095879-2026",
+   "first_seen": "2026-10-12"
+  },
+  "ocds-h6vhtk-07853d": {
+   "title": "Post Office Branch - Sherwood",
+   "buyer": "Post Office Limited",
+   "value": null,
+   "deadline": "2026-10-20T23:59:59+01:00",
+   "published": "2026-10-11T22:16:50+01:00",
+   "category": "",
+   "cpv_codes": [
+    "64114000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "East Midlands",
+   "summary": "Post Office Ltd is looking for a successful retailer to incorporate a Post Office Main into their existing or proposed business.\nThe offer available in this Post Office would be:\nPost Office Main branch - a dedicated Post Office area, a full range of services. The exact layout and design will be agreed with you to suit your business.\nEstimated Post Office fees:\nIn the current location in the range of £36,000 - £45,000 per annum.\nFurther information can be found at:  https://runapostoffice.co.uk/branch/sherwood-post-office-nottingham-ng5-2fw?search_term=NG5 2FW",
+   "link": "https://www.find-tender.service.gov.uk/Notice/095881-2026",
+   "first_seen": "2026-10-12"
+  },
+  "ocds-h6vhtk-07853e": {
+   "title": "Post Office Branch - Totley Rise",
+   "buyer": "Post Office Limited",
+   "value": null,
+   "deadline": "2026-10-29T23:59:59+00:00",
+   "published": "2026-10-11T22:37:24+01:00",
+   "category": "",
+   "cpv_codes": [
+    "64114000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "Yorkshire and the Humber",
+   "summary": "Post Office Ltd is looking for a successful retailer to incorporate a Post Office Local into their existing or proposed business.\nThe offer available in this Post Office would be:\nPost Office Local - integrating Post Office services into a vibrant and sustainable retail business, so they can be offered over the same opening hours. The exact layout and design will be agreed with you to suit your business.\nEstimated Post Office fees:\nIn the current location in the range of £26,000 - £33,000 per annum. \nFurther information can be found at: https://runapostoffice.co.uk/branch/totley-rise-post-office-sheffield-s17-4dl?search_term=S17 4DL",
+   "link": "https://www.find-tender.service.gov.uk/Notice/095882-2026",
+   "first_seen": "2026-10-12"
+  },
+  "ocds-h6vhtk-07853f": {
+   "title": "Post Office Branch - Halesworth",
+   "buyer": "Post Office Limited",
+   "value": null,
+   "deadline": "2026-10-25T23:59:59+00:00",
+   "published": "2026-10-11T22:58:58+01:00",
+   "category": "",
+   "cpv_codes": [
+    "64114000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "East of England",
+   "summary": "Post Office Ltd is looking for a successful retailer to incorporate a Post Office Main into their existing or proposed business.\nThe offer available in this Post Office would be:\nPost Office Main branch - a dedicated Post Office area, a full range of services. The exact layout and design will be agreed with you to suit your business.\nEstimated Post Office fees:\nIn the current location in the range of £33,500 - £42,000 per annum\nFurther information can be found at:  https://runapostoffice.co.uk/branch/halesworth-post-office-halesworth-ip19-8ar?search_term=IP19 8AR",
+   "link": "https://www.find-tender.service.gov.uk/Notice/095883-2026",
+   "first_seen": "2026-10-12"
   }
  }
 }

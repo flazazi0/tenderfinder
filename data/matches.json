@@ -1,6 +1,84 @@
 {
- "updated": "2026-10-12T05:41:15.922514+00:00",
+ "updated": "2026-10-13T05:41:38.038819+00:00",
  "tenders": [
+  {
+   "title": "Quality Assurance & Improvement of Structured Learning Placement (SLP) Modules",
+   "buyer": "NHS England",
+   "region": "London",
+   "value": 98000.0,
+   "deadline": "2026-11-03T09:00:00+00:00",
+   "first_seen": "2026-10-13",
+   "category": "",
+   "score": 3,
+   "why": "Evaluation consultancy",
+   "summary": "Procurement of quality assurance and improvement of GP Specialty Training structured learning placement modules to support trainee capacity and curriculum delivery.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/096038-2026"
+  },
+  {
+   "title": "Cadder Housing Association - Director of Operations (Consultancy Services)",
+   "buyer": "Cadder Housing Association",
+   "region": "Scotland",
+   "value": null,
+   "deadline": "2026-11-12T12:00:00+00:00",
+   "first_seen": "2026-10-13",
+   "category": "Housing services",
+   "score": 3,
+   "why": "General management consultancy",
+   "summary": "Cadder Housing Association Limited, invite tenders for the provision of Director of Operations Services from November 2026 until 31 March 2027. There is an option to extend this service for period up to a maximum of 12 months",
+   "link": "https://www.find-tender.service.gov.uk/Notice/096166-2026"
+  },
+  {
+   "title": "Cadder Housing Association - Director of Operations (Consultancy Services)",
+   "buyer": "Cadder Housing Association",
+   "region": "Scotland",
+   "value": null,
+   "deadline": "2026-11-12T12:00:00+00:00",
+   "first_seen": "2026-10-13",
+   "category": "Housing services",
+   "score": 3,
+   "why": "General management consultancy",
+   "summary": "Cadder Housing Association Limited, invite tenders for the provision of Director of Operations Services from November 2026 until 31 March 2027. There is an option to extend this service for period up to a maximum of 12 months",
+   "link": "https://www.find-tender.service.gov.uk/Notice/096175-2026"
+  },
+  {
+   "title": "Consultants for Registered Provider Status",
+   "buyer": "Cambridge City Council",
+   "region": "East of England",
+   "value": null,
+   "deadline": "2026-11-02T12:00:00+00:00",
+   "first_seen": "2026-10-13",
+   "category": "",
+   "score": 3,
+   "why": "Business and management consultancy",
+   "summary": "Cambridge City Council is seeking to procure the services of a consultant to initially meet with and subsequently assist two local not-for-profit landlords in applying for registration as a not-for-profit registered provider with the Regulator of Social Housing.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/096238-2026"
+  },
+  {
+   "title": "CPF Digital Project Evaluation",
+   "buyer": "British Council",
+   "region": "Not stated",
+   "value": 20833.0,
+   "deadline": "2026-10-30T10:00:00+00:00",
+   "first_seen": "2026-10-13",
+   "category": "",
+   "score": 3,
+   "why": "\"evaluation\" in title",
+   "summary": "Evaluating the Impact of the CPF digital project pilot",
+   "link": "https://www.find-tender.service.gov.uk/Notice/096303-2026"
+  },
+  {
+   "title": "Pre Market Engagement Exercise for a Speech and Language Therapy Service for Nettlefield Primary School",
+   "buyer": "The Education Authority (NI)",
+   "region": "Northern Ireland",
+   "value": 258000,
+   "deadline": "2026-10-26T15:00:00+00:00",
+   "first_seen": "2026-10-13",
+   "category": "",
+   "score": 1,
+   "why": "\"value for money\" in summary",
+   "summary": "The primary purpose of this preliminary market engagement exercise (“Exercise”) is for the Education Authority (EA) to outline and seek supplier views and feedback on potential approaches for the provision of a Speech and Language Therapy Service for Nettlefield Primary School. This is not a tender exercise by the Education Authority. \nThe Education Authority Northern Ireland (EANI) wishes to engage with the market to gather views on the establishment of a robust, value for money Contract for the provision of a Speech and Language Therapy Service for Nettlefield Primary School. The anticipated contract period is from 1 March 2027 to 28th February 2029 (indicative), with options to extend for periods up to a further 24 months. \nAny information gathered through this market consultation exerc",
+   "link": "https://www.find-tender.service.gov.uk/Notice/096204-2026"
+  },
   {
    "title": "Evaluation Services: Events & Participation Programme (2026-2029)",
    "buyer": "North East Combined Authority",
@@ -223,19 +301,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/087973-2026"
   },
   {
-   "title": "Treasury Advisor Services",
-   "buyer": "Yorkshire Housing Limited",
-   "region": "Yorkshire and the Humber",
-   "value": 45000,
-   "deadline": "2026-10-14T11:00:00+00:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 3,
-   "why": "Financial consultancy",
-   "summary": "Yorkshire Housing requires a suitably qualified and experienced Consultant to provide Treasury Advisory Services.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/088419-2026"
-  },
-  {
    "title": "Viability Assessment",
    "buyer": "Borough Council of Kings Lynn and West Norfolk",
    "region": "East of England",
@@ -442,19 +507,6 @@
    "why": "\"evaluation\" in title",
    "summary": "Torus is seeking to appoint a suitably qualified and experienced provider to deliver job evaluation and salary benchmarking services. The successful supplier will support Torus in maintaining a fair, consistent and market-informed pay structure through the provision of job evaluation, salary benchmarking and associated advisory services.\nFor more information about this opportunity, please visit the eSourcing portal at: \nhttps://www.delta-esourcing.com/tenders/UK-UK-St-Helens:-Human-resources-management-consultancy-services./339XT3FQ3U\nTo respond to this opportunity, please click here: \nhttps://www.delta-esourcing.com/respond/339XT3FQ3U",
    "link": "https://www.find-tender.service.gov.uk/Notice/091489-2026"
-  },
-  {
-   "title": "Affordable Homes Independent Advisor",
-   "buyer": "Beyond Housing Limited",
-   "region": "Yorkshire and the Humber",
-   "value": null,
-   "deadline": "2026-10-14T13:00:00+01:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 3,
-   "why": "Financial consultancy",
-   "summary": "Provide independent financial advice and affordability assessments for Beyond Housing sales customers. This will include ant-money laundering (AML) checks, financial assessments in line with capital funding guidance for low-cost homeownership purchases and mortgage illustrations for shared ownership, discount market sale and outright purchases.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/092187-2026"
   },
   {
    "title": "ITT - External Strategic Advisor to the Digital Services Portfolio Board - UID 319",

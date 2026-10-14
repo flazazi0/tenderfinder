@@ -1,6 +1,71 @@
 {
- "updated": "2026-10-13T05:41:38.038819+00:00",
+ "updated": "2026-10-14T05:53:37.199056+00:00",
  "tenders": [
+  {
+   "title": "Oakham East Transport and Public Realm Improvements - Multidisciplinary Preliminary Design Consultancy Services",
+   "buyer": "Rutland County Council",
+   "region": "East Midlands",
+   "value": 90000.0,
+   "deadline": "2026-11-10T12:00:00+00:00",
+   "first_seen": "2026-10-14",
+   "category": "",
+   "score": 3,
+   "why": "Urban planning",
+   "summary": "Rutland County Council is seeking to appoint a suitably qualified and experienced consultant to undertake preliminary design work for a package of transport and public realm improvements in Oakham.\nThe proposed programme is intended to improve pedestrian accessibility, safety and connectivity within the eastern part of Oakham, while enhancing the quality and functionality of the public realm.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/096443-2026"
+  },
+  {
+   "title": "1074279646 T1416 - Feasibility and impact of a full description of train path",
+   "buyer": "RSSB",
+   "region": "London",
+   "value": 120000.0,
+   "deadline": "2026-11-10T12:00:00+00:00",
+   "first_seen": "2026-10-14",
+   "category": "",
+   "score": 3,
+   "why": "\"feasibility\" in title",
+   "summary": "RSSB is seeking to appoint a supplier to undertake research into the feasibility and potential impact of developing a more detailed description of a train’s full path than is currently possible through the existing TIPLOC-based timetable. The research will consider the information, data and technical requirements needed, demonstrate how a more granular path description could work alongside existing railway systems, and explore the potential benefits, risks and implementation considerations for the GB rail industry.\nFor more information about this opportunity, please visit the eSourcing portal at: \nhttps://rssb.delta-esourcing.com/tenders/UK-UK-London:-Research-services./8D5Z4669FC\nTo respond to this opportunity, please click here: \nhttps://rssb.delta-esourcing.com/respond/8D5Z4669FC",
+   "link": "https://www.find-tender.service.gov.uk/Notice/096458-2026"
+  },
+  {
+   "title": "Heaton TRU Upgrades Designs",
+   "buyer": "Northern Trains Ltd",
+   "region": "North East",
+   "value": 163000.0,
+   "deadline": "2026-11-09T16:00:00+00:00",
+   "first_seen": "2026-10-14",
+   "category": "",
+   "score": 3,
+   "why": "Feasibility study",
+   "summary": "Northern Trains Ltd, is a Train Operating Company (TOC) that operates passenger rail services in the North of England. Northern Trains Ltd is publishing this notice to establish a contract for the designs at Heaton Train Care Centre for TRU.\nThis project requires the development of designs to accepted for construction (AFC) status for the proposed enhancements at Heaton TCC. The successful tenderer shall be appointed as the Principal Designer under the Construction (Design and Management) Regulations (2015) and undertake all required duties of this role.\nThe appointed supplier will be responsible for producing and developing the design to AFC status for the scope of items included in this document and supporting tender package. This will include production of Inspection and Test Plans (ITP",
+   "link": "https://www.find-tender.service.gov.uk/Notice/096651-2026"
+  },
+  {
+   "title": "RIBA Stage 1 Feasibility Study for William Aston Hall, Wrexham University",
+   "buyer": "Wrexham University",
+   "region": "Wales",
+   "value": 100000.0,
+   "deadline": "2026-10-27T12:00:00+00:00",
+   "first_seen": "2026-10-14",
+   "category": "",
+   "score": 3,
+   "why": "\"feasibility\" in title",
+   "summary": "Wrexham University invites quotations from suitably qualified consultants, or consultant teams under a single lead consultant, to undertake a proportionate RIBA Stage 1 Feasibility Study for William Aston Hall on the Plas Coch campus, Wrexham. The Hall is a principal cultural and civic venue, operated in partnership with Theatr Clwyd.\nThe study will appraise the existing venue and develop and compare options covering the audience journey, the auditorium, technical theatre, backstage, access and inclusion, heritage constraints, building services and operating implications, with broad cost ranges, phasing advice and delivery risks.\nThe maximum budget for the Stage 1 core services is £50,000 including VAT. Quotations above this figure will be rejected. The study is funded by the Arts Council ",
+   "link": "https://www.find-tender.service.gov.uk/Notice/096691-2026"
+  },
+  {
+   "title": "1073434028 T1427 Strategy for Harmonising Automatic Current Limitation Across Electric Rolling Stock in GB",
+   "buyer": "Rail Safety Standards Board (RSSB)",
+   "region": "Not stated",
+   "value": 180000.0,
+   "deadline": "2026-11-16T12:00:00+00:00",
+   "first_seen": "2026-10-14",
+   "category": "",
+   "score": 1,
+   "why": "\"feasibility\" in summary",
+   "summary": "This research seeks to develop the evidence base required to inform the transition towards harmonised ACL characteristics across rolling stock operating on the GB network. It will confirm and refine the previously proposed target state for ACL harmonisation (that is BS EN 50388-1:2022 without UKSNC (Umin2 = 17.5 kV)), fully accounting for technical feasibility and economic viability, and develop a detailed pathway from current to target state for existing and future rolling stock.  Specifically, the research will address the following objectives:\n1.Confirm and detail the target state for ACL harmonisation and the rationale for its adoption: this includes accounting for wider system consequences and trade-offs, quantified associated benefits, costs and risks.\n2.Define a transition pathway f",
+   "link": "https://www.find-tender.service.gov.uk/Notice/096546-2026"
+  },
   {
    "title": "Quality Assurance & Improvement of Structured Learning Placement (SLP) Modules",
    "buyer": "NHS England",
@@ -54,19 +119,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/096238-2026"
   },
   {
-   "title": "CPF Digital Project Evaluation",
-   "buyer": "British Council",
-   "region": "Not stated",
-   "value": 20833.0,
-   "deadline": "2026-10-30T10:00:00+00:00",
-   "first_seen": "2026-10-13",
-   "category": "",
-   "score": 3,
-   "why": "\"evaluation\" in title",
-   "summary": "Evaluating the Impact of the CPF digital project pilot",
-   "link": "https://www.find-tender.service.gov.uk/Notice/096303-2026"
-  },
-  {
    "title": "Pre Market Engagement Exercise for a Speech and Language Therapy Service for Nettlefield Primary School",
    "buyer": "The Education Authority (NI)",
    "region": "Northern Ireland",
@@ -106,19 +158,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/095763-2026"
   },
   {
-   "title": "Going Global Partnerships Programme; Country Level Evaluations",
-   "buyer": "British Council",
-   "region": "Not stated",
-   "value": 166666.0,
-   "deadline": "2026-10-26T21:55:00+00:00",
-   "first_seen": "2026-10-10",
-   "category": "",
-   "score": 6,
-   "why": "Financial consultancy, \"evaluation\" in title",
-   "summary": "Provide a programme of country evaluations over the next two and half years of GGP.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/095865-2026"
-  },
-  {
    "title": "Well-Led Review of Avon and Wiltshire Mental Health Partnership NHS Trust",
    "buyer": "Avon and Wiltshire Mental Health Partnership NHS trust",
    "region": "Not stated",
@@ -156,19 +195,6 @@
    "why": "Urban planning",
    "summary": "Our Planning and Development Service is seeking an urban designer to work within our busy development management team. Your case load would comprise largely of volume house builder applications - sustaining significant annual new house building rates required under existing and emerging Local Plans. You will work on applications of various types and scales including our major settlement extensions at South East Coalville and Money Hill, Ashby de la Zouch.?Your case load would also include major commercial/industrial/leisure developments across the district.",
    "link": "https://www.find-tender.service.gov.uk/Notice/095809-2026"
-  },
-  {
-   "title": "Norbury Railway Bridge Art Commission",
-   "buyer": "London Borough of Croydon",
-   "region": "London",
-   "value": 32500,
-   "deadline": "2026-10-15T12:00:00+01:00",
-   "first_seen": "2026-10-10",
-   "category": "",
-   "score": 1,
-   "why": "\"regeneration\" in summary",
-   "summary": "Croydon is looking for a supplier to provide the Norbury Railway Bridge Art Commission\nLBC Regeneration will  run a two-stage EOI process and procure/select an artist - SELECTED\nPlease submit your expression of interest by email PrideinPlace@croydon.gov.uk",
-   "link": "https://www.find-tender.service.gov.uk/Notice/095502-2026"
   },
   {
    "title": "Dover Town Centre Regeneration Programme - Lead Consultant Team",
@@ -314,19 +340,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/088486-2026"
   },
   {
-   "title": "ITT - Taxation and reuse - UID 350",
-   "buyer": "Historic England",
-   "region": "South West",
-   "value": 29166.67,
-   "deadline": "2026-10-15T09:30:00+01:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 3,
-   "why": "Project management consultancy",
-   "summary": "We know that the structure of taxes shapes decisions about how and what to invest in.    To better understand the incentives around the reuse of historic buildings, this study will look at how tax impacts on the finances of reuse projects, how the tax impacts differ depending on the type of project or developer, what the implications are for cash flow vs total financial impacts, and where the incidence of tax may be different to where the liability falls.  The outputs of the research will include a set of project finance / tax numbers for a range of representative projects covering a range of different types of development / developer; an assessment of how the impacts of tax – and different approaches to subsidy, impact on different types of developer and project and the relative impacts o",
-   "link": "https://www.find-tender.service.gov.uk/Notice/088671-2026"
-  },
-  {
    "title": "C086/2026/2027- Business Events Industry Engagement & Lead Generation",
    "buyer": "Llywodraeth Cymru / Welsh Government",
    "region": "Wales",
@@ -431,19 +444,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/090012-2026"
   },
   {
-   "title": "Commercialisation, Adoption Brokerage and Investment Readiness Support for the Infrastructure Productivity Scale-Up Programme",
-   "buyer": "CONNECTED PLACES CATAPULT",
-   "region": "London",
-   "value": null,
-   "deadline": "2026-10-15T12:00:00+01:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 3,
-   "why": "Business and management consultancy",
-   "summary": "Provision of specialist commercialisation, adoption brokerage, procurement readiness, Return on investment/value proposition development and investment readiness support for priority SMEs participating in the Infrastructure Productivity Scale-Up Programme. \nThe Infrastructure Productivity Scale-Up Programme is a Connected Places Catapult initiative designed to accelerate the adoption of proven productivity solutions across the UK infrastructure sector.\nThe programme supports high-potential SMEs with mature technologies (TRL8+) and services to engage directly with infrastructure owners, operators, contractors and industry decision-makers. Through structured engagement, challenge validation and adoption brokerage activities, the programme aims to help SMEs progress adoption opportunities and",
-   "link": "https://www.find-tender.service.gov.uk/Notice/090535-2026"
-  },
-  {
    "title": "West Yorkshire District Travel Diary Survey",
    "buyer": "West Yorkshire Combined Authority",
    "region": "Yorkshire and the Humber",
@@ -468,19 +468,6 @@
    "why": "Energy efficiency consultancy",
    "summary": "Canterbury City Council  wishes to select and appoint a suitable supplier for the provision of Consultancy Services to advise on both Renewable Energy Generation and capacity and carbon offsetting and sequestration plus the option of a green fund to support these projects and invites tenderers to submit a tender to meet the Council’s requirement, as outlined in the invitation to tender pack of documents.\nThe Contract is anticipated to commence December 2026 and will continue for a period of up to 9 months (unless terminated early in accordance with the terms and conditions of the Contract) and may be extended for a period of up to 18 months subject to the satisfactory performance of the Services by the Contractor and at the Council’s entire discretion. Any such extension shall be on the sa",
    "link": "https://www.find-tender.service.gov.uk/Notice/091101-2026"
-  },
-  {
-   "title": "EPC Certification Service Contract",
-   "buyer": "London Borough of Croydon",
-   "region": "London",
-   "value": 35000,
-   "deadline": "2026-10-15T12:00:00+01:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 3,
-   "why": "Energy efficiency consultancy",
-   "summary": "Croydon Council is looking for a supplier to provide EPC Certification Service Contract.\nThis opportunity is available on the Croydon Tenders Portal. \nhttps://supplier.in-tend.co.uk/croydontenders/home",
-   "link": "https://www.find-tender.service.gov.uk/Notice/091138-2026"
   },
   {
    "title": "Board Effectiveness Review",

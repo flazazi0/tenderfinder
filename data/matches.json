@@ -1,6 +1,58 @@
 {
- "updated": "2026-10-14T05:53:37.199056+00:00",
+ "updated": "2026-10-15T05:53:30.913297+00:00",
  "tenders": [
+  {
+   "title": "Financial Advisor.",
+   "buyer": "Great British Energy - Nuclear",
+   "region": "Not stated",
+   "value": 500000,
+   "deadline": "2026-11-12T15:00:00+00:00",
+   "first_seen": "2026-10-15",
+   "category": "",
+   "score": 6,
+   "why": "Financial consultancy, \"financial advisor\" in title",
+   "summary": "Great British Energy – Nuclear (GBE-N) is procuring specialist financial advisory services to support the assessment of funding and financing options for the Gwyndod Small Modular Reactor (SMR) Project and wider SMR programme. The appointed adviser will support the development of evidence-based analysis and recommendations, undertake assessment of public, private and hybrid funding and financing approaches, support market engagement activities, and provide advice to inform future government decisions. The adviser will be expected to assess the advantages, disadvantages, risks, opportunities and enabling conditions associated with different approaches.  \nThe information provided above is intended to give Tenderers a high-level overview of the requirements of this procurement. A detailed sco",
+   "link": "https://www.find-tender.service.gov.uk/Notice/097231-2026"
+  },
+  {
+   "title": "Four Lanterns Network Coordinator – Art Fund Going Places Programme",
+   "buyer": "Wrexham County Borough Council",
+   "region": "Wales",
+   "value": 60000.0,
+   "deadline": "2026-11-13T17:00:00+00:00",
+   "first_seen": "2026-10-15",
+   "category": "",
+   "score": 3,
+   "why": "Evaluation consultancy",
+   "summary": "Wrexham County Borough Council wish to commission a suitably qualified coordinator for the Four Lanterns Network, one of six UK-wide partnerships participating in Art Fund's Going Places programme. The coordinator will provide strategic, administrative and operational coordination across four partner organisations, supporting the delivery of touring exhibitions and associated engagement programmes between January 2027 and September 2029. The role will ensure effective communication, reporting, financial monitoring, environmental monitoring and collaborative working throughout the duration of the project. \nThe Four Lanterns Network comprises: (1) Tŷ Pawb, Wrexham; (2) William Morris Gallery, London Borough of Waltham Forest; (3) Dovecot Studios, Edinburgh; and (4) Blackwell - The Arts & Cra",
+   "link": "https://www.find-tender.service.gov.uk/Notice/096777-2026"
+  },
+  {
+   "title": "RFQ 2026/43 - Development of a Dublin Belfast Economic Corridor Investment Land Guide",
+   "buyer": "Newry, Mourne and Down District Council (NMD)",
+   "region": "Not stated",
+   "value": 25000.0,
+   "deadline": "2026-10-30T12:00:00+00:00",
+   "first_seen": "2026-10-15",
+   "category": "",
+   "score": 3,
+   "why": "Business development consultancy",
+   "summary": "The DBEC Partnership wishes to appoint a suitably qualified and experienced consultant to produce an Investment Land Guide that will strengthen the Dublin Belfast Economic Corridor's investment proposition.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/097083-2026"
+  },
+  {
+   "title": "Water Treatment Services including Water Risk Asesssments",
+   "buyer": "Solihull College and University Centre",
+   "region": "West Midlands",
+   "value": 80000,
+   "deadline": "2026-11-10T12:00:00+00:00",
+   "first_seen": "2026-10-15",
+   "category": "",
+   "score": 1,
+   "why": "\"value for money\" in summary",
+   "summary": "An existing contract for Water Treatment Services across all College campuses will expire on 31 December 2026.  To ensure continuity of provision, a value for money assessment and compliance with College Financial Regulations the requirement is being competitively tendered for a contract start 01.01.27.  The College is seeking tenders for both Water Treatment Services and Water Risk Assessments across all three campuses; Blossomfield (B91 1SB), Woodlands (B36 0NF) ,  Stratford-upon-Avon (CV37 9QR).  Services will include Planned Preventative Maintenance, emergency call outs, remedial repairs, annual updates to schematics and installation works.  Please see the tender pack available for download (free of charge) at  https://supplier.in-tend.co.uk/educationportal/home",
+   "link": "https://www.find-tender.service.gov.uk/Notice/096879-2026"
+  },
   {
    "title": "Oakham East Transport and Public Realm Improvements - Multidisciplinary Preliminary Design Consultancy Services",
    "buyer": "Rutland County Council",
@@ -51,7 +103,7 @@
    "score": 3,
    "why": "\"feasibility\" in title",
    "summary": "Wrexham University invites quotations from suitably qualified consultants, or consultant teams under a single lead consultant, to undertake a proportionate RIBA Stage 1 Feasibility Study for William Aston Hall on the Plas Coch campus, Wrexham. The Hall is a principal cultural and civic venue, operated in partnership with Theatr Clwyd.\nThe study will appraise the existing venue and develop and compare options covering the audience journey, the auditorium, technical theatre, backstage, access and inclusion, heritage constraints, building services and operating implications, with broad cost ranges, phasing advice and delivery risks.\nThe maximum budget for the Stage 1 core services is £50,000 including VAT. Quotations above this figure will be rejected. The study is funded by the Arts Council ",
-   "link": "https://www.find-tender.service.gov.uk/Notice/096691-2026"
+   "link": "https://www.find-tender.service.gov.uk/Notice/097139-2026"
   },
   {
    "title": "1073434028 T1427 Strategy for Harmonising Automatic Current Limitation Across Electric Rolling Stock in GB",
@@ -197,6 +249,19 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/095809-2026"
   },
   {
+   "title": "Norbury Railway Bridge Art Commission",
+   "buyer": "London Borough of Croydon",
+   "region": "London",
+   "value": 32500,
+   "deadline": "2026-11-02T17:00:00+00:00",
+   "first_seen": "2026-10-10",
+   "category": "",
+   "score": 1,
+   "why": "\"regeneration\" in summary",
+   "summary": "Croydon is looking for a supplier to provide the Norbury Railway Bridge Art Commission\nLBC Regeneration will  run a two-stage EOI process and procure/select an artist - SELECTED\nPlease submit your expression of interest by email PrideinPlace@croydon.gov.uk",
+   "link": "https://www.find-tender.service.gov.uk/Notice/097168-2026"
+  },
+  {
    "title": "Dover Town Centre Regeneration Programme - Lead Consultant Team",
    "buyer": "Dover District Council",
    "region": "South East",
@@ -221,19 +286,6 @@
    "why": "Development consultancy, \"feasibility\" in title",
    "summary": "Project Aims\nTo assess the feasibility of applying bioclimate vulnerability assessment approaches to priority marine migratory species within the Caribbean UK Overseas Territories and the Pitcairn Islands. Building on previous work undertaken for JNCC, the study will evaluate the suitability of the proposed bioclimate vulnerability approach, consider relevant alternative approaches where appropriate, and determine whether sufficient evidence, data and expertise exist to support future implementation.\n4.\tProject Background\nClimate change is increasingly affecting marine migratory species through changes in sea temperature, ocean productivity, habitat availability, ocean circulation patterns, species interactions and the frequency and intensity of extreme weather events (IPCC, 2022; Martay e",
    "link": "https://www.find-tender.service.gov.uk/Notice/090584-2026"
-  },
-  {
-   "title": "Evaluation of the pilot phase of Marine Recovery Action Plans",
-   "buyer": "Natural England",
-   "region": "Yorkshire and the Humber",
-   "value": 35000,
-   "deadline": "2026-10-16T12:00:00+01:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 6,
-   "why": "Evaluation consultancy, \"evaluation\" in title",
-   "summary": "Natural England is testing a proposed process for developing Marine Recovery Action Plans (M-RAPs), and requires a light touch process evaluation (in keeping with the overall scale of the project) at two pilot M-RAP sites. The requirement is in two parts: (1) refining the existing draft evaluation plan and carrying out baseline evidence collection (to be completed by March 2027); and (2) collecting evidence at the project mid-point and conclusion to complete the evaluation, as well as scoping the outcome evaluation (to be completed by March 2028). Progress to Part 2 will be subject to the availability and confirmation of ongoing funding. The two pilot sites are separated geographically (Yorkshire and North Devon/the Severn Estuary), and it is preferred for the successful contractor to have",
-   "link": "https://www.find-tender.service.gov.uk/Notice/092105-2026"
   },
   {
    "title": "ITT - NEIGHBOURHOOD HERITAGE GRANTS: EVALUATION AND CAPACITY BUILDING - UID 355",
@@ -299,45 +351,6 @@
    "why": "General management consultancy, \"regeneration\" in summary",
    "summary": "To establish and embed a Corporate Programme Management Office (PMO) Assurance Framework and Operating Model that will provide a consistent approach to portfolio, programme and project governance in delivery of capital and regeneration projects and programmes of investment across a range of services within the Council.",
    "link": "https://www.find-tender.service.gov.uk/Notice/092245-2026"
-  },
-  {
-   "title": "​​Independent review of ORR's approach to cost assessment and efficiency target setting for National Highways​",
-   "buyer": "Office of Rail and Road",
-   "region": "Not stated",
-   "value": 100000,
-   "deadline": "2026-10-16T12:00:00+01:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 3,
-   "why": "Evaluation consultancy",
-   "summary": "Work to help strengthen ORR's methodology and evidence base for future efficiency reviews, drawing on lessons learned from RIS3 and wider regulatory practice.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/087145-2026"
-  },
-  {
-   "title": "Procurement of development viability training and bespoke support for Local Planning Authorities",
-   "buyer": "Improvement and Development Agency for Local Government (IDeA)",
-   "region": "London",
-   "value": 170000.0,
-   "deadline": "2026-10-16T17:00:00+00:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 3,
-   "why": "Development consultancy",
-   "summary": "The Planning Advisory Service (PAS) is seeking to appoint a suitably qualified development viability expert to design and deliver a modular online pilot training programme for local planning authorities in England. The programme will strengthen officers’ understanding of development viability and their confidence and capability in applying viability considerations in plan-making and decision-making. It will include high-quality reusable learning resources, a train-the-trainer approach, monitoring and evaluation, and optional bespoke viability support for council officers and elected members.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/087973-2026"
-  },
-  {
-   "title": "Viability Assessment",
-   "buyer": "Borough Council of Kings Lynn and West Norfolk",
-   "region": "East of England",
-   "value": 100000.0,
-   "deadline": "2026-10-16T12:00:00+01:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 3,
-   "why": "Urban planning",
-   "summary": "In June 2026, the Borough Council began the process of producing the next Local Plan, which will cover the period 2026-2044.  To support the Local Plan preparation, the Council will need to renew or update its current evidence base.  As part of updating the evidence base, a new “whole plan” Viability Assessment is required, to provide a policy-by-policy assessment of Local Plan policy obligations and site-specific proposals.\nFor more information about this opportunity, please visit the eSourcing portal at: \nhttps://www.delta-esourcing.com/tenders/UK-UK-King%27s-Lynn:-Quantity-surveying-services./4C273E8949\nTo respond to this opportunity, please click here: \nhttps://www.delta-esourcing.com/respond/4C273E8949",
-   "link": "https://www.find-tender.service.gov.uk/Notice/088486-2026"
   },
   {
    "title": "C086/2026/2027- Business Events Industry Engagement & Lead Generation",
@@ -669,26 +682,13 @@
    "buyer": "Rotherham Borough Council",
    "region": "Yorkshire and the Humber",
    "value": null,
-   "deadline": "2026-10-30T12:00:00+00:00",
+   "deadline": "2026-11-06T12:00:00+00:00",
    "first_seen": "2026-10-08",
    "category": "",
    "score": 2,
    "why": "\"net zero\" in summary, \"decarbonisation\" in summary",
-   "summary": "This procurement is for a Rotherham local area energy plan, or 'LAEP'.  A Rotherham LAEP will be expected to deliver the following:  \n•\tStakeholder Engagement with primary and secondary external stakeholders\n•\tData collection and analysis\n•\tModelling scenarios and pathways to net zero local area carbon dioxide emissions from the energy system in Rotherham.  \n•\tIdentifying, prioritising and refining projects and enabling actions required to achieve local and regional climate change mitigation goals.\n•\tDefining a monitoring and evaluation framework, comprising key indicators of progress against decarbonisation pathways and delivery, as follows: \n•\tA final report and executive summary for policy makers, conveying the scale and range of activity needed to achieve a net zero local energy system",
-   "link": "https://www.find-tender.service.gov.uk/Notice/090866-2026"
-  },
-  {
-   "title": "Station Gateway & King Street Investment & Delivery Framework",
-   "buyer": "Wigan Council",
-   "region": "North West",
-   "value": 100000,
-   "deadline": "2026-10-16T12:00:00+01:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 2,
-   "why": "\"regeneration\" in summary, \"town centre\" in summary",
-   "summary": "Wigan Council is seeking to commission a multidisciplinary consultancy team to prepare a deliverable, evidence-led and action-focused Station Gateway & King Street Investment & Delivery Framework.\nThe Station Gateway & King Street area represents one of the most significant regeneration opportunities within Wigan Borough and is a critical component of the emerging Wigan Town Centre Vision 2040.\nThe area acts as the principal arrival point into Wigan Town Centre and presents a significant opportunity to improve connectivity, unlock investment, support heritage-led regeneration, increase town centre living, strengthen economic activity and enhance Wigan's role as a regional centre.\nThe commission will build upon existing programme work, evidence and emerging studies including:\nHawkins\\Brown ",
-   "link": "https://www.find-tender.service.gov.uk/Notice/091194-2026"
+   "summary": "This procurement is for a Rotherham local area energy plan, or 'LAEP'.  A Rotherham LAEP will be expected to deliver the following: \n•\tStakeholder Engagement with primary and secondary external stakeholders\n•\tData collection and analysis\n•\tModelling scenarios and pathways to net zero local area carbon dioxide emissions from the energy system in Rotherham.\n•\tIdentifying, prioritising and refining projects and enabling actions required to achieve local and regional climate change mitigation goals.\n•\tDefining a monitoring and evaluation framework, comprising key indicators of progress against decarbonisation pathways and delivery, as follows:\n•\tA final report and executive summary for policy makers, conveying the scale and range of activity needed to achieve a net zero local energy system; es",
+   "link": "https://www.find-tender.service.gov.uk/Notice/096888-2026"
   },
   {
    "title": "Strategic Estates, Asset Management and Capital Project Consultancy Services",
@@ -728,32 +728,6 @@
    "why": "\"feasibility\" in summary",
    "summary": "The final date and time for the submission of bids is Wednesday 21st October 2026 at 11:00\n DO NOT apply directly to the buyer. \nAll tender information MUST be submitted through the Jaggaer eSourcing Portal. \nBrief Description of Requirement\nPhase 1\nThe objective of phase 1 is to assess the safety and risk considerations for deployment of up to 800 W AC mains output plug-in batteries in the UK context with acceptable electrical and fire safety risk. The study will inform technical standards adaptations and assess the feasibility of safe, plug-in batteries for UK domestic use. \nA relevant set of installation configurations will need to be considered in scope of the fire and electrical safety tests and will be finalised as part of the test protocol development for the study, in consultation ",
    "link": "https://www.find-tender.service.gov.uk/Notice/093969-2026"
-  },
-  {
-   "title": "Tŷ Pawb, Wrexham, Phase 2 Capital Development and Cultural Quarter Integration Project – Multidisciplinary  Technical Project Management and Design Services to end of RIBA Stage 6",
-   "buyer": "Wrexham County Borough Council",
-   "region": "Wales",
-   "value": 330000.0,
-   "deadline": "2026-10-16T17:00:00+01:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 1,
-   "why": "\"feasibility\" in summary",
-   "summary": "Wrexham County Borough Council wishes to appoint a suitably qualified and experienced multidisciplinary design team to progress the Tŷ Pawb Phase 2 Capital Development and Cultural Quarter Integration Project.  The work will involve taking the project from the point of a completed feasibility study through all subsequent RIBA work stages to the end of RIBA Stage 6 (Handover).  \nPlease see the Invitation to Tender (ITT) document, appendices and other supporting documents for full details of the proposed work. These have been published and are available on the eTenderWales (Bravo Solutions) online e-sourcing portal, which can be accessed through this web address: https://etenderwales.bravosolution.co.uk/. You will need to be registered as a supplier on both Find a Tender service (FTS) and eT",
-   "link": "https://www.find-tender.service.gov.uk/Notice/087549-2026"
-  },
-  {
-   "title": "New EV Depot - Architectural Designer Services in connection with construction of a new EV depot for AfC SEND Transport",
-   "buyer": "The Royal Borough of Kingston upon Thames",
-   "region": "Not stated",
-   "value": 300000.0,
-   "deadline": "2026-10-16T12:00:00+01:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 1,
-   "why": "\"feasibility\" in summary",
-   "summary": "Royal Borough of Kingston are conducting this Procurement to select an Architect  to progress RIBA stage 1 & 2 for the construction of a new EV depot for AfC SEN Transport services.  The proposed site identified by the Council is known as the car park site, Jubilee Way, Cox Lane, Chessington.\nThe Project is a major project to relocate the service from their current location to enable development and to allow for the required expansion of the fleet to deliver this key service.\nRBK has already carried out some capacity drawings, initial cost estimate and strategic Brief (RIBA stage 0). This has identified the site has potential to accommodate the needs of the user.  The purpose of this Procurement is to appoint an Architect who can progress the feasibility further up to and including RIBA st",
-   "link": "https://www.find-tender.service.gov.uk/Notice/088917-2026"
   },
   {
    "title": "Cyngor Gwynedd Framework Agreement for Recycling and / or Dispoasl of Plasterboard",

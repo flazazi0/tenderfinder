@@ -1,6 +1,32 @@
 {
- "updated": "2026-10-16T05:52:51.677219+00:00",
+ "updated": "2026-10-17T05:50:09.615970+00:00",
  "tenders": [
+  {
+   "title": "Specialist Consultancy Services for the South West Wales Datgloi Powering Cleaner Rivers Project",
+   "buyer": "Pembrokeshire County Council",
+   "region": "Wales",
+   "value": 250000.0,
+   "deadline": "2026-11-11T14:00:00+00:00",
+   "first_seen": "2026-10-17",
+   "category": "",
+   "score": 3,
+   "why": "Environmental issues consultancy",
+   "summary": "Pembrokeshire County Council on behalf of the South West Wales Corporate Joint Committee is developing the South West Wales DATGLOI Powering Cleaner Rivers project to explore how catchment-scale anaerobic digestion can support Wales’s climate change and nature recovery targets by bringing together agricultural nutrient management, renewable energy generation, river restoration and circular economy innovation within a single integrated model.\nThe project will focus on the potential development of anaerobic digestion infrastructure at a pilot site at Cwm Gwyrdd Nantycaws; the emerging circular economy park in Carmarthenshire. The study will assess how agricultural slurry, and other organic waste streams could be collected, processed and converted into renewable energy, while also supporting ",
+   "link": "https://www.find-tender.service.gov.uk/Notice/097911-2026"
+  },
+  {
+   "title": "Consultancy Services for an Independent Mixed-Use Viability, Market Demand and Development Options Review - Fleetwood Farm, Banks",
+   "buyer": "West Lancashire Borough Council",
+   "region": "North West",
+   "value": null,
+   "deadline": "2026-11-06T12:00:00+00:00",
+   "first_seen": "2026-10-17",
+   "category": "",
+   "score": 1,
+   "why": "\"regeneration\" in summary",
+   "summary": "West Lancashire Borough Council is seeking to appoint an independent consultant team to undertake an evidence-led review of the development potential of Fleetwood Farm, Banks.\nThe purpose of the commission is to provide objective, professionally independent and evidence-based advice to inform future Council decision-making, having regard to funding (GRA vs HRA), planning considerations, market demand, regeneration objectives, viability, public value, land control, deliverability and financial risk.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/097887-2026"
+  },
   {
    "title": "Growing Mid Wales Datgloi Project - Specialist Consultancy Services / Prosiect Datgloi Canolbarth Cymru sy'n Tyfu - Gwasanaethau Ymgynghori Arbenigol",
    "buyer": "Cyngor Sir Ceredigion County Council",

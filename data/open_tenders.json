@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-17T05:50:09.615970+00:00",
+ "last_run": "2026-10-18T05:49:53.962172+00:00",
  "tenders": {
   "ocds-h6vhtk-06f40d": {
    "title": "Supply, Removal & Installation of Junior Multiplay Equipment",
@@ -2653,23 +2653,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/087434-2026",
    "first_seen": "2026-10-08"
   },
-  "ocds-h6vhtk-06fa73": {
-   "title": "Legal Disrepair Surveyor Services",
-   "buyer": "West Lancashire Borough Council",
-   "value": 150000.0,
-   "deadline": "2026-10-17T17:00:00+01:00",
-   "published": "2026-09-15T16:00:52+01:00",
-   "category": "",
-   "cpv_codes": [
-    "50000000"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "North West",
-   "summary": "West Lancashire Borough Council invites tenders from suitably qualified and experienced surveyors to provide legal disrepair surveyor services in accordance with relevant UK housing legislation and standards. The appointed provider will support our legal and housing teams in assessing, reporting, and providing expert witness services for housing disrepair claims.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/087442-2026",
-   "first_seen": "2026-10-08"
-  },
   "ocds-h6vhtk-06fa90": {
    "title": "PDSE Patient Record Management Solution",
    "buyer": "University of Plymouth",
@@ -5227,23 +5210,6 @@
    "region": "North East",
    "summary": "Places for People and Anchor (collectively, the Employer) is jointly procuring a single supplier to provide a scalable, end-to-end electric vehicle charging infrastructure solution across the Places for People and Anchor property portfolios. The requirements include the supply and installation of charging hardware, retrofit works, commissioning, software and back-office management, payment systems, customer support, monitoring, servicing, maintenance, testing and the adoption or replacement of existing charge points.\nThe programme anticipates the delivery and management of approximately 20,000 charge points over an initial contract term of ten (10) years, with an option to extend for a further five (5) years. The estimated total contract value is £39.2 million. The commercial model will be",
    "link": "https://www.find-tender.service.gov.uk/Notice/095727-2026",
-   "first_seen": "2026-10-08"
-  },
-  "ocds-h6vhtk-0776d4": {
-   "title": "Supply & Maintenance of College Minibuses",
-   "buyer": "East Durham College",
-   "value": 250000.0,
-   "deadline": "2026-10-17T12:00:00+01:00",
-   "published": "2026-09-21T16:42:04+01:00",
-   "category": "",
-   "cpv_codes": [
-    "34114400"
-   ],
-   "type": "goods",
-   "status": "active",
-   "region": "Not stated",
-   "summary": "East Durham College invites tenders from suitably qualified and experienced vehicle leasing providers for the supply of five new wheelchair accessible minibuses under a fully maintained operating lease arrangement.\nTenderers are invited to submit proposals for a 5-year lease inclusive of a fully maintained package.\nThe college intends to award the contract to the supplier submitting the Most Advantageous Tender, considering both quality and price.\nContract Scope\nThe successful supplier shall provide:\n•\tFive (5) new minibuses.\n•\tDelivery to the College.\n•\tFully maintained lease agreement.\n•\tOngoing servicing and maintenance support.\n•\tBreakdown and recovery services.\n•\tMOT testing and statutory inspections.\n•\tFleet management support throughout the contract term.\nThe contract shall be fully",
-   "link": "https://www.find-tender.service.gov.uk/Notice/089335-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-0776d5": {
@@ -28738,6 +28704,51 @@
    "summary": "We are seeking a Provider to work in partnership with, who will provide therapeutic interventions and a resource library via patient facing digital tools and platforms for Children, Young People and/or their parents or carers. The tools will provide NICE recommended evidence-based interventions for common mental health presentations (with specified target populations e.g. age range). The tool with align with NICE guidance and activity and outcomes aligning with the NHSE CYP Access and Waiting Times Standard, with reporting directly into The Mental Health Services Data Set.",
    "link": "https://www.find-tender.service.gov.uk/Notice/098226-2026",
    "first_seen": "2026-10-17"
+  },
+  "ocds-h6vhtk-078a32": {
+   "title": "Grounds maintenance",
+   "buyer": "Cottenham Parish Council",
+   "value": 54000,
+   "deadline": "2026-11-16T12:00:00+00:00",
+   "published": "2026-10-17T10:35:03+01:00",
+   "category": "",
+   "cpv_codes": [
+    "77310000",
+    "77320000",
+    "77330000",
+    "77340000",
+    "77310000",
+    "77320000",
+    "77330000",
+    "77340000",
+    "77310000",
+    "77320000",
+    "77330000",
+    "77340000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "North East",
+   "summary": "Cottenham Parish Council is seeking a suitably experienced and reliable contractor to provide grounds maintenance, grass cutting and general village maintenance services throughout Cottenham, Cambridgeshire.\nThe contract will include routine grass cutting across designated areas of the village, including specialist cutting regimes for ecological and biodiversity areas, and comprehensive grounds maintenance at Cottenham Recreation Ground.\nThe Recreation Ground accommodates seasonal football and cricket pitches, children's playgrounds, a skatepark and a Multi-Use Games Area (MUGA). It is also home to Cottenham Village Hall, the sports pavilion, a pre-school and a nursery facility.\nThe contractor will be responsible for maintaining sports pitches to the standards required by the Parish Counci",
+   "link": "https://www.find-tender.service.gov.uk/Notice/098227-2026",
+   "first_seen": "2026-10-18"
+  },
+  "ocds-h6vhtk-078a33": {
+   "title": "Included Outside Publication Faith in Nature",
+   "buyer": "Natural England",
+   "value": 20000,
+   "deadline": "2026-11-03T17:00:00+00:00",
+   "published": "2026-10-17T12:59:37+01:00",
+   "category": "",
+   "cpv_codes": [
+    "73430000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "Not stated",
+   "summary": "To build on the existing work within Natural England that contributes towards strengthening the evidence base and building best practice where individuals and communities are engaged within nature recovery activities. This project will undertake a comparative analysis of case study sites within England with varying community engagement and nature recovery activities. Results from this project are aimed at allowing the  full power of engagement to be realised through community and individual level actions that can be taken to increase engagement of individuals and communities.  Tenderers wishing to apply for this work should contact gwen.harvey@naturalengland.org.uk or Sunita.Welch@naturalengland.org.uk to request the Outcomes for Nature are Better with People Phase 1 report to inform the b",
+   "link": "https://www.find-tender.service.gov.uk/Notice/098229-2026",
+   "first_seen": "2026-10-18"
   }
  }
 }

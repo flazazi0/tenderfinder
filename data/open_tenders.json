@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-18T05:49:53.962172+00:00",
+ "last_run": "2026-10-19T05:55:11.214418+00:00",
  "tenders": {
   "ocds-h6vhtk-06f40d": {
    "title": "Supply, Removal & Installation of Junior Multiplay Equipment",
@@ -625,23 +625,6 @@
    "region": "Scotland",
    "summary": "The choice of the provider will be selected by the parent/guardian of the child therefore the council is utilising an innovative Procured Service Arrangement (PSA) under the Light Touch Rules contained in Regulations 74-76 of the Public Contracts (Scotland) Regulations 2015.\nProviders of ELC are invited to join the PSA by submitting a tender to the Council. They will be appointed to the PSA if they can successfully demonstrate that they meet the National Standard, the Law, applicable guidance, and the Council’s procedural requirements and accept the Rates which have been set by the Council in relation to the delivery of funded hours.\nThe PSA will allow providers to be added over its 10 year term.",
    "link": "https://www.find-tender.service.gov.uk/Notice/085353-2026",
-   "first_seen": "2026-10-08"
-  },
-  "ocds-h6vhtk-06f58e": {
-   "title": "SWLSTG NHS Tolworth Hospital Window Manifestations",
-   "buyer": "South West London and St George's Mental Health NHS Trust",
-   "value": 80000.0,
-   "deadline": "2026-10-18T15:00:00+01:00",
-   "published": "2026-09-09T12:35:48+01:00",
-   "category": "",
-   "cpv_codes": [
-    "45441000"
-   ],
-   "type": "works",
-   "status": "active",
-   "region": "London",
-   "summary": "Design, supply, and installation of vinyl window manifestations at Tolworth Hospital redevelopment project.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/085356-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-06f5a3": {
@@ -15799,9 +15782,9 @@
   "ocds-h6vhtk-06aa82": {
    "title": "Neighbourhood Support Housing Services  LOT 3:  16 and 17 Year olds Accommodation and Support Service",
    "buyer": "Metropolitan borough of Bury",
-   "value": 800000.0,
-   "deadline": "2026-10-28T12:00:00+00:00",
-   "published": "2026-10-02T18:16:05+01:00",
+   "value": 6000000,
+   "deadline": "2026-10-30T12:00:00+00:00",
+   "published": "2026-10-18T18:59:03+01:00",
    "category": "",
    "cpv_codes": [
     "85100000",
@@ -15811,8 +15794,8 @@
    "type": "services",
    "status": "active",
    "region": "North West",
-   "summary": "Neighbourhood Support Housing Services for Young People age 16 and 17 will provide: Twelve (12) units of accommodation with intensive outcome focused support for young people, aged 16 to 17 years, who are experiencing or at risk of homelessness and may have complex emotional and behavioural needs in relation to trauma and adverse childhood experiences, including care leavers and unaccompanied asylum seekers.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/093568-2026",
+   "summary": "Neighbourhood Support Housing Services for Young People age 16 and 17 will provide: Five(5) units of accommodation with intensive outcome focused support for young people, aged 16 to 17 years, who are experiencing or at risk of homelessness and may have complex emotional and behavioural needs in relation to trauma and adverse childhood experiences, including care leavers and unaccompanied asylum seekers.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/098238-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-07803e": {
@@ -28749,6 +28732,80 @@
    "summary": "To build on the existing work within Natural England that contributes towards strengthening the evidence base and building best practice where individuals and communities are engaged within nature recovery activities. This project will undertake a comparative analysis of case study sites within England with varying community engagement and nature recovery activities. Results from this project are aimed at allowing the  full power of engagement to be realised through community and individual level actions that can be taken to increase engagement of individuals and communities.  Tenderers wishing to apply for this work should contact gwen.harvey@naturalengland.org.uk or Sunita.Welch@naturalengland.org.uk to request the Outcomes for Nature are Better with People Phase 1 report to inform the b",
    "link": "https://www.find-tender.service.gov.uk/Notice/098229-2026",
    "first_seen": "2026-10-18"
+  },
+  "ocds-h6vhtk-078a38": {
+   "title": "Grounds Maintenance Contract",
+   "buyer": "Wickersley Parish Council",
+   "value": null,
+   "deadline": "2026-11-20T12:00:00+00:00",
+   "published": "2026-10-18T10:00:37+01:00",
+   "category": "",
+   "cpv_codes": [
+    "50000000",
+    "77000000",
+    "92000000",
+    "98000000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "North East",
+   "summary": "Wickersley Parish Council's Grounds Maintenance Contract running from April 2027 to March 2030 is now out for tender.\nWe invite Expressions of Interest from contractors wishing to explore the opportunity to tender; please apply for a tender specification pack - to include brief details of relevant experience, company profile and activity - by e-mail to clerk@wickersleyparishcouncil.gov.uk.\nThe closing date for expressions of interest is 12 noon on 30th October 2026, with a tender submission deadline of 12 noon on Friday 20th November.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/098234-2026",
+   "first_seen": "2026-10-19"
+  },
+  "ocds-h6vhtk-078a39": {
+   "title": "Gardening and Landscaping Contract",
+   "buyer": "Wickersley Parish Council",
+   "value": null,
+   "deadline": "2026-11-20T12:00:00+00:00",
+   "published": "2026-10-18T10:07:55+01:00",
+   "category": "",
+   "cpv_codes": [
+    "77000000",
+    "92000000",
+    "98000000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "North East",
+   "summary": "GARDENING AND LANDSCAPING CONTRACT 2027 - 2030 \nWe invite Expressions of Interest from contractors wanting to tender for Wickersley Parish Council's Gardening and Landscaping Contract from 1st April 2027 until 31st March 2030. \nPlease apply for a tender specification pack and include brief details of relevant experience, company profile and activity to the Clerk, by email at clerk@wickersleyparishcouncil.gov.uk or by post at Wickersley Parish Council, Wickersley Community Centre & Library, 286 Bawtry Road, Wickersley, Rotherham S66 1JJ. \nIf you have any questions, please phone 01709 703270 or e-mail clerk@wickersleyparishcouncil.gov.uk.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/098235-2026",
+   "first_seen": "2026-10-19"
+  },
+  "ocds-h6vhtk-077b0d": {
+   "title": "For the provision of Out-of-Hour Emergency Service for households who are at risk of homelessness outside of standard operating times. Out of Hours emergency housing options telephone service",
+   "buyer": "Oldham Metropolitan Borough Council",
+   "value": null,
+   "deadline": "2026-11-16T17:00:00+00:00",
+   "published": "2026-10-18T19:22:34+01:00",
+   "category": "",
+   "cpv_codes": [
+    "79510000",
+    "98340000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "North West",
+   "summary": "To meet legal requirements to provide an out-of-hour emergency service for households who are at risk of homelessness outside of standard operating times. Out of Hours emergency housing options telephone service. The successful contractor will undertake the duties outlined within the Out of Hours Contract enabled the Local Authority to continue to fulfil its statutory responsibilities and provide emergency out of hours housing advice and support. The Out of Hours Emergency Homelessness Support Service is a telephone-based service that residents can contact outside of usual office hours: Monday - Friday 5pm-9am overnight support, and Saturday - Sunday 24hours support inclusive of bank holidays.\nBased on historical spend it is estimated the new contract spend will be circa £125,000  per annu",
+   "link": "https://www.find-tender.service.gov.uk/Notice/098239-2026",
+   "first_seen": "2026-10-19"
+  },
+  "ocds-h6vhtk-078a3c": {
+   "title": "Home Transition Bed Service - Winter Pressures",
+   "buyer": "North Tyneside Borough Council",
+   "value": 161780,
+   "deadline": "2026-10-23T09:00:00+01:00",
+   "published": "2026-10-18T20:57:54+01:00",
+   "category": "",
+   "cpv_codes": [
+    "85000000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "North East",
+   "summary": "North Tyneside Council are seeking a supplier for their Home Transition Bed Service which is a time limited pilot providing 10 short-term residential care home beds within North Tyneside.\nThe service will enable safe and timely discharge from hospital, increase system flow and reduce the risk of people waiting for care in inappropriate hospital settings, including corridors, during periods of winter pressure. The initial service period may be extended by the Authority for up to a further four months.\nThe service is being procured under the Light Touch Regime under the Procurement Act 2023 - Below Threshold.\nValue is £161, 780",
+   "link": "https://www.find-tender.service.gov.uk/Notice/098242-2026",
+   "first_seen": "2026-10-19"
   }
  }
 }

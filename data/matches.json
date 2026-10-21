@@ -1,6 +1,58 @@
 {
- "updated": "2026-10-20T05:54:07.950198+00:00",
+ "updated": "2026-10-21T05:54:11.262173+00:00",
  "tenders": [
+  {
+   "title": "Tech support for the dev. of the PCF requirements of the NHS Supplier Roadmap",
+   "buyer": "NHS England",
+   "region": "London",
+   "value": 96000.0,
+   "deadline": "2026-11-09T12:00:00+00:00",
+   "first_seen": "2026-10-21",
+   "category": "",
+   "score": 5,
+   "why": "General management consultancy, \"net zero\" in summary, \"decarbonisation\" in summary",
+   "summary": "In 2021, the NHS Public Board approved a roadmap to drive supplier decarbonisation and support the achievement of the NHS Net Zero target. The 2028 milestone of this roadmap outlines new requirements to be introduced overseeing the provision of carbon footprints for individual products supplied to the NHS. The 2025 Five years of a greener NHS progress report refined the scope of this milestone to high-emission areas, particularly pharmaceuticals, medical technologies, and digital where more granular carbon insights can deliver value on the NHS’s journey to net zero. There isn’t currently a single methodology to measure product level emissions, and further work is required to define the technical approach that will deliver the expected benefits of this policy. This procurement exercise outl",
+   "link": "https://www.find-tender.service.gov.uk/Notice/098882-2026"
+  },
+  {
+   "title": "The Provision of Equipping Consultancy Services",
+   "buyer": "Frimley Health NHS Foundation Trust",
+   "region": "South East",
+   "value": 166019.0,
+   "deadline": "2026-11-16T10:00:00+00:00",
+   "first_seen": "2026-10-21",
+   "category": "",
+   "score": 5,
+   "why": "General management consultancy, \"business case\" in summary, \"outline business case\" in summary",
+   "summary": "Frimley Health NHS Foundation Trust (“the Trust”) is seeking to procure a provider for the provision of equipping consultancy services in connection with the New Frimley Park Hospital programme (Ref C476248).\nThe procurement is for a comprehensive equipping advisory service covering RIBA Stage 2 (Concept Design) and RIBA Stage 3 (Spatial Coordination), with an option to extend into RIBA Stage 4. The service will support the development of the Outline Business Case.\nThe scope includes, but is not limited to, the development of the Equipping Strategy and Equipment Governance Framework, aligned to New Hospital Programme and Hospital 2.0 guidance. It also covers equipment categorisation (Group 1, 2 and 3) in line with the NHP categorisation strategy, and the development and management of the M",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099188-2026"
+  },
+  {
+   "title": "Tees Bird Mapping Project",
+   "buyer": "Natural England",
+   "region": "North East",
+   "value": 33330,
+   "deadline": "2026-11-13T12:00:00+00:00",
+   "first_seen": "2026-10-21",
+   "category": "",
+   "score": 3,
+   "why": "Environmental issues consultancy",
+   "summary": "The Teesmouth & Cleveland Coast SSSI, SPA and Ramsar support assemblages of over 20K over-wintering coastal birds alongside specific SSSI & SPA qualifying bird speices. This project will produce fine scale maps and analysis of designated bird species usage of supporting habitats, FLL ands brownfield habitats. A report detailing the methods, results and discussions must be provided, along with GIS mapping layers that allows interrogation of the analysis and a short guidance document on the use of the mapping tool.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/098737-2026"
+  },
+  {
+   "title": "Askham Bryan College - Provision for External Audit Services",
+   "buyer": "Askham Bryan College",
+   "region": "Not stated",
+   "value": 475000.0,
+   "deadline": "2026-11-16T12:00:00+00:00",
+   "first_seen": "2026-10-21",
+   "category": "",
+   "score": 1,
+   "why": "\"value for money\" in summary",
+   "summary": "Askham Bryan College is seeking to appoint an experienced provider of External Audit Services following the expiry of its current contract. The College requires a high-quality audit service that will deliver the statutory audit and associated assurance engagements, while providing independent assurance on financial reporting, regularity, governance, and compliance. The procurement will ensure value for money and the appointment of a suitably qualified auditor with expertise in the Further Education sector.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/098931-2026"
+  },
   {
    "title": "NCC1999 NE Rural Growth Programme Evaluation",
    "buyer": "Northumberland County Council",
@@ -50,8 +102,8 @@
    "category": "",
    "score": 3,
    "why": "Business development consultancy",
-   "summary": "Business North East is a new region-wide approach to business support developed by the North East Mayoral Strategic Authority (North East MSA) in partnership with the seven constituent local authorities. It will provide a simplified, coordinated and accessible business support system for entrepreneurs and businesses across the North East, supporting business\nThe model will include a regional hub, use local authority network to maintaining strong relationships with businesses.\nThe wider Business North East programme is expected to operate through five integrated areas of activity across the business lifecycle:\nInspire - increase entrepreneurial awareness and aspiration, particularly amongst younger people and underrepresented groups.\nExplore - improve enterprise readiness and strengthen the",
-   "link": "https://www.find-tender.service.gov.uk/Notice/098708-2026"
+   "summary": "Business North East is a new region-wide approach to business support developed by the North East Mayoral Strategic Authority (North East MSA) in partnership with the seven constituent local authorities. It will provide a simplified, coordinated and accessible business support system for entrepreneurs and businesses across the North East.\nThe model will include a regional hub and use local authority networks to maintain strong relationships with businesses.\nThe wider Business North East programme is expected to operate through five integrated areas of activity across the business lifecycle:\nInspire - increase entrepreneurial awareness and aspiration, particularly amongst younger people and underrepresented groups.\nExplore - improve enterprise readiness and strengthen the quality of busines",
+   "link": "https://www.find-tender.service.gov.uk/Notice/098898-2026"
   },
   {
    "title": "Specialist Consultancy Services for the South West Wales Datgloi Powering Cleaner Rivers Project",
@@ -481,19 +533,6 @@
    "why": "Evaluation consultancy",
    "summary": "This project will help Historic England to provide advice for asset owners and managers whose assets are threatened by climate change on methods for continuous and long-term monitoring of their sites. \nHistoric England will use the results of this project to prepare advice that will help owners and managers to identify trigger points for changes in management approach to increase resilience or manage loss.",
    "link": "https://www.find-tender.service.gov.uk/Notice/089824-2026"
-  },
-  {
-   "title": "West Yorkshire District Travel Diary Survey",
-   "buyer": "West Yorkshire Combined Authority",
-   "region": "Yorkshire and the Humber",
-   "value": 250000,
-   "deadline": "2026-10-22T13:00:00+00:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 3,
-   "why": "Economic research",
-   "summary": "West Yorkshire Combined Authority (WYCA) and Local Authorities require high-quality, robust data on the travel behaviour of residents across West Yorkshire to inform policy-making; support the development, appraisal and evaluation of transport strategies and schemes; and to understand the wider impacts of transport investment and policy decisions. The Combined Authority, therefore, seeks to appoint a competent Consultant (Consultancy firm) to provide a comprehensive and representative understanding of travel behaviour, including travel patterns, mode choice, accessibility, and distributional impacts to fully support transport planning and evaluation at a West Yorkshire level through the West Yorkshire Travel Survey (WY TRADS).",
-   "link": "https://www.find-tender.service.gov.uk/Notice/090658-2026"
   },
   {
    "title": "Board Effectiveness Review",

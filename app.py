@@ -14,7 +14,7 @@ import streamlit as st
 MATCHES_FILE = os.path.join("data", "matches.json")
 NEW_DAYS = 2  # how long a tender keeps its "New" label
 
-st.set_page_config(page_title="Hope you are liking the website, feel free to give me a shout when you need another tool ", page_icon="📋", layout="centered")
+st.set_page_config(page_title="Tender Finder", page_icon="📋", layout="centered")
 
 
 @st.cache_data(ttl=600)
@@ -41,7 +41,7 @@ def as_csv(rows):
 
 # ---------------------------------------------------------------------------
 
-st.title("Tender Finder")
+st.title("Hope you are liking the website, feel free to give me a shout when you need another tool")
 
 if not os.path.exists(MATCHES_FILE):
     st.info("No data yet. The first update runs tomorrow morning.")

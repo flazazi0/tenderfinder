@@ -41,7 +41,7 @@ def as_csv(rows):
 
 # ---------------------------------------------------------------------------
 
-st.title("Hope you are liking the website, feel free to give me a shout when you need another tool")
+st.title("feel free to give me a shout when you need another tool ;)")
 
 if not os.path.exists(MATCHES_FILE):
     st.info("No data yet. The first update runs tomorrow morning.")

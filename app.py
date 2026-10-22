@@ -55,7 +55,7 @@ def as_csv(rows):
 
 # ---------------------------------------------------------------------------
 
-st.title(";)")
+st.title("Welcome to the Tender Finder")
 
 if not os.path.exists(MATCHES_FILE):
     st.info("No data yet. The first update runs tomorrow morning.")

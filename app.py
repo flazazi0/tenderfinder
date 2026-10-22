@@ -16,6 +16,14 @@ NEW_DAYS = 2  # how long a tender keeps its "New" label
 
 st.set_page_config(page_title="Tender Finder", page_icon="📋", layout="centered")
 
+st.markdown("""
+<style>
+.stApp {
+    background: url("https://raw.githubusercontent.com/flazazi0/tenderfinder/main/background.png") center / cover fixed;
+}
+</style>
+""", unsafe_allow_html=True)
+
 
 @st.cache_data(ttl=600)
 def load(modified_time):

@@ -1,6 +1,84 @@
 {
- "updated": "2026-10-21T05:54:11.262173+00:00",
+ "updated": "2026-10-22T05:54:24.950931+00:00",
  "tenders": [
+  {
+   "title": "Provision of Provision of a Cemetery Site Feasibility Assessment and Wider Site Search",
+   "buyer": "Peterborough City Council",
+   "region": "East of England",
+   "value": 40000,
+   "deadline": "2026-11-10T10:00:00+00:00",
+   "first_seen": "2026-10-22",
+   "category": "",
+   "score": 6,
+   "why": "Feasibility study, advisory service, analysis, \"feasibility\" in title",
+   "summary": "Peterborough City Council is seeking to appoint a suitably experienced consultant to undertake a cemetery site feasibility assessment and strategic search for alternative cemetery sites within the Peterborough area.\nThe commission comprises two mandatory workstreams:\nA detailed geo-environmental, geological, hydrogeological, planning and deliverability assessment of a nominated site; and a comprehensive search, screening and comparative appraisal of alternative sites capable of meeting the Council's future burial needs.\nThe appointed consultant will assess the suitability of the nominated site for cemetery development, identify any significant constraints, determine the likely extent of usable burial land, and recommend any further investigations required. In parallel, the consultant will ",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099272-2026"
+  },
+  {
+   "title": "Tech support for the dev. of the PCF requirements of the NHS Supplier Roadmap",
+   "buyer": "NHS England",
+   "region": "London",
+   "value": 96000.0,
+   "deadline": "2026-11-11T12:00:00+00:00",
+   "first_seen": "2026-10-22",
+   "category": "",
+   "score": 5,
+   "why": "General management consultancy, \"net zero\" in summary, \"decarbonisation\" in summary",
+   "summary": "In 2021, the NHS Public Board approved a roadmap to drive supplier decarbonisation and support the achievement of the NHS Net Zero target. The 2028 milestone of this roadmap outlines new requirements to be introduced overseeing the provision of carbon footprints for individual products supplied to the NHS. The 2025 Five years of a greener NHS progress report refined the scope of this milestone to high-emission areas, particularly pharmaceuticals, medical technologies, and digital where more granular carbon insights can deliver value on the NHS’s journey to net zero. There isn’t currently a single methodology to measure product level emissions, and further work is required to define the technical approach that will deliver the expected benefits of this policy. This procurement exercise outl",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099715-2026"
+  },
+  {
+   "title": "T26-112BUS Design and Delivery of the NW Community Wealth Building Programme",
+   "buyer": "Derry City and Strabane District Council",
+   "region": "Northern Ireland",
+   "value": null,
+   "deadline": "2026-11-20T12:00:00+00:00",
+   "first_seen": "2026-10-22",
+   "category": "",
+   "score": 3,
+   "why": "Business and management consultancy",
+   "summary": "Derry City and Strabane District Council (DCSDC), through the Local Economic Partnership (LEP), is supporting the delivery of a Community Wealth Building (CWB) Programme to support inclusive economic growth, increase local wealth retention and contribute to reducing economic disparities across the Derry City and Strabane District Council area. Community Wealth Building is an approach to local economic development that seeks to build stronger, fairer and more resilient local economies by increasing community ownership and control of local assets, wealth and economic opportunities. The Council wishes to procure a suitably qualified delivery partner or consortium of partners or specialist providers capable of supporting the development and implementation of the Community Wealth Building Progr",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099315-2026"
+  },
+  {
+   "title": "ITT - Demonstrating the impact of Historic England’s planning advice - UID 368",
+   "buyer": "Historic England",
+   "region": "South West",
+   "value": 40000,
+   "deadline": "2026-11-19T09:30:00+00:00",
+   "first_seen": "2026-10-22",
+   "category": "",
+   "score": 3,
+   "why": "Evaluation consultancy",
+   "summary": "Historic England seeks a supplier to undertake a focused evaluation of whether its advice on Grade II listed building consent (LBC) applications involving statutory ‘relevant works’ leads to material changes in development proposals. The study will compare applications receiving Historic England advice with closely matched Grade II applications that did not receive that advice. The principal outcome to be evaluated is the material amendment of the proposal in a way consistent with heritage concerns, rather than the ultimate grant or refusal of consent.\nFull details of this project can be found in the Invitation to Tender document.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099593-2026"
+  },
+  {
+   "title": "Scottish Approach to Change Evaluation and Learning Partner",
+   "buyer": "Healthcare Improvement Scotland",
+   "region": "Scotland",
+   "value": null,
+   "deadline": "2026-11-25T12:00:00+00:00",
+   "first_seen": "2026-10-22",
+   "category": "Research and development consultancy services",
+   "score": 3,
+   "why": "\"evaluation\" in title",
+   "summary": "We are seeking to commission a suitably qualified and experienced provider to design and deliver a robust, independent evaluation of the Scottish Approach to Change. The evaluation should provide objective challenge, learning, reflection and assurance regarding the implementation and impact of the programme, including the extent to which it continues to embody its core principles of openness, collaboration and responsiveness to system feedback.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099661-2026"
+  },
+  {
+   "title": "Ethnographic Study – Healthy Streets",
+   "buyer": "Birmingham City Council",
+   "region": "West Midlands",
+   "value": 41666.67,
+   "deadline": "2026-11-06T12:00:00+00:00",
+   "first_seen": "2026-10-22",
+   "category": "",
+   "score": 3,
+   "why": "Economic research",
+   "summary": "Birmingham City Council (the Council) is seeking to appoint an organisation for the provision of Ethnographic Study – Healthy Streets to deliver an ethnographic research study exploring resident lived experience of the issue of car dependency in Birmingham.\nThe Public Health Built & Natural Environment team intends to commission a specialist organisation to undertake an ethnographic research study exploring residents’ lived experiences of car dependency in Birmingham. The study forms part of the wider Healthy Streets: Public Health Car Dependency Study and will support delivery of the Birmingham Transport Plan and Road Harm Reduction Strategy.\nThe research will explore how social, economic, environmental and street conditions influence travel choices, including barriers to walking, cycling",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099731-2026"
+  },
   {
    "title": "Tech support for the dev. of the PCF requirements of the NHS Supplier Roadmap",
    "buyer": "NHS England",
@@ -253,13 +331,13 @@
    "buyer": "Wrexham University",
    "region": "Wales",
    "value": 100000.0,
-   "deadline": "2026-10-27T12:00:00+00:00",
+   "deadline": "2026-10-30T12:00:00+00:00",
    "first_seen": "2026-10-14",
    "category": "",
    "score": 3,
    "why": "\"feasibility\" in title",
    "summary": "Wrexham University invites quotations from suitably qualified consultants, or consultant teams under a single lead consultant, to undertake a proportionate RIBA Stage 1 Feasibility Study for William Aston Hall on the Plas Coch campus, Wrexham. The Hall is a principal cultural and civic venue, operated in partnership with Theatr Clwyd.\nThe study will appraise the existing venue and develop and compare options covering the audience journey, the auditorium, technical theatre, backstage, access and inclusion, heritage constraints, building services and operating implications, with broad cost ranges, phasing advice and delivery risks.\nThe maximum budget for the Stage 1 core services is £50,000 including VAT. Quotations above this figure will be rejected. The study is funded by the Arts Council ",
-   "link": "https://www.find-tender.service.gov.uk/Notice/097139-2026"
+   "link": "https://www.find-tender.service.gov.uk/Notice/099678-2026"
   },
   {
    "title": "1073434028 T1427 Strategy for Harmonising Automatic Current Limitation Across Electric Rolling Stock in GB",
@@ -353,19 +431,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/095507-2026"
   },
   {
-   "title": "RFQ 2026/41 - Regeneration and Economic Development Strategy 2027 - 2030",
-   "buyer": "Newry, Mourne and Down District Council (NMD)",
-   "region": "Not stated",
-   "value": 29900.0,
-   "deadline": "2026-10-23T12:00:00+01:00",
-   "first_seen": "2026-10-10",
-   "category": "",
-   "score": 6,
-   "why": "General management consultancy, \"regeneration\" in title",
-   "summary": "Newry, Mourne and Down District Council “Council” is the third largest Council in Northern Ireland. It is strategically located on the Dublin/Belfast economic corridor, the district has an estimated population of 181,368, a coastline of approx. 150 km and encompasses an area of 1,634 km squared. The district boasts the Mourne Gullion Strangford UNESCO Global Geopark that comprises three Areas of Outstanding Natural Beauty, Ring of Gullion, Mourne and Strangford and Lecale. \nNewry, Mourne and Down is a place where ambition thrives. Our mission is “To deliver sustainable services and empower our communities through transparent governance and collaboration”.\nWe are proud of what we have achieved and are very excited about future projects and partnerships. Council strives to deliver for its ci",
-   "link": "https://www.find-tender.service.gov.uk/Notice/095763-2026"
-  },
-  {
    "title": "Well-Led Review of Avon and Wiltshire Mental Health Partnership NHS Trust",
    "buyer": "Avon and Wiltshire Mental Health Partnership NHS trust",
    "region": "Not stated",
@@ -457,19 +522,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/094286-2026"
   },
   {
-   "title": "Arfarniad Opsiynau Tŷ Coch Red House Options Appraisal",
-   "buyer": "Merthyr Tydfil County Borough Council",
-   "region": "Wales",
-   "value": 25000.0,
-   "deadline": "2026-10-23T12:00:00+01:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 5,
-   "why": "\"options appraisal\" in title, \"regeneration\" in summary, \"town centre\" in summary",
-   "summary": "Mae Merthyr Tudful yn Ceisio Ceisiadau gan gwmnïau profiadol i gyflwyno arfarniad o opsiynau ar gyfer Hen Neuadd y Dref yng Nghanol Tref Merthyr Tudful (a elwir bellach yn Redhouse). Bydd y comisiwn yn darparu sylfaen dystiolaeth i lywio penderfyniadau buddsoddi yn y dyfodol, ceisiadau am gyllid a chynllunio busnes, gan sicrhau bod yr ased yn cyfrannu at uchelgeisiau adfywio ehangach Canol Tref Merthyr Tudful.  Merthyr Tydfil is Seeking Bids from experienced companies to deliver an options appraisal for the Old Town Hall in Merthyr Tydfil Town Centre (now known as the Redhouse).  The commission will provide an evidence base to inform future investment decisions, funding applications and business planning, ensuring the asset contributes to the wider regeneration ambitions of Merthyr Tydfil ",
-   "link": "https://www.find-tender.service.gov.uk/Notice/091804-2026"
-  },
-  {
    "title": "Corporate PMO Assurance Framework and Operating Model",
    "buyer": "City of Bradford Metropolitan District Council",
    "region": "Yorkshire and the Humber",
@@ -483,30 +535,17 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/092245-2026"
   },
   {
-   "title": "EBCT 469 - Employment Land Needs Assessment",
-   "buyer": "Erewash Borough Council",
-   "region": "East Midlands",
-   "value": 40000.0,
-   "deadline": "2026-10-23T12:00:00+01:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 3,
-   "why": "Urban planning",
-   "summary": "Erewash Borough Council (EBC) wishes to commission an Employment Land Needs Assessment (ENLA) to support preparation of its new Local Plan which will contribute to establishing the Borough's development needs.\nThe objective is to provide up to date evidence on economic prospects and forecasts of the scale of future business space needs for the Borough of Erewash. This will involve assessment of prevailing market conditions, assessment of existing sites or concentrations of employment land, and estimating the quantitative need for future business space within the borough up to 2040.\nFull details can be found within the tender documents.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/088946-2026"
-  },
-  {
    "title": "Western Range Planning Communications Consultant",
    "buyer": "British Museum",
    "region": "London",
    "value": 250000,
-   "deadline": "2026-10-23T15:00:00+01:00",
+   "deadline": "2026-10-27T15:00:00+00:00",
    "first_seen": "2026-10-08",
    "category": "",
    "score": 3,
    "why": "Urban planning",
    "summary": "The British Museum brings together the history of humankind, all cultures of the world spanning millennia. It connects us to our past and to each other. It is a place where everyone is welcome, where many voices meet to understand, and to question what brings us together and what separates us. It is a place of exploration and a place of inspiration. The collection that the Museum holds in trust for the world is of unparalleled breadth, depth, beauty and significance. A truly global resource, free and available to everyone. The Museum's role is to enhance and make accessible the collection through research, through interpretation, through display, through lending, and to share what it learns, as well as the process of learning, with others. With this matchless position comes a responsibilit",
-   "link": "https://www.find-tender.service.gov.uk/Notice/089801-2026"
+   "link": "https://www.find-tender.service.gov.uk/Notice/099543-2026"
   },
   {
    "title": "ITT - Recording techniques for climate-driven loss - UID 344",
@@ -533,19 +572,6 @@
    "why": "Evaluation consultancy",
    "summary": "This project will help Historic England to provide advice for asset owners and managers whose assets are threatened by climate change on methods for continuous and long-term monitoring of their sites. \nHistoric England will use the results of this project to prepare advice that will help owners and managers to identify trigger points for changes in management approach to increase resilience or manage loss.",
    "link": "https://www.find-tender.service.gov.uk/Notice/089824-2026"
-  },
-  {
-   "title": "Board Effectiveness Review",
-   "buyer": "THE FINANCIAL REPORTING COUNCIL LIMITED",
-   "region": "West Midlands",
-   "value": 75000,
-   "deadline": "2026-10-23T12:00:00+01:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 3,
-   "why": "Business and management consultancy",
-   "summary": "BACKGROUND\nThe Financial Reporting Council (FRC) regulates auditors, accountants and actuaries and sets the UK's Corporate Governance and Stewardship Codes. As the Competent Authority for audit in the UK, we set auditing and ethical standards and monitor and enforce audit quality. \nThe purpose of the FRC is to serve the public interest and support UK economic growth by upholding high standards of corporate governance, corporate reporting, audit and actuarial work. \nThe FRC's core objectives are to promote high-quality corporate governance and reporting, support effective audit and actuarial work, hold relevant parties to account through proportionate supervision and enforcement, and contribute to well-functioning UK capital markets in the public interest.\nPROJECT REQUIREMENTS\nThe Board of ",
-   "link": "https://www.find-tender.service.gov.uk/Notice/091391-2026"
   },
   {
    "title": "Torus Job Evaluation and Salary Benchmarking Service",
@@ -611,19 +637,6 @@
    "why": "Business and management consultancy",
    "summary": "City of York Council are seeking a contractor to deliver the 'Supported Housing Needs Assessment' contract.",
    "link": "https://www.find-tender.service.gov.uk/Notice/092786-2026"
-  },
-  {
-   "title": "Provision and Delivery of an Annual Town Centre Soapbox Racing Event 2027-2029",
-   "buyer": "Kettering Town Council",
-   "region": "North East",
-   "value": 160000,
-   "deadline": "2026-10-23T12:00:00+01:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 3,
-   "why": "\"town centre\" in title",
-   "summary": "Kettering Town Council invites tenders from suitably capable event operators to plan, promote, manage and deliver an annual public soapbox racing event in Kettering town centre in 2027, 2028 and 2029.\nThe Council is seeking a safe, professionally managed and visually engaging event that attracts participants and spectators, supports town-centre footfall and creates a distinctive annual experience for Kettering.\nThe successful supplier will provide an end-to-end event management service. This will include event design and race operation; event planning and project management; participant recruitment, registration and race management; specialist race infrastructure; event safety, risk assessment and emergency planning; liaison in relation to traffic management, road closures and relevant per",
-   "link": "https://www.find-tender.service.gov.uk/Notice/093054-2026"
   },
   {
    "title": "West Midlands Violence Reduction Strategy 2027-2030",

@@ -21,6 +21,9 @@ st.markdown("""
 .stApp {
     background: url("https://raw.githubusercontent.com/flazazi0/tenderfinder/main/background.png") center / cover fixed;
 }
+header[data-testid="stHeader"] {
+    background: transparent;
+}
 .stApp a {
     color: black !important;
 }

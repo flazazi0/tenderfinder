@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-22T05:54:24.950931+00:00",
+ "last_run": "2026-10-23T05:55:16.498499+00:00",
  "tenders": {
   "ocds-h6vhtk-06f40d": {
    "title": "Supply, Removal & Installation of Junior Multiplay Equipment",
@@ -73,58 +73,6 @@
    "region": "Scotland",
    "summary": "FLS has established a Dynamic Purchasing System (DPS) for the provision of Invasive Vegetation Control (IVC) services across Scotland’s national forests and land, which commenced 8th September 2026.\nA Dynamic Purchasing System (DPS) is an electronic system established by a contracting authority to purchase commonly used goods, works or services in accordance with the Public Contracts (Scotland) Regulations 2015. Admittance to a DPS gives participants the opportunity to subsequently bid for relevant future opportunities which are procured through the DPS.\nThe purpose of the DPS is to provide a compliant route to market for FLS to procure services which are unable to be provided through existing contracts or to replace contracts which have terminated or expired.\nThe scope of the DPS is prima",
    "link": "https://www.find-tender.service.gov.uk/Notice/084828-2026",
-   "first_seen": "2026-10-08"
-  },
-  "ocds-h6vhtk-0671f4": {
-   "title": "Ground Care, Agricultural and Plant Equipment for Defra Group Fleet Services",
-   "buyer": "ENVIRONMENT AGENCY",
-   "value": 69876145.0,
-   "deadline": "2026-10-22T12:00:00+01:00",
-   "published": "2026-09-08T12:57:47+01:00",
-   "category": "",
-   "cpv_codes": [
-    "16600000",
-    "42420000",
-    "43262100",
-    "34223300",
-    "43260000",
-    "16700000",
-    "16310000",
-    "34520000",
-    "34521000",
-    "16600000",
-    "42420000",
-    "43262100",
-    "34223300",
-    "43260000",
-    "16700000",
-    "16310000",
-    "34520000",
-    "34521000",
-    "16600000",
-    "42420000",
-    "43262100",
-    "34223300",
-    "43260000",
-    "16700000",
-    "16310000",
-    "34520000",
-    "34521000",
-    "16600000",
-    "42420000",
-    "43262100",
-    "34223300",
-    "43260000",
-    "16700000",
-    "16310000",
-    "34520000",
-    "34521000"
-   ],
-   "type": "goods",
-   "status": "active",
-   "region": "Not stated",
-   "summary": "Defra Group Fleet Services requires modern, sustainable, and optimised ground care, agricultural and plant equipment to support operational delivery across the group.\nThe purpose of this project is to establish long-term, Defra group-wide contract(s) for the supply of ground care, agricultural and plant equipment, led by the Environment Agency (as the main customer), with access available for the whole group. The contract(s) will provide a consistent, streamlined, and effective approach to sourcing ground care, agricultural and plant assets, ensuring operational readiness across Defra group sites. \nThe procurement is split into 4 lots. The Authority is committed to supporting SME participation. Regional lotting was considered during procurement design but was not adopted due to operational",
-   "link": "https://www.find-tender.service.gov.uk/Notice/084861-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-05cc67": {
@@ -429,8 +377,8 @@
    "title": "Hartpury University & Hartpury College of Further Education - Total Waste Management Services",
    "buyer": "Hartpury College",
    "value": 600000.0,
-   "deadline": "2026-10-22T12:00:00+01:00",
-   "published": "2026-10-06T14:30:07+01:00",
+   "deadline": "2026-10-28T17:00:00+00:00",
+   "published": "2026-10-22T11:06:27+01:00",
    "category": "",
    "cpv_codes": [
     "90500000"
@@ -439,7 +387,7 @@
    "status": "active",
    "region": "Not stated",
    "summary": "Hartpury wishes:\n•\tTo pursue sustainable waste management solutions by promoting best practice and applying the waste hierarchy\n•\tTo manage waste costs where possible through: generating an income from its waste materials, utilising segregated waste management systems to ensure long term sustainability of its waste management practices and innovation where possible.\n•\tTo ensure waste management collection systems are flexible and easy to communicate to allow for changes in the waste industry and legislation.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/094312-2026",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099863-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-06f5d9": {
@@ -515,23 +463,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/093076-2026",
    "first_seen": "2026-10-08"
   },
-  "ocds-h6vhtk-06a463": {
-   "title": "MET POLICE COUPA EVENT #2753 Provision of Fleet Workshop Equipment and Tools Maintenance Services (Inspection, Calibration, Service & Repair)",
-   "buyer": "Mayor's Office for Policing and Crime",
-   "value": 4500000,
-   "deadline": "2026-10-22T12:00:00+01:00",
-   "published": "2026-09-10T11:50:34+01:00",
-   "category": "",
-   "cpv_codes": [
-    "50433000"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "London",
-   "summary": "MPS Fleet Services is seeking to appoint a single Supplier to provide inspection, calibration, servicing, maintenance and repair services for fleet workshop equipment and tools. The requirement also includes associated certification, technical support and the supply of parts and replacement equipment where required.\nThe Services will be delivered across MPS locations within the London area, including relevant mobile workshop and service assets. All submitted prices must be provided as net values, excluding VAT.\nA suite of Invitation to Tender (ITT) documents is available to download through the MPS e-Tendering platform, Coupa. Bidders should refer to Annex B, Statement of Requirements, for a comprehensive description of the scope, service standards and contractual requirements.\nThrough thi",
-   "link": "https://www.find-tender.service.gov.uk/Notice/085810-2026",
-   "first_seen": "2026-10-08"
-  },
   "ocds-h6vhtk-06c3a2": {
    "title": "London’s Violence Reduction Unit (VRU) MyEnds 3.0 Programme",
    "buyer": "Mayors Office For Policing And Crime",
@@ -547,25 +478,6 @@
    "region": "London",
    "summary": "MyEnds 3.0 is an evolved version of the flagship VRU MyEnds programme which will run from April 2027 until March 2029. This new iteration will allow us to implement key learning from the MyEnds programmes and strengthen the key components of the overall programme design, optimising innovation with more targeted strategic alignment. \nThe MyEnds programme utilises a hyper-local approach to address needs in neighbourhoods across the capital that are most affected by high and sustained levels of violence. The core model endorsed by the VRU for this programme is based on the empowerment of communities, recognising the critical role and collective impact community stakeholders have in local violence reduction initiatives. This is achieved through the delivery of key activity strands, including s",
    "link": "https://www.find-tender.service.gov.uk/Notice/085818-2026",
-   "first_seen": "2026-10-08"
-  },
-  "ocds-h6vhtk-06f6cd": {
-   "title": "Provision of Marine Electrical and Mechanical Services",
-   "buyer": "Shetland Islands Council (Utilities)",
-   "value": null,
-   "deadline": "2026-10-22T12:00:00+01:00",
-   "published": "2026-09-10T13:14:11+01:00",
-   "category": "Mechanical and electrical engineering services",
-   "cpv_codes": [
-    "71334000",
-    "50710000",
-    "50532000"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "Scotland",
-   "summary": "The scope of the procurement is the provision of Marine Electrical and Mechanical Services at Sullom Voe Terminal, Shetland including the crude oil loading jetties, and across the Council’s ports, harbours, ferry terminals, vessels and marine infrastructure.\nThe successful Contractor must be capable of operating within high-hazard operational environments and complying with site-specific control measures, including permit-to-work and access control systems.  A 24-hour, 365-day emergency call-out service is an essential requirement.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/085876-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-06f6eb": {
@@ -1595,23 +1507,6 @@
    "region": "West Midlands",
    "summary": "\"Reablement is a strengths-based, person-centred approach that promotes and maximises independence and wellbeing. It aims to ensure positive change using user-defined goals and is designed to enable people to gain, or regain, their confidence, ability, and necessary skills to live as independently as possible, especially after an illness, deterioration in health or injury. Reablement focuses on enabling people to do things for themselves rather than having things done for them.\nReablement will be achieved by working in partnership with individuals to support them to undertake tasks themselves, promoting choice, control, and functional ability rather than providing task-based care.\nReablement in the Borough will be aided by technology to deliver positive outcomes for each Service User, ensu",
    "link": "https://www.find-tender.service.gov.uk/Notice/093031-2026",
-   "first_seen": "2026-10-08"
-  },
-  "ocds-h6vhtk-06f97d": {
-   "title": "Provision of a Cosy Homes in Lancashire (CHiL) Delivery Partner for Domestic Energy Initiatives 2026",
-   "buyer": "Blackburn With Darwen Borough Council",
-   "value": 778000,
-   "deadline": "2026-10-22T12:00:00+01:00",
-   "published": "2026-10-08T11:06:17+01:00",
-   "category": "",
-   "cpv_codes": [
-    "79400000"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "North West",
-   "summary": "The overall objectives of the Cosy Homes in Lancashire Scheme are to:\nImprove the energy efficiency, thermal comfort and over-heating of Lancashire homes.\nAddress health inequalities exacerbated by living in cold damp homes and help tackle excess winter deaths.\nReduce energy bills and maximise household income\nEngage with Private Rented Sector Landlords to improve the energy efficiency of homes for tenants.\nReduce carbon emissions from the domestic sector.\nTo support the take up of low carbon and renewable energy technologies in the domestic sector.\nTo attract as much funding as possible to Lancashire.\nBuild a network of trusted local installers, suppliers and manufacturers.\nProvide a fully comprehensive energy efficiency advice service to Lancashire residents and sign-post to external age",
-   "link": "https://www.find-tender.service.gov.uk/Notice/095084-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-06f98f": {
@@ -2724,7 +2619,7 @@
    "buyer": "ORBIT GROUP LIMITED",
    "value": null,
    "deadline": "2026-11-02T12:00:00+00:00",
-   "published": "2026-10-08T11:23:25+01:00",
+   "published": "2026-10-22T16:56:26+01:00",
    "category": "",
    "cpv_codes": [
     "44111000",
@@ -2766,7 +2661,7 @@
    "status": "active",
    "region": "East Midlands",
    "summary": "This Procurement is designed to establish a Closed Framework through an Open Procedure in line with PA23 for the supply, design, manufacture, delivery and/ or hire of building materials, associated products, equipment and construction fuel for Orbit Group Limited and any other Authority Group member entitled to use the Framework Agreement. It is intended to provide a resilient, compliant and value-for-money supply route that supports Orbit Homes (2020) Limited and the wider Orbit Group in delivering safe, affordable, high-quality and sustainable homes.\nThe Framework will consist of 30 individual Lots for the supply of key materials used in the construction and regeneration of our homes.\nThe estimated Framework value across all Lots over the 4 year term is £85.7m\nThe Framework will comprise",
-   "link": "https://www.find-tender.service.gov.uk/Notice/095104-2026",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100183-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-077511": {
@@ -3165,29 +3060,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/089023-2026",
    "first_seen": "2026-10-08"
   },
-  "ocds-h6vhtk-07762c": {
-   "title": "Recovery & Relocation Services for Vehicle and Plant Equipment",
-   "buyer": "Glasgow City Council",
-   "value": 3666000,
-   "deadline": "2026-10-22T12:00:00+01:00",
-   "published": "2026-09-21T11:03:59+01:00",
-   "category": "Breakdown and recovery services for commercial vehicles",
-   "cpv_codes": [
-    "50118200",
-    "50118100",
-    "50118200",
-    "50118300",
-    "50118400",
-    "50118500",
-    "34144220"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "Scotland",
-   "summary": "The Provision of Recovery & Relocation Services for  vehicle and plant equipment.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/089024-2026",
-   "first_seen": "2026-10-08"
-  },
   "ocds-h6vhtk-077643": {
    "title": "External Planned Maintenance",
    "buyer": "Town and Country Housing",
@@ -3344,24 +3216,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/089163-2026",
    "first_seen": "2026-10-08"
   },
-  "ocds-h6vhtk-07767c": {
-   "title": "715940476 EPACS UK4 - Tender Notice",
-   "buyer": "Ministry of Defence",
-   "value": 560000,
-   "deadline": "2026-10-22T17:30:00+01:00",
-   "published": "2026-09-21T13:51:22+01:00",
-   "category": "",
-   "cpv_codes": [
-    "80430000",
-    "80570000"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "Not stated",
-   "summary": "The Ministry of Defence (MOD) requires Higher Education Institution (HEI) providers to collaborate with the Authority to validate a degree programme which complies with regulations set by the relevant government authorities (Quality Assurance Agency for Higher Education in the UK, The Office for Students in England, the Higher Education Funding Council for Wales in Wales, and the Scottish Funding Council in Scotland). Course validation must be in place to allow qualifications to be awarded to students on completion of their courses.\nThe role of the DCTT is to train and educate Aeronautical Engineering (AE) to meet the Defence requirement.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/089171-2026",
-   "first_seen": "2026-10-08"
-  },
   "ocds-h6vhtk-06ca8c": {
    "title": "University Interactions - NDA Research Portfolio - Single Supplier Framework",
    "buyer": "Nuclear Decommissioning Authority",
@@ -3377,23 +3231,6 @@
    "region": "Not stated",
    "summary": "The scope will include, but not limited to:\n1 - Support to the development and delivery of NDA’s University Research Programme.\n2 -  Establishment and management of contracts with Universities on behalf of the NDA.\n3 - Monitoring the impact of the NDA’s University R&D Strategy.\n4 - Monitoring delivery of NDA’s PhD portfolio, including industrial supervision of Phd stutents.\n5 - Support to the communication of NDA’s University Research Programme.\n6 - Direct support of capability in targeted areas\nThis procurement is looking to establish a single supplier framework for a maximum length of 4 years. (24+12+12 month term)",
    "link": "https://www.find-tender.service.gov.uk/Notice/096924-2026",
-   "first_seen": "2026-10-08"
-  },
-  "ocds-h6vhtk-077697": {
-   "title": "Provision of Waste and Recycling Haulage  Services for Conwy County Borough  Council",
-   "buyer": "Conwy County Borough Council",
-   "value": 1400000.0,
-   "deadline": "2026-10-22T12:00:00+01:00",
-   "published": "2026-09-22T11:40:19+01:00",
-   "category": "",
-   "cpv_codes": [
-    "90512000"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "Wales",
-   "summary": "Conwy County Borough Council (the “Authority”) intends to procure a contract for the transportation of waste and recyclable materials from its waste management facilities to designated disposal and recycling sites. The Authority proposes to award a contract for an initial period of five (5) years, with the option to extend for a further two (2) years, to the successful supplier(s) (the “Service Provider”).",
-   "link": "https://www.find-tender.service.gov.uk/Notice/089537-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-077699": {
@@ -3618,24 +3455,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/089342-2026",
    "first_seen": "2026-10-08"
   },
-  "ocds-h6vhtk-0776dd": {
-   "title": "THE PROVISION OF A FRAMEWORK FOR THE SUPPLY OF BRANDED & GENERIC WASHROOM PAPER DISPOSABLES",
-   "buyer": "Hertfordshire County Council",
-   "value": 20800000,
-   "deadline": "2026-10-22T12:00:00+01:00",
-   "published": "2026-09-21T16:55:17+01:00",
-   "category": "",
-   "cpv_codes": [
-    "33760000",
-    "33760000"
-   ],
-   "type": "goods",
-   "status": "active",
-   "region": "East of England",
-   "summary": "Hertfordshire County Council acting on behalf of the Participating Authorities is leading on the procurement process to establish a Framework Agreement for the Supply and purchase of Branded & Generic Washroom Paper Disposables and Dispensers (herein after referred to as “Good(s)”), and is seeking suitably qualified Contractor(s) to supply the Good(s) and any related Services under any Agreement resulting from this tendering exercise. \nThe participating Authorities both produce annual paper catalogues which are printed and distributed to customers each year, the publication generally runs from 1st April – 31st March each year. Customers may choose and select products listed in the catalogue at their discretion. Customers include schools and local authority establishments who are geographic",
-   "link": "https://www.find-tender.service.gov.uk/Notice/089345-2026",
-   "first_seen": "2026-10-08"
-  },
   "ocds-h6vhtk-0776e0": {
    "title": "The Provision of Firefighter Pension and Administration and Pensioner Payroll Services",
    "buyer": "Cleveland Fire Authority",
@@ -3651,24 +3470,6 @@
    "region": "North East",
    "summary": "The Authority requires the provision of a comprehensive Firefighters' Pension Administration and Pensioner Payroll Service for all active, deferred, pensioner and dependant members of the Firefighters' Pension Schemes (\"FPS Schemes\").\nThe Provider shall deliver a fully integrated, end-to-end service encompassing pension administration, pensioner payroll, member record management and employer support. The service must be underpinned by a secure and robust pension administration platform, incorporating workflow and document management capabilities, alongside comprehensive member, pensioner and employer support services.\nThe Provider will be expected to demonstrate a commitment to continuous improvement and innovation throughout the contract term, proactively identifying and implementing oppo",
    "link": "https://www.find-tender.service.gov.uk/Notice/089354-2026",
-   "first_seen": "2026-10-08"
-  },
-  "ocds-h6vhtk-051f61": {
-   "title": "Postal Services",
-   "buyer": "Sunderland City Council",
-   "value": 3816000,
-   "deadline": "2026-10-22T12:00:00+01:00",
-   "published": "2026-09-21T17:36:03+01:00",
-   "category": "",
-   "cpv_codes": [
-    "64110000",
-    "64110000"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "North East",
-   "summary": "Postal Services that includes hybrid mail, bulk mailings and revenues and benefits",
-   "link": "https://www.find-tender.service.gov.uk/Notice/089364-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-0776ed": {
@@ -3852,24 +3653,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/089704-2026",
    "first_seen": "2026-10-08"
   },
-  "ocds-h6vhtk-0777b1": {
-   "title": "2026TCCH-16 - Water Mains",
-   "buyer": "Tai Calon Community Housing Ltd",
-   "value": 1000000.0,
-   "deadline": "2026-10-22T16:00:00+01:00",
-   "published": "2026-09-22T14:43:37+01:00",
-   "category": "",
-   "cpv_codes": [
-    "44161200",
-    "45232151"
-   ],
-   "type": "works",
-   "status": "active",
-   "region": "Wales",
-   "summary": "The replacement, renewal, diversion, installation, testing, commissioning and associated activities required to provide compliant domestic water service connections as described within the Scope of Works.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/089709-2026",
-   "first_seen": "2026-10-08"
-  },
   "ocds-h6vhtk-0777bb": {
    "title": "T26-127BUS Strabane Peoples Gallery Artist in Residence Project",
    "buyer": "Derry City and Strabane District Council",
@@ -3888,27 +3671,6 @@
    "region": "Northern Ireland",
    "summary": "Derry City and Strabane District Council (DCSDC) invites tenders from suitably qualified and experienced mural artists to deliver an Artist in Residence project in Strabane. The project is supported by the Arts Council of Northern Ireland and the Strabane Public Realm project. The residency will support development of the Strabane UK Town of Culture bid through community engagement and the creation of mural artwork reflecting local identity, place-making and civic pride. It will complement the wider programme of stakeholder engagement now underway to shape the bid, develop cultural programming and identify potential legacy projects. Your submission must be submitted via etendersNI, via this CFT. No other method of submissions will be accepted. Please refer to the CfT documents for further ",
    "link": "https://www.find-tender.service.gov.uk/Notice/089726-2026",
-   "first_seen": "2026-10-08"
-  },
-  "ocds-h6vhtk-06e147": {
-   "title": "Active Fire Prevention Services 2027-2032",
-   "buyer": "Beyond Housing Limited",
-   "value": 735415,
-   "deadline": "2026-10-22T12:00:00+01:00",
-   "published": "2026-09-22T15:01:30+01:00",
-   "category": "",
-   "cpv_codes": [
-    "31625100",
-    "31625200",
-    "45312100",
-    "50700000",
-    "51700000"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "Yorkshire and the Humber",
-   "summary": "Beyond Housing are currently out to tender for the provision of Active Fire Prevention Services. \nSuppliers that would like to take part in this tender process are invited to \"Express Interest\" upon which the will be given access to the full tender documentation delivery through this e-tendering system.\nWhen the tender documents have been made available involved suppliers will receive notification via email and the tender documents can be accessed from the \"My Tenders\" area of this website and selecting the \"View Details\" button of this project.\nThe deadline for submissions of the tender will be Thursday 22nd October 2026 at 12noon. \nThe deadline for clarification questions will be Tuesday 13th October 2026 at 12noon. \nPlease allow sufficient time to make your return as late returns will n",
-   "link": "https://www.find-tender.service.gov.uk/Notice/089729-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-0777c4": {
@@ -4103,23 +3865,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/089825-2026",
    "first_seen": "2026-10-08"
   },
-  "ocds-h6vhtk-0777f8": {
-   "title": "Independent Advocacy Services 2027",
-   "buyer": "East Riding of Yorkshire Council",
-   "value": 2350000,
-   "deadline": "2026-10-22T11:00:00+00:00",
-   "published": "2026-09-22T17:02:55+01:00",
-   "category": "",
-   "cpv_codes": [
-    "85000000"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "Yorkshire and the Humber",
-   "summary": "The East Riding of Yorkshire Council (ERYC) is aiming to procure an Independent Advocacy Service in order to meet its statutory duties, corporate priorities and the individual needs of Service Users, both within and out of county. This contract will cover the following services both in and out of county; Independent Mental Health Advocacy (IMHA) Independent Mental Capacity Advocacy (IMCA) for a Litigation Friend. Independent Care Act Advocacy including Carers Advocacy 1.2 Advocacy General Advocacy Independent Health Complaints Advocacy",
-   "link": "https://www.find-tender.service.gov.uk/Notice/089840-2026",
-   "first_seen": "2026-10-08"
-  },
   "ocds-h6vhtk-0777f9": {
    "title": "Best Start in Life Programme Services",
    "buyer": "Bradford Children & Families Trust",
@@ -4203,23 +3948,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/089879-2026",
    "first_seen": "2026-10-08"
   },
-  "ocds-h6vhtk-06dc6b": {
-   "title": "Bikeability Training Delivery",
-   "buyer": "Stoke on Trent City Council",
-   "value": 360000,
-   "deadline": "2026-10-22T15:00:00+01:00",
-   "published": "2026-09-23T09:01:52+01:00",
-   "category": "",
-   "cpv_codes": [
-    "80000000"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "West Midlands",
-   "summary": "Stoke-on-Trent City Council is seeking to appoint a suitably qualified and registered provider to deliver Bikeability Levels 1, 2 and 3, together with relevant Bikeability Plus modules, to children and young people at schools and other venues across Stoke-on-Trent.\nThe contract is expected to run from 1st September 2027 to 31st August 2030. The provider will be required to deliver an annual programme in accordance with available funding and the Council's agreed delivery schedule.\nServices will include the planning and coordination of training with schools, provision of appropriately qualified and registered instructors, suitable cycles and equipment where required, delivery of training in accordance with the National Standard for cycle training, current Bikeability Delivery Guide, Bikeabil",
-   "link": "https://www.find-tender.service.gov.uk/Notice/089904-2026",
-   "first_seen": "2026-10-08"
-  },
   "ocds-h6vhtk-07781e": {
    "title": "HCC Sept 2026 – Provision of Supported Housing at Westbury",
    "buyer": "Hertfordshire County Council",
@@ -4289,23 +4017,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/089956-2026",
    "first_seen": "2026-10-08"
   },
-  "ocds-h6vhtk-06dace": {
-   "title": "Carers Support Services",
-   "buyer": "London Borough of Waltham Forest",
-   "value": 950000.0,
-   "deadline": "2026-10-23T00:00:00+01:00",
-   "published": "2026-10-07T10:30:15+01:00",
-   "category": "",
-   "cpv_codes": [
-    "85000000"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "Not stated",
-   "summary": "The provision of the adults' carers support service within the London Borough of Waltham Forest. The service provides a critical and universal, high quality and flexible carers support offer to unpaid carers aged eighteen and over. Unpaid carers are estimated to save the UK economy around £163;184 billion per year and carers in our communities play a vital role in supporting people with health and social care needs to remain independent in our communities. The service helps unpaid carers stay healthy, informed, and connected, enabling them to continue their caring role while maintaining their own wellbeing. The service operates an open referral policy accepting referrals from many sources including from Adult Social Care, NELFT, GPs and self-referrals.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/094565-2026",
-   "first_seen": "2026-10-08"
-  },
   "ocds-h6vhtk-06bfd7": {
    "title": "Framework Agreement for AI Enabled Transcription Tools",
    "buyer": "Caerphilly County Borough Council",
@@ -4324,24 +4035,6 @@
    "region": "Wales",
    "summary": "Caerphilly County Borough Council (the “Council”) is seeking to establish a Framework Agreement for AI Enabled Transcription Tools (the “Framework”).\nThe purpose of the Framework is to support the Council to deliver a range of AI Transcription Tools to meet the varying needs of Council.\nThe Procurement process will follow an open framework in line with the Procurement Act 2023 for an AI Enabled Transcription Tools for a multi provider framework with capability for mini competition and direct awards (where permissible) with providers who are successful in being awarded to the framework agreement. \nAll successful Bidder(s) that have met the advertised award criteria will be placed on the framework for competed services, awards following mini-competitions and or Standard Services awards witho",
    "link": "https://www.find-tender.service.gov.uk/Notice/089975-2026",
-   "first_seen": "2026-10-08"
-  },
-  "ocds-h6vhtk-07784b": {
-   "title": "Manchester, Cotton & Transatlantic Slavery AV hardware supply and integration",
-   "buyer": "Science Museum Group",
-   "value": 69300,
-   "deadline": "2026-10-22T23:59:00+01:00",
-   "published": "2026-09-23T10:28:20+01:00",
-   "category": "",
-   "cpv_codes": [
-    "32321200",
-    "32321300"
-   ],
-   "type": "goods",
-   "status": "active",
-   "region": "London",
-   "summary": "The Science Museum Group (SMG) wishes to appoint an AV Integrator under a contract for the detailed design, procurement of non-stock equipment, pre-installation configuration and testing, installation, integration, commissioning, programming, handover, warranty administration and de-installation of audio-visual systems for the Manchester, Cotton and Transatlantic Slavery exhibition at the Science and Industry Museum. The AV Integrator must also administer manufacturer warranty claims for equipment it supplies, in accordance with the Warranty Support section of this specification.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/089982-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-077853": {
@@ -4499,8 +4192,8 @@
    "title": "Technical and Highways Works Framework",
    "buyer": "Salford City Council",
    "value": 300000000,
-   "deadline": "2026-11-04T15:00:00+00:00",
-   "published": "2026-09-23T14:10:49+01:00",
+   "deadline": "2026-11-18T15:00:00+00:00",
+   "published": "2026-10-22T10:33:34+01:00",
    "category": "",
    "cpv_codes": [
     "34929000",
@@ -4530,15 +4223,15 @@
    "status": "active",
    "region": "North West",
    "summary": "A framework to deliver technical and highways works to the City of Salford. This will be an open framework whereby our intention is to open the framework at years 3 and 6. The Authority estimates that the total value of this framework to be around £300m (ex VAT).  The Lot values are estimates based on the total framework value.  A framework is no guarantee of work.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/090162-2026",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099832-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-0778b4": {
    "title": "The management of Solent Meads golf course",
    "buyer": "Bournemouth, Christchurch and Poole Council",
    "value": 5000000.0,
-   "deadline": "2026-10-23T14:00:00+01:00",
-   "published": "2026-10-16T07:43:50+01:00",
+   "deadline": "2026-10-30T14:00:00+00:00",
+   "published": "2026-10-22T11:46:31+01:00",
    "category": "",
    "cpv_codes": [
     "37400000",
@@ -4548,7 +4241,7 @@
    "status": "active",
    "region": "South West",
    "summary": "The council (the grantor) intends to grant a person or supplier (the concessionaire) the right to operate - as the seller of certain goods or services - as a business within a premises or other asset belonging to the grantor in return for an appropriate fee. The concessionaire pays the grantor.\n• The premises is Solent Meads Golf Course in Southbourne, Dorset.\n• The goods or services is operation of the Solent Meads Golf Course\nThe successful concessionaire will be granted the right to operate as seller of golf activities and associated retail services within Council-owned premises.\nThe anticipated start date of the contract is December 2026. The contract will be for 25 years with no extensions.\nThe estimate annual turnover i.e. total sales is £200,000.00 excluding VAT.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/097692-2026",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099899-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-0778b8": {
@@ -4591,23 +4284,6 @@
    "region": "North East",
    "summary": "For consultants to be appointed onto the framework for the provision of professional services relating to addressing the impacts of past mining activities. \nThese services include civil, structural and geotechnical engineering; mining and environmental assessment and management; specialist technical consultancy; professional secondment support; investigations into infrastructure and land damage; and environmental remediation, including mine water management and treatment solutions.\nObjectives and Requirement\nThe Authority requires the Framework to deliver the following outcomes:\n•Support the Authority's statutory responsibilities and strategic objectives by providing timely access to high-quality specialist construction, environmental and technical professional services.\n•Protect and enhan",
    "link": "https://www.find-tender.service.gov.uk/Notice/090188-2026",
-   "first_seen": "2026-10-08"
-  },
-  "ocds-h6vhtk-06b5b2": {
-   "title": "NHS National Framework Agreement Homecare Service Lysosomal Storage Disorder",
-   "buyer": "NHS England",
-   "value": 43666348.0,
-   "deadline": "2026-10-22T13:00:00+01:00",
-   "published": "2026-10-19T09:14:50+01:00",
-   "category": "",
-   "cpv_codes": [
-    "85141210"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "North East",
-   "summary": "CM-MSR-24-5704 - Home Delivery Service - Lysosomal Storage Disorders - July 2027.\nNHS National Framework agreement Home Delivery  Lysosomal Storage Disorders in England and Scotland.\nOffer Reference number: CM-MSR-24-5704\nPeriod of framework agreement 01 July 2027 to 30 June 2029 \nWith option(s) to extend at the authority's discretion for a period or periods up to a total of 24 months.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/098280-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-0778c1": {
@@ -4774,29 +4450,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/090325-2026",
    "first_seen": "2026-10-08"
   },
-  "ocds-h6vhtk-077904": {
-   "title": "ID 6316996 - DAERA - Knowledge Transfer and Innovation Policy Branch - Innovation Procurement",
-   "buyer": "College of Agriculture, Food and Rural Enterprise (CAFRE)",
-   "value": 1900000,
-   "deadline": "2026-10-22T15:00:00+01:00",
-   "published": "2026-09-23T17:23:11+01:00",
-   "category": "",
-   "cpv_codes": [
-    "75100000",
-    "80000000",
-    "80500000",
-    "80522000",
-    "80521000",
-    "80531200",
-    "80510000"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "Northern Ireland",
-   "summary": "CAFRE (the Buyer), is seeking an external Supplier to deliver elements of Innovation Farms through the Sustainable Agricultural Programme (SAP). The specification relates to Innovation Farms.\nThis Contract is for the provision of operational, administrative and logistical support to the delivery of Innovation Farm visits. It does not include responsibility for farm selection, technical content, or policy alignment, which remain the responsibility of the Buyer.\nThe contract will commence from the date of award for a period of 3 Years. There will be one option to extend by a period of 2 years.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/090334-2026",
-   "first_seen": "2026-10-08"
-  },
   "ocds-h6vhtk-0661cf": {
    "title": "GLA Third Party Resident Support",
    "buyer": "Greater London Authority (GLA)",
@@ -4939,28 +4592,6 @@
    "region": "Not stated",
    "summary": "The International Charter: Space and Major Disasters (“the Charter”) is a global agreement which aims to provide a unified system of space data acquisition and delivery to those affected by natural or man-made disasters. It provides and enables transmission of earth observation satellite data and pre-authorised resilience/emergency response bodies in response to “activations”. \nFurther details on the Charter can be found at https://disasterscharter.org/\nUnlike many space faring nations in the Charter, the UK Government does not own or operate its own national EO satellite system assets. The UK Government therefore fulfils its Charter commitments through partnership with the UK EO commercial sector. This procurement seeks to maintain and strengthen that model by securing operational support",
    "link": "https://www.find-tender.service.gov.uk/Notice/090393-2026",
-   "first_seen": "2026-10-08"
-  },
-  "ocds-h6vhtk-077929": {
-   "title": "Rental of Commercial Washing Machines and Tumble Dryers",
-   "buyer": "Ipswich Borough Council",
-   "value": 70000,
-   "deadline": "2026-10-22T11:00:00+01:00",
-   "published": "2026-09-24T09:27:19+01:00",
-   "category": "",
-   "cpv_codes": [
-    "39291000",
-    "39700000",
-    "39713200",
-    "39713210",
-    "42716000",
-    "51543400"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "East of England",
-   "summary": "Ipswich Borough Council are currently out to tender for the provision of washing machine and tumble dryer rental services.\nThis opportunity is available in the 'Current Tenders' area of portal. Interested parties are invited to express their interest to gain full access to the tender documentation.\nThe deadline date for submissions of the tender is 11am 22 October 2026. Please note late returns will NOT be permitted\nThe deadline for clarification questions is 11am 13 October 2026 which must be generated via the correspondence option on the website",
-   "link": "https://www.find-tender.service.gov.uk/Notice/090399-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-06ef4a": {
@@ -5166,26 +4797,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/094300-2026",
    "first_seen": "2026-10-08"
   },
-  "ocds-h6vhtk-077962": {
-   "title": "Radiation and Tritium Safety Diagnostics",
-   "buyer": "UK Atomic Energy Authority",
-   "value": 1000000,
-   "deadline": "2026-10-22T11:00:00+00:00",
-   "published": "2026-09-24T12:03:13+01:00",
-   "category": "",
-   "cpv_codes": [
-    "35113210",
-    "38341200",
-    "38341600",
-    "90721600"
-   ],
-   "type": "goods",
-   "status": "active",
-   "region": "South East",
-   "summary": "Radiation and Tritium Safety Diagnostics equipment to be delivered to Culham Campus. This tender is split into 2 different lots. Suppliers can quote for one or both lots.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/090512-2026",
-   "first_seen": "2026-10-08"
-  },
   "ocds-h6vhtk-077966": {
    "title": "Lenham Cemetery Road Surfacing Project",
    "buyer": "Lenham Parish Council",
@@ -5238,23 +4849,6 @@
    "region": "South East",
    "summary": "Total refurbishment of the car park and drainage system. Further detail is included in the spec and added diagrams/documents.",
    "link": "https://www.find-tender.service.gov.uk/Notice/092671-2026",
-   "first_seen": "2026-10-08"
-  },
-  "ocds-h6vhtk-077976": {
-   "title": "St Thomas Community Sports Hub",
-   "buyer": "Stockport Metropolitan Borough Council",
-   "value": 50000,
-   "deadline": "2026-10-22T12:00:00+01:00",
-   "published": "2026-09-24T12:53:05+01:00",
-   "category": "",
-   "cpv_codes": [
-    "45000000"
-   ],
-   "type": "works",
-   "status": "active",
-   "region": "North West",
-   "summary": "Stockport Metropolitan Borough Council is seeking to appoint a suitably qualified contractor for the St Thomas Community Sports Hub.\nFor a full specification for this opportunity, please register you interest.\nSubmissions shall be received by the Council by the closing date and time stated within the Instruction for Tendering document.  No submission received after the closing date and time will be accepted other than where there are exceptional circumstances which may be considered by the Director of STAR Procurement in their sole discretion.  Please note that tender submissions which are only partly uploaded at the closing date and time will be considered to have not been received and will be rejected by the Council.\nIn submitting your quotation you agree to contract on the terms and con",
-   "link": "https://www.find-tender.service.gov.uk/Notice/090541-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-07797d": {
@@ -5331,48 +4925,6 @@
    "region": "West Midlands",
    "summary": "The installation of Dignity Rooms, which comprise small sleeping accommodation rooms for a single occupant, to be installed at the following Authority locations. The Contract(s) to be awarded as 5 Lots (“Lots”), as follows: \nLot 1 – Binley Fire Station, Hipswell Highway, CV2 5FQ (6 Dignity Rooms)\nLot 2 - Hay Mills Fire Station, Speedwell Road, B25 8HH (8 Dignity Rooms)\nLot 3 – Highgate Fire Station, Moseley Road, B12 0DP (9 Dignity Rooms)\nLot 4 – Walsall Fire Station, Blue Lane West, WS2 8NU (9 Dignity Rooms)\nLot 5 – Wolverhampton Fire Station, Merridale Street, WV3 0RE (8 Dignity Rooms",
    "link": "https://www.find-tender.service.gov.uk/Notice/090641-2026",
-   "first_seen": "2026-10-08"
-  },
-  "ocds-h6vhtk-0779b7": {
-   "title": "COV - Young People's Drug and Alcohol Prevention, Treatment and Support Service 2027",
-   "buyer": "Coventry City Council",
-   "value": 6978000,
-   "deadline": "2026-10-22T12:00:00+01:00",
-   "published": "2026-09-24T15:03:10+01:00",
-   "category": "Outpatient care services",
-   "cpv_codes": [
-    "85112200",
-    "85140000"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "West Midlands",
-   "summary": "Drug and alcohol treatment is a core element of Public Health provision in England. Local authorities have a statutory responsibility to commission substance use services for young people, and to safeguard children who may be affected by their own substance use or by parental substance use.   Coventry City Council is procuring for a provider who can deliver our requirements.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/090657-2026",
-   "first_seen": "2026-10-08"
-  },
-  "ocds-h6vhtk-06d60c": {
-   "title": "West Yorkshire District Travel Diary Survey",
-   "buyer": "West Yorkshire Combined Authority",
-   "value": 250000,
-   "deadline": "2026-10-22T13:00:00+00:00",
-   "published": "2026-09-24T15:03:32+01:00",
-   "category": "",
-   "cpv_codes": [
-    "73200000",
-    "73110000",
-    "73210000",
-    "79311210",
-    "79311400",
-    "79315000",
-    "79342310",
-    "79342311"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "Yorkshire and the Humber",
-   "summary": "West Yorkshire Combined Authority (WYCA) and Local Authorities require high-quality, robust data on the travel behaviour of residents across West Yorkshire to inform policy-making; support the development, appraisal and evaluation of transport strategies and schemes; and to understand the wider impacts of transport investment and policy decisions. The Combined Authority, therefore, seeks to appoint a competent Consultant (Consultancy firm) to provide a comprehensive and representative understanding of travel behaviour, including travel patterns, mode choice, accessibility, and distributional impacts to fully support transport planning and evaluation at a West Yorkshire level through the West Yorkshire Travel Survey (WY TRADS).",
-   "link": "https://www.find-tender.service.gov.uk/Notice/090658-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-0779be": {
@@ -5581,23 +5133,6 @@
    "region": "North East",
    "summary": "The British Council is seeking to appoint vehicle driven transport services specifically, standard car transportation, executive chauffeur car hire and coach services on its behalf during visits from overseas delegations and or the transportation of staff, guests and stakeholders and on an as needed basis.",
    "link": "https://www.find-tender.service.gov.uk/Notice/098495-2026",
-   "first_seen": "2026-10-08"
-  },
-  "ocds-h6vhtk-0779ff": {
-   "title": "BCU-ITT-63452 - ABERGELE CLINIC ROOF UPGRADE",
-   "buyer": "Betsi Cadwaladr University Health Board",
-   "value": 125000.0,
-   "deadline": "2026-10-22T12:00:00+01:00",
-   "published": "2026-09-24T21:15:39+01:00",
-   "category": "",
-   "cpv_codes": [
-    "45000000"
-   ],
-   "type": "works",
-   "status": "active",
-   "region": "Wales",
-   "summary": "Betsi Cadwaladr University Health Board requires a suitably qualified and experienced contractor to undertake roof upgrade works for the Abergele Community Clinic. The works are part of BCUHB Capital Programme have been approved at BCUHB Capital Board.  \nThe works shall comprise the complete renewal of the existing flat roof construction to provide a fully warranted warm roof system incorporating a seamless cold-applied liquid waterproofing membrane and thermal upgrade to current Building Regulations requirements.\nThe contractor shall:\n•\tProvide all scaffolding, edge protection and access equipment.\n•\tStrip the existing roof construction back to the timber joist structure.\n•\tInspect and verify the structural suitability of the roof deck and supporting structure.\n•\tInstall a new 18mm plywoo",
-   "link": "https://www.find-tender.service.gov.uk/Notice/090767-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-077a00": {
@@ -5944,23 +5479,6 @@
    "region": "Not stated",
    "summary": "UKFE is running a procurement process to identify a suitably qualified Supplier for the provision of PLANC (Permitting, Licences, Authorisations, Notifications & Consent) Assurance. The appointed Supplier will provide an independent assurance service, principally as a 3rd Line Assurance function, delivering objective challenge and assessment of the effectiveness of arrangements used to identify, manage, integrate and deliver PLANC requirements throughout the programme lifecycle.\nUK Fusion Energy Ltd (UKFE) is a wholly owned subsidiary of the UK Atomic Energy Authority (UKAEA) Group, responsible for the STEP (Spherical Tokamak for Energy Production) programme to deliver the UK’s prototype fusion energy plant.\nThis is an Open procedure procurement run under the Procurement Act 2023.\nInterest",
    "link": "https://www.find-tender.service.gov.uk/Notice/090964-2026",
-   "first_seen": "2026-10-08"
-  },
-  "ocds-h6vhtk-0524cd": {
-   "title": "The Provision of  Supply & Distribution of Various Foods for Adult Care Homes and Day Centres,",
-   "buyer": "Westmorland and Furness Council",
-   "value": null,
-   "deadline": "2026-10-22T10:00:00+01:00",
-   "published": "2026-09-25T12:43:53+01:00",
-   "category": "",
-   "cpv_codes": [
-    "15800000"
-   ],
-   "type": "goods",
-   "status": "active",
-   "region": "North West",
-   "summary": "Westmorland and Furness Council is seeking to appoint a single provider framework for the provision of supply and distribution of various foods for adult care homes and day centres.\nFor the following four categories:\nFresh Meat\nFrozen\nGroceries and Provisions\nFresh Fruit and Vegetables",
-   "link": "https://www.find-tender.service.gov.uk/Notice/090967-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-077a7d": {
@@ -10904,24 +10422,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/092911-2026",
    "first_seen": "2026-10-08"
   },
-  "ocds-h6vhtk-077ec9": {
-   "title": "Child Focused Courts IDVA",
-   "buyer": "The Police and Crime Commissioner for Leicestershire",
-   "value": 230574,
-   "deadline": "2026-10-22T15:00:00+01:00",
-   "published": "2026-10-01T14:50:41+01:00",
-   "category": "",
-   "cpv_codes": [
-    "75200000",
-    "85000000"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "North East",
-   "summary": "Provision of Child Focused Courts IDVA",
-   "link": "https://www.find-tender.service.gov.uk/Notice/092916-2026",
-   "first_seen": "2026-10-08"
-  },
   "ocds-h6vhtk-077ed3": {
    "title": "Copywriting Services Framework",
    "buyer": "Heritage Fund",
@@ -12221,9 +11721,9 @@
   "ocds-h6vhtk-077fef": {
    "title": "Framework for the Provision of Trailblazer Programme Support Services and Activities",
    "buyer": "City & County of Swansea",
-   "value": 160000.0,
+   "value": 190000.0,
    "deadline": "2026-11-02T12:00:00+00:00",
-   "published": "2026-10-02T15:03:43+01:00",
+   "published": "2026-10-22T11:05:10+01:00",
    "category": "",
    "cpv_codes": [
     "80510000",
@@ -12259,7 +11759,7 @@
    "status": "active",
    "region": "Wales",
    "summary": "Swansea Council is establishing a Framework Agreement to commission suitable providers to deliver accessible, community-based activities and support as part of Swansea Council’s Trailblazer programme. Funding for this commission has been secured through the Welsh Government’s Trailblazer fund.\nThe services will support economically inactive residents across Swansea to improve health, wellbeing, confidence, resilience, social connection and readiness to move closer to employment, training, volunteering or wider community participation. The programme will align with CFW+ and strengthen links with statutory, third sector, health, community and employer-based services to ensure participants can access appropriate local support and opportunities.\nThe Framework is comprised of Four (4) Lots:-\nLo",
-   "link": "https://www.find-tender.service.gov.uk/Notice/093439-2026",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099861-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-07779f": {
@@ -12486,8 +11986,8 @@
    "title": "SU172(26) Energy Centre and Union House District Heat Network Connection Works",
    "buyer": "Swansea University",
    "value": 5000000.0,
-   "deadline": "2026-10-23T00:00:00+01:00",
-   "published": "2026-10-02T15:44:43+01:00",
+   "deadline": "2026-10-30T00:00:00+00:00",
+   "published": "2026-10-22T09:54:57+01:00",
    "category": "",
    "cpv_codes": [
     "45000000"
@@ -12496,7 +11996,7 @@
    "status": "active",
    "region": "Wales",
    "summary": "Swansea University is seeking to appoint a suitably qualified contractor to deliver works associated with the Energy Centre upgrade and new District Heat Network (DHN) connection to Union House, forming part of Swansea University’s wider decarbonisation programme at Singleton Campus. The project comprises a significant upgrade to campus heat generation and distribution infrastructure, centred on the installation of approximately 3MW of modular air source heat pump (ASHP) capacity.\nThe project has been developed to RIBA Stage 3 with a fully coordinated design prepared to inform tendering and delivery. The works will be procured via a two-stage tender process, allowing for early contractor engagement during Stage 1 to support design development, buildability, programme optimisation and cost ",
-   "link": "https://www.find-tender.service.gov.uk/Notice/093483-2026",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099793-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-06bbdd": {
@@ -14023,8 +13523,8 @@
    "title": "Uniforms, Workwear, PPE, Clothing and Associated Services",
    "buyer": "Kent County Council (t/a Procurement Services)",
    "value": 100000000.0,
-   "deadline": "2026-11-05T17:00:00+00:00",
-   "published": "2026-10-06T13:08:14+01:00",
+   "deadline": "2026-11-12T17:00:00+00:00",
+   "published": "2026-10-22T13:05:54+01:00",
    "category": "",
    "cpv_codes": [
     "18300000",
@@ -14050,8 +13550,8 @@
    "type": "goods",
    "status": "active",
    "region": "South East",
-   "summary": "Procurement Services are looking to create a local and national framework for the provision of Uniforms, Workwear including accessories, footwear and bags, PPE and Associated services such as but not limited to decontamination, repairs, stock management.\nFor more information about this opportunity, please visit the eSourcing portal at: \nhttps://www.delta-esourcing.com/tenders/UK-UK-Maidstone:-Garments./775V5K2842\nTo respond to this opportunity, please click here: \nhttps://www.delta-esourcing.com/respond/775V5K2842",
-   "link": "https://www.find-tender.service.gov.uk/Notice/094250-2026",
+   "summary": "Procurement Services are looking to create a local and national framework for the provision of Uniforms, Workwear including accessories, footwear and bags, PPE and Associated services such as but not limited to decontamination, repairs, stock management.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099963-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-0781a6": {
@@ -17080,8 +16580,8 @@
    "title": "Device-as-a-Service (DaaS)",
    "buyer": "Cantium Business Solutions Limited",
    "value": null,
-   "deadline": "2026-11-03T17:00:00+00:00",
-   "published": "2026-10-08T17:05:28+01:00",
+   "deadline": "2026-11-17T17:00:00+00:00",
+   "published": "2026-10-22T17:08:41+01:00",
    "category": "",
    "cpv_codes": [
     "44316400",
@@ -17093,7 +16593,7 @@
    "status": "active",
    "region": "Not stated",
    "summary": "Cantium Business Solutions and its trading brands (Cantium) is a Local Authority trading company (LATCo). We operate as part of the Global Commercial Services Group of companies (CSG) ultimately owned by Kent County Council (KCC). Cantium therefore plays a vital role in supporting both the public sector and the interests of the wider community. \nCantium Business Solutions is looking to appoint one or more preferred suppliers for delivery of Device-as-a-Service (DaaS) solution including associated hardware and services for use by ourselves and to our customers.\nThis Agreement shall commence on 20th June 2027 and shall continue in force for up to 36 months unless terminated in accordance with the partner contractual conditions or extended in accordance with clause 2.8. \nThe buyer has the rig",
-   "link": "https://www.find-tender.service.gov.uk/Notice/095418-2026",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100187-2026",
    "first_seen": "2026-10-08"
   },
   "ocds-h6vhtk-06a796": {
@@ -17417,8 +16917,8 @@
    "title": "The Supply of Electricity to MOD sites in Northern Ireland",
    "buyer": "Defence Infrastructure Organisation",
    "value": 25886000,
-   "deadline": "2026-11-09T16:00:00+00:00",
-   "published": "2026-10-09T10:27:22+01:00",
+   "deadline": "2026-11-23T16:00:00+00:00",
+   "published": "2026-10-22T11:20:22+01:00",
    "category": "",
    "cpv_codes": [
     "09310000"
@@ -17427,7 +16927,7 @@
    "status": "active",
    "region": "Northern Ireland",
    "summary": "PROCUREMENT SUMMARY\nProcedure: Open Procedure under the Procurement Act 2023.\nContract Length: 24 Months + 12 Month Extension + 12 Month Extension.\nMaximum Contract Duration: 48 Months.\nAnnual Consumption: Approximately 30.1 GWh.\nMeter Portfolio: 23 Half-Hourly, 110 Non-Half-Hourly.\nPortfolio Coverage: Commercial and Domestic Electricity Supplies.\nGeographic Scope: MOD Sites throughout Northern Ireland.\nPricing model: Variable price, cost-plus.\nAward Basis: Most Advantageous Tender (MAT).\nEvaluation Split: Technical 50%, Commercial 40%, Social Value 10%.\nEstimated Total Contract Value: £25,886,000 excluding VAT.\n1. CONTRACTING AUTHORITY\nThe Contracting Authority is the Ministry of Defence (MOD), acting through the Defence Infrastructure Organisation (DIO).\nThe DIO is responsible for suppor",
-   "link": "https://www.find-tender.service.gov.uk/Notice/095518-2026",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099878-2026",
    "first_seen": "2026-10-10"
   },
   "ocds-h6vhtk-07846a": {
@@ -18418,8 +17918,8 @@
    "title": "Cultural Host request",
    "buyer": "Borough of Telford & Wrekin",
    "value": 20000,
-   "deadline": "2026-10-26T12:00:00+00:00",
-   "published": "2026-10-16T14:21:28+01:00",
+   "deadline": "2026-11-09T12:00:00+00:00",
+   "published": "2026-10-22T19:03:46+01:00",
    "category": "",
    "cpv_codes": [
     "72212222"
@@ -18428,7 +17928,7 @@
    "status": "active",
    "region": "West Midlands",
    "summary": "Telford and Wrekin Council would like to establish a contract to provide and support the maintenance of a secure partner portal that allows organisations to upload and update information about their venues and upcoming events. This portal must be easily embedded on our SimpleView website - eliminating the need both for organisations to manage their information across multiple channels and for local destinations to maintain separate listings platforms.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/098003-2026",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100208-2026",
    "first_seen": "2026-10-10"
   },
   "ocds-h6vhtk-078539": {
@@ -18503,8 +18003,8 @@
    "title": "ET89NFE92026 - Inclusive Leadership and Governance Training Programme",
    "buyer": "British Council",
    "value": null,
-   "deadline": "2026-10-27T18:59:00+00:00",
-   "published": "2026-10-12T07:25:22+01:00",
+   "deadline": "2026-11-16T18:59:00+00:00",
+   "published": "2026-10-22T11:28:55+01:00",
    "category": "",
    "cpv_codes": [
     "80500000"
@@ -18513,7 +18013,7 @@
    "status": "active",
    "region": "Not stated",
    "summary": "Sustainable societal change requires institutions, communities and leaders that are equipped to work collectively to address complex social, governance and development challenges. Recognising this, the British Council's approach to Non-Formal Education (NFE) in Pakistan seeks to strengthen the capacity of civil society, community leaders and public institutions while fostering meaningful engagement with higher education institutions as centres of knowledge, innovation and professional development. By promoting collaboration between these actors, the British Council aims to support more responsive governance, strengthen civic participation and create greater opportunities for citizens to engage in decision-making processes.\n The proposed Certified Inclusive Leadership and Governance (ILG) P",
-   "link": "https://www.find-tender.service.gov.uk/Notice/095885-2026",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099884-2026",
    "first_seen": "2026-10-13"
   },
   "ocds-h6vhtk-078541": {
@@ -22053,25 +21553,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/097081-2026",
    "first_seen": "2026-10-15"
   },
-  "ocds-h6vhtk-0787b8": {
-   "title": "NHS Tayside Laundry Replacement",
-   "buyer": "NHS Tayside",
-   "value": 1750000,
-   "deadline": "2026-11-13T10:00:00+00:00",
-   "published": "2026-10-14T14:41:14+01:00",
-   "category": "Laundry washing, dry-cleaning and drying machines",
-   "cpv_codes": [
-    "42716000",
-    "51543400",
-    "42716000"
-   ],
-   "type": "goods",
-   "status": "active",
-   "region": "Scotland",
-   "summary": "The product for replacement under this procurement is the existing Wash Line within the NHS Tayside Laundry, based at Ninewells Hospital, Dundee.\nThe various pieces of equipment have exceeded the end of their recommended life expectancy and are now due for replacement.\nThe requirement will be tendered as a single lot, to include:\n- Continuous Batch Washer\n- Material Handling System\n- Drying Solution\n- Automation and Integrated Control System\nThe Contract is required to be let for both the Supply of the replacement Laundry Wash Line and the installation on a “turnkey” basis with the successful bidder being appointed on a Prime Contractor basis with overall responsibility for the fulfilment of the Contract.\nThe ongoing maintenance of this equipment is also included within the scope of the te",
-   "link": "https://www.find-tender.service.gov.uk/Notice/097082-2026",
-   "first_seen": "2026-10-15"
-  },
   "ocds-h6vhtk-0787b9": {
    "title": "RFQ 2026/43 - Development of a Dublin Belfast Economic Corridor Investment Land Guide",
    "buyer": "Newry, Mourne and Down District Council (NMD)",
@@ -23012,25 +22493,6 @@
    "region": "Wales",
    "summary": "Carmarthenshire County Council in association with Ceredigion County Council, Neath Port Talbot County Borough Council, Pembrokeshire County Council and Swansea Council intends to establish a new iteration of this Framework by appointing suitably qualified Contractors for the delivery of civil engineering related construction projects and other works across the region. The Framework will include value-banded and geographical/regional lots for Civil Engineering Works (e.g. Very Small, Small, Medium and Large Civils Work) as well as lots for Specialist Civils Work (e.g. Demolition, Public Lighting, Lining & Road Marking, Surfacing, Ground Investigations, Marine Works, Traffic Management, Bridge Maintenance, Landscaping).\nPlease note that the figures quoted are for the anticipated spend over ",
    "link": "https://www.find-tender.service.gov.uk/Notice/097425-2026",
-   "first_seen": "2026-10-16"
-  },
-  "ocds-h6vhtk-07886c": {
-   "title": "ENQ1412 - Staging, Trussing and Lighting for Derby Arena Pantomime",
-   "buyer": "Derby City Council",
-   "value": 55000,
-   "deadline": "2026-10-22T12:00:00+01:00",
-   "published": "2026-10-21T11:58:13+01:00",
-   "category": "",
-   "cpv_codes": [
-    "31527270",
-    "45237000",
-    "79952000"
-   ],
-   "type": "goods",
-   "status": "active",
-   "region": "East Midlands",
-   "summary": "This quotation is for the supply, installation and de-rig of staging for the pantomime at Derby Arena, dry hire of trussing and dry hire of RoboSpot kits.\nThe procurement process adopted by the Council is based on the Procurement Act2023 (the \"Act\") and the Procurement Regulations 2024 (the \"Regulations\".)\nThe contract is estimated to commence on 2nd November 2026 and expires on 1st November 2027.\nPlease note suppliers wishing to express interest and obtain the documentation must do so by 17:00 on 21st October 2026. It is recommended that you express interest and obtain the documentation well before this time to allow sufficient time to prepare and submit a bid.\nThe deadline for returns is 12:00 on 22nd October 2026.\nDocuments are available at www.eastmidstenders.org\nPlease search for ENQ1",
-   "link": "https://www.find-tender.service.gov.uk/Notice/099394-2026",
    "first_seen": "2026-10-16"
   },
   "ocds-h6vhtk-06f111": {
@@ -24320,7 +23782,7 @@
    "buyer": "Bassetlaw District Council",
    "value": 18000000,
    "deadline": "2026-11-27T12:00:00+00:00",
-   "published": "2026-10-20T15:38:32+01:00",
+   "published": "2026-10-22T09:49:21+01:00",
    "category": "",
    "cpv_codes": [
     "79993000"
@@ -24329,24 +23791,7 @@
    "status": "active",
    "region": "East Midlands",
    "summary": "Bassetlaw District Council (the Council) wishes to invite tenders to appoint a suitably experienced operator to occupy and operate an indoor street food market within the Retford Town Hall's Buttermarket.\nThe operator will be responsible for all aspects of delivery, vendor management and commercial performance, in return for the right to trade from the premises and an opportunity to influence the final design and fit-out of the space.\nThe Council's objectives in appointing an operator are to:\n•\tAnimate and activate Retford town centre\n•\tSupport independent and start-up food businesses\n•\tProvide a high-quality, diverse and affordable food offer\n•\tIncrease footfall and dwell time\n•\tSupport the evening and weekend economy\n•\tDeliver social and economic value for the local area\nThe Buttermarket",
-   "link": "https://www.find-tender.service.gov.uk/Notice/099133-2026",
-   "first_seen": "2026-10-17"
-  },
-  "ocds-h6vhtk-05cd47": {
-   "title": "Reactive and Planned Maintenance - ELECTRICAL",
-   "buyer": "Police & Crime Commissioner for Merseyside & Chief Constable for Merseyside",
-   "value": 2500000.0,
-   "deadline": "2026-11-20T12:00:00+00:00",
-   "published": "2026-10-19T09:22:19+01:00",
-   "category": "",
-   "cpv_codes": [
-    "50700000"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "North East",
-   "summary": "Planned and reactive maintenance works for Electrical services.\nhttps://suppliersupport.atamis.co.uk/hc/en-gb\nC24445",
-   "link": "https://www.find-tender.service.gov.uk/Notice/098284-2026",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099787-2026",
    "first_seen": "2026-10-17"
   },
   "ocds-h6vhtk-078981": {
@@ -24406,20 +23851,20 @@
    "first_seen": "2026-10-17"
   },
   "ocds-h6vhtk-05cd45": {
-   "title": "Reactive and Planned Maintenance - Mechanical",
+   "title": "Reactive and Planned Maintenance - Mechanical & Electrical",
    "buyer": "Police & Crime Commissioner for Merseyside & Chief Constable for Merseyside",
-   "value": 2500000.0,
+   "value": 5000000.0,
    "deadline": "2026-11-20T12:00:00+00:00",
-   "published": "2026-10-19T09:20:23+01:00",
+   "published": "2026-10-22T09:21:16+01:00",
    "category": "",
    "cpv_codes": [
-    "50700000"
+    "50000000"
    ],
    "type": "services",
    "status": "active",
-   "region": "North East",
-   "summary": "Planned and reactive maintenance works for Electrical services.\nhttps://suppliersupport.atamis.co.uk/hc/en-gb\nC24445",
-   "link": "https://www.find-tender.service.gov.uk/Notice/098283-2026",
+   "region": "North West",
+   "summary": "Planned and reactive maintenance works for Mechanical and Electrical services.\nhttps://atamis-7459.my.site.com/login\nC24445",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099772-2026",
    "first_seen": "2026-10-17"
   },
   "ocds-h6vhtk-078987": {
@@ -26532,7 +25977,7 @@
    "buyer": "Qualifications Wales",
    "value": 133333.0,
    "deadline": "2026-11-30T17:00:00+00:00",
-   "published": "2026-10-19T17:01:10+01:00",
+   "published": "2026-10-22T09:10:35+01:00",
    "category": "",
    "cpv_codes": [
     "50700000"
@@ -26541,7 +25986,7 @@
    "status": "active",
    "region": "Wales",
    "summary": "Tender to award a Framework Agreement for a three-year period, with the option to extend for up to two further years, to provide Facilities Management Services at Qualifications Wales.\nPlanned and Reactive Facilities Management Services\n•\tStatutory Inspections and Maintenance\n•\tPlanned Preventative Maintenance\n•\tBreak Down Maintenance and Alterations\n•\tPotentially Minor New Works projects – for which quotes must be supplied",
-   "link": "https://www.find-tender.service.gov.uk/Notice/098671-2026",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099768-2026",
    "first_seen": "2026-10-20"
   },
   "ocds-h6vhtk-078b37": {
@@ -28088,7 +27533,7 @@
    "buyer": "Central Swindon North Parish Council",
    "value": null,
    "deadline": "2026-12-04T12:00:00+00:00",
-   "published": "2026-10-21T08:58:30+01:00",
+   "published": "2026-10-22T10:31:23+01:00",
    "category": "",
    "cpv_codes": [
     "34136200",
@@ -28099,7 +27544,7 @@
    "status": "active",
    "region": "South West",
    "summary": "The Council is seeking 1 (ONE) fully maintained contract hire of one new battery-electric medium panel van.\nSuppliers must submit separate quotations for 36-month and 60-month lease arrangements, based on 7,500 miles per annum.\nBoth contract durations will be independently evaluated using the published award criteria of 60% price and 40% quality. A Most Advantageous Tender (MAT) will be identified for each duration.\nThe Council has no preferred contract duration and reserves the right to award one contract only, selecting either the 36-month or 60-month arrangement in accordance with the published evaluation methodology.\nThe final award recommendation will be considered by Full Council in January 2027.\nTender prices will be evaluated excluding VAT. The estimated contract value, including V",
-   "link": "https://www.find-tender.service.gov.uk/Notice/099248-2026",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099829-2026",
    "first_seen": "2026-10-22"
   },
   "ocds-h6vhtk-078c6c": {
@@ -28975,7 +28420,7 @@
    "buyer": "Westcountry Schools Trust",
    "value": 11750000,
    "deadline": "2026-11-30T12:00:00+00:00",
-   "published": "2026-10-21T15:03:38+01:00",
+   "published": "2026-10-22T08:11:01+01:00",
    "category": "",
    "cpv_codes": [
     "79620000",
@@ -28987,7 +28432,7 @@
    "status": "active",
    "region": "South West",
    "summary": "This collaborative tender opportunity has been issued by Westcountry Schools Trust and Learning Academies Trust. The proposed contracts will be for the provision of supply agency services. The service is intended to provide access to safe, compliant and good quality agency workers when required, while supporting the Trust’s objectives of continuity of provision, safeguarding compliance, operational flexibility and value for money. The tender has been divided into Lots to reflect the two Academy Trusts and the different geographical areas in which the service will be delivered. The intention is to award four (4) separate contracts for each Lot following evaluation of tenders The contracts will be for a period of three (3) years, with the possible extension of two (2) further years in 12-mon",
-   "link": "https://www.find-tender.service.gov.uk/Notice/099580-2026",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099739-2026",
    "first_seen": "2026-10-22"
   },
   "ocds-h6vhtk-078d18": {
@@ -29402,6 +28847,1335 @@
    "summary": "This requirement is a re-procurement of Facilities Management Services for the British Embassy Tunis. The scope includes preventive maintenance, reactive maintenance, and emergency maintenance to ensure upkeep of offices, properties, and equipment. \nTe contract will be for a period of thre (3) years with two (2) one-eyar options to extend subject to satisfactory performance. The contract is anticipated to start 1 March 2027.",
    "link": "https://www.find-tender.service.gov.uk/Notice/099733-2026",
    "first_seen": "2026-10-22"
+  },
+  "ocds-h6vhtk-0774be": {
+   "title": "Southwark Purpose-Built Student Accommodation Operator",
+   "buyer": "Places for London Limited",
+   "value": 162310000,
+   "deadline": "2026-12-02T14:00:00+00:00",
+   "published": "2026-10-22T08:10:14+01:00",
+   "category": "",
+   "cpv_codes": [
+    "70300000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "London",
+   "summary": "Places for London, Transport for London's property company (formerly Transport Trading Limited Properties (TTLP)), is seeking to appoint an experienced PBSA operator to support the mobilisation and operation of the Southwark OSD scheme. The development will comprise of 429 private studios. While the scheme is at an advanced stage of design, the appointed operator will be expected to provide targeted input into the fit-out of amenity spaces, as well as lead the mobilisation phase and oversee the ongoing operation and management of the asset. \nAlthough the immediate requirement relates to the Southwark scheme, Places reserves the right to utilise the contract across its wider development pipeline. Accordingly, the procurement process will seek to identify an operator with the capability and ",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099738-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078d66": {
+   "title": "Port of Dover - IT Professional Resource Framework",
+   "buyer": "Dover Harbour Board",
+   "value": 3000000,
+   "deadline": "2026-11-21T17:00:00+00:00",
+   "published": "2026-10-22T08:43:52+01:00",
+   "category": "",
+   "cpv_codes": [
+    "72000000",
+    "72227000",
+    "72228000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "South East",
+   "summary": "DHB require IT Professional Resource Framework partners to provide suitably qualified people on a Time Charge and Work Order basis. The Framework will primarily support the Client's IGNITE digital transformation programme, alongside other IT projects across the Port. The Client's primary interest is in the following service areas, all of which are of equal importance: architecture and design, cyber security, project and change delivery, data and insight, testing and quality assurance, user experience and design, service transition, and IT support and technical services.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099744-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078d69": {
+   "title": "GSENZH Lead Financial Advisor",
+   "buyer": "Cambridgeshire and Peterborough Combined Authority",
+   "value": null,
+   "deadline": "2026-11-12T12:00:00+00:00",
+   "published": "2026-10-22T08:51:28+01:00",
+   "category": "",
+   "cpv_codes": [
+    "66171000",
+    "79412000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "East of England",
+   "summary": "The GSENZH is seeking an appropriately qualified supplier to provide a named Lead Financial Adviser who will act as an intelligent client for GSENZH and its project stakeholders throughout the contract. It is expected that this role will be a named individual who will remain consistent for the duration of the contract. The Supplier will bring deep subject-matter knowledge and extensive experience in developing and delivering investment strategies.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099750-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-06e5d1": {
+   "title": "Executive Recruitment Framework",
+   "buyer": "Stoke on Trent City Council",
+   "value": 168000.0,
+   "deadline": "2026-11-10T12:00:00+00:00",
+   "published": "2026-10-22T09:04:39+01:00",
+   "category": "",
+   "cpv_codes": [
+    "79600000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "West Midlands",
+   "summary": "Stoke-on-Trent City Council seeks to establish a multi-supplier Executive framework to support the recruitment to permanent senior leadership positions across the organisation.\nThe framework is expected to support recruitment of roles including but not limited to, Chief Officers,Corporate Directors, Directors and Heads of Service. For further information and access to tender documents please go to: https://procontract.due-north.com/Advert?advertId=34b77bbb-2fcd-f111-8141-6045bdf14b1f&p=08c1102f-61ba-e711-80e6-005056b64545",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099762-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-0524d2": {
+   "title": "North Northamptonshire Council Provision of Holiday Activities & Food Programme",
+   "buyer": "North Northamptonshire Council",
+   "value": 4400000,
+   "deadline": "2026-11-19T12:00:00+00:00",
+   "published": "2026-10-22T10:31:15+01:00",
+   "category": "",
+   "cpv_codes": [
+    "85000000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "East Midlands",
+   "summary": "North Northamptonshire Council is seeking to procure one Provider to work with the Council on the coordination and implementation of the Holiday Activities and Food Programme. This is a Department for Education Funded programme to deliver holiday activities, including a meal, to eligible children and their families during the Easter, Summer and Christmas school holiday. In addition to covering the essential three main holidays the Provider may offer further provision in half terms subject to budget.\nNorth Northamptonshire Council (hereafter referred to as the \"Council\") wishes to invite Tender Responses for the supply of services in respect of this requirement. \nThe Council's detailed requirements are defined in the Specification.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099828-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078d97": {
+   "title": "5486 - Bryn Awel Primary School - Installation of Pedestrian Control Gate",
+   "buyer": "Caerphilly County Borough Council",
+   "value": 35000.0,
+   "deadline": "2026-11-13T12:00:00+00:00",
+   "published": "2026-10-22T10:43:47+01:00",
+   "category": "",
+   "cpv_codes": [
+    "45310000",
+    "51100000",
+    "71314100",
+    "71334000"
+   ],
+   "type": "works",
+   "status": "active",
+   "region": "Wales",
+   "summary": "You are invited to submit a tender for the automation of the main pedestrian gate at Bryn Awel Primary School Rhymey. The scope of the project is fully described in Appendix 1 but in summary the scope is:\n1\t Excavate Trench from Pedestrian gate up to rear Plant room and insert cables. \n2\t Inspection chambers to be installed as required.\n3\t Make good with macadam to all disturbed work.\n4\t Provide Heras fencing around all working area to prevent unauthorised access.\n5\tProvide all necessary fixed scaffolding.\n6\tAllow for relocating the office control button to the main door.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099844-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078d99": {
+   "title": "5521 - Cwm Ifor Primary School - Installation of Pedestrian Control Gate",
+   "buyer": "Caerphilly County Borough Council",
+   "value": 35000.0,
+   "deadline": "2026-11-13T12:00:00+00:00",
+   "published": "2026-10-22T10:44:32+01:00",
+   "category": "",
+   "cpv_codes": [
+    "45310000",
+    "51100000",
+    "71314100",
+    "71334000"
+   ],
+   "type": "works",
+   "status": "active",
+   "region": "Wales",
+   "summary": "You are invited to submit a tender for the Installation of access control to the front pedestrian gate at Cwm Ifor Primary School Caerphilly. The scope of the project is fully described in Appendix 1 but in summary the scope is:\n1.  Excavate Trench from Pedestrian gate up to the school Plant room and insert cables. Cables to run internally to new gate controls in School Reception Office.\n2.  Inspection chambers to be installed as required.\n3.  Make good with macadam to all disturbed work.\n4. Provide Heras fencing around all working area to prevent unauthorised access.\n5. Provide all necessary fixed scaffolding/access equipment.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099846-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078d9c": {
+   "title": "UKRI-6017-METIUS",
+   "buyer": "UK Research & Innovation (UKRI)",
+   "value": 166666.67,
+   "deadline": "2026-11-16T11:00:00+00:00",
+   "published": "2026-10-22T10:49:20+01:00",
+   "category": "",
+   "cpv_codes": [
+    "73110000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "South West",
+   "summary": "The METIUS programme is a new infrastructure investment with a total UK funding allocation of £14.5 million. It aims to harness cutting-edge AI to improve the speed, relevance and accessibility of evidence synthesis for decision-makers tackling urgent challenges. METIUS is co-funded by the Department for Business, Innovation, Science and Trade (BIST), the Natural Environment Research Council (NERC) and forms part of the UKRI Creating Opportunities and Improving Outcomes strategic theme. The investment started on 1 October 2025 and will run for five years.\nThe purpose of the evaluation is to assess the extent to which the project has increased policymakers’ use of synthesised evidence to inform policy development, and to evaluate the associated benefits for evidence-informed public policy i",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099849-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-060d9b": {
+   "title": "Fostering and Continuing Care Services 0924",
+   "buyer": "Scotland Excel",
+   "value": 345000000,
+   "deadline": "2026-11-18T12:00:00+00:00",
+   "published": "2026-10-22T11:07:51+01:00",
+   "category": "Social work and related services",
+   "cpv_codes": [
+    "85300000",
+    "85310000",
+    "85310000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "Scotland",
+   "summary": "This Contract Notice pertains to a Flexible Framework for Fostering and Continuing Care Services 0924. The Flexible Framework will support local authorities to access nurturing family homes for children and young people who are care experienced. For more detail- see CONTRACT NOTICE ATTACHMENT (per III.1.4).",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099867-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-068746": {
+   "title": "Medical Electrodes, CTG Monitoring and Gels",
+   "buyer": "SUPPLY CHAIN COORDINATION LIMITED",
+   "value": 14000000,
+   "deadline": "2026-12-16T15:00:00+00:00",
+   "published": "2026-10-22T11:09:41+01:00",
+   "category": "",
+   "cpv_codes": [
+    "33140000",
+    "33121500",
+    "33123200",
+    "33121100",
+    "33124000",
+    "33124130",
+    "33123210",
+    "33195000",
+    "33140000",
+    "33124130"
+   ],
+   "type": "goods",
+   "status": "active",
+   "region": "London",
+   "summary": "This framework is for Medical Electrodes, CTG monitoring and Gels including and not limited to those listed below. Precise quantities are unknown. It is anticipated that the initial expenditure under the Framework will be approximately £30,000,000 ex VAT in the first year of this Framework Agreement, however this is approximate only and the values may vary depending on the requirements of those bodies purchasing under the Framework Agreement. Estimated value over the total Framework Agreement term is approximately £140,000,000 ex VAT.\nThe intended Lot Structure for this procurement is set out as follows:\nLot 1 - Medical Electrodes, CTG Monitoring and Associated Products\nLot 2 - Ultrasound Gels, Conductive Gels and Associated Products\nThe Framework will be between the Authority and individu",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099871-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078dac": {
+   "title": "Prone Face Cushions",
+   "buyer": "The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust",
+   "value": 48802.54,
+   "deadline": "2026-10-30T11:00:00+00:00",
+   "published": "2026-10-22T11:31:22+01:00",
+   "category": "",
+   "cpv_codes": [
+    "33140000"
+   ],
+   "type": "goods",
+   "status": "active",
+   "region": "West Midlands",
+   "summary": "Prone Face Cushions Consumables",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099885-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078dae": {
+   "title": "Prone Face Cushions",
+   "buyer": "The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust",
+   "value": 48802.54,
+   "deadline": "2026-10-30T11:00:00+00:00",
+   "published": "2026-10-22T11:33:58+01:00",
+   "category": "",
+   "cpv_codes": [
+    "33140000"
+   ],
+   "type": "goods",
+   "status": "active",
+   "region": "West Midlands",
+   "summary": "Prone Face Cushions Consumables",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099887-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-06b394": {
+   "title": "Equals Trust - Provision of ICT Managed Services Stage 1",
+   "buyer": "Equals Trust",
+   "value": 3000000,
+   "deadline": "2027-02-26T12:00:00+00:00",
+   "published": "2026-10-22T12:05:25+01:00",
+   "category": "",
+   "cpv_codes": [
+    "72000000",
+    "72510000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "East Midlands",
+   "summary": "This Procurement is being conducted in accordance with the Procurement Act 2023 using the competitive flexible procedure. 1.2.1. The Trust aims to achieve a consistent approach to ICT both for pupils and staff by moving to a Trust-model approach in the provision of ICT Managed Services (“the Service(s)”). This will enable the Trust to maximise the effectiveness of ICT equipment and services, as well as helping to share resources and best practice across all schools. 1.2.2. The Trust has no internal ICT resources and is therefore seeking an ICT Managed Services Provider (“the Supplier”) who will: a) act as the single point of contact for the Trust’s ICT requirements and management of the Trust’s other third-party ICT providers. b) centralise the management of ICT services at Trust level, ra",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099920-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078dc8": {
+   "title": "Education Recruitment Advertising and Resourcing Services",
+   "buyer": "Southern Universities Management Services (SUMS)",
+   "value": 80000000,
+   "deadline": "2027-02-19T12:00:00+00:00",
+   "published": "2026-10-22T16:34:22+01:00",
+   "category": "",
+   "cpv_codes": [
+    "79340000",
+    "79000000",
+    "79300000",
+    "79341000",
+    "79341100",
+    "79341200",
+    "79341400",
+    "79341500",
+    "79342000",
+    "79342100",
+    "79342200",
+    "79342300",
+    "79342310",
+    "79342311",
+    "79342320",
+    "79342400",
+    "79342410",
+    "79600000",
+    "79800000",
+    "79810000",
+    "79811000",
+    "79820000",
+    "79821000",
+    "79821100",
+    "79822500",
+    "79900000",
+    "79340000",
+    "79000000",
+    "79300000",
+    "79341000",
+    "79341100",
+    "79341200",
+    "79341400",
+    "79341500",
+    "79342000",
+    "79342100",
+    "79342200",
+    "79342300",
+    "79342310",
+    "79342311",
+    "79342320",
+    "79342400",
+    "79342410",
+    "79600000",
+    "79800000",
+    "79810000",
+    "79811000",
+    "79820000",
+    "79821000",
+    "79821100",
+    "79822500",
+    "79900000",
+    "79340000",
+    "79000000",
+    "79300000",
+    "79341000",
+    "79341100",
+    "79341200",
+    "79341400",
+    "79341500",
+    "79342000",
+    "79342100",
+    "79342200",
+    "79342300",
+    "79342310",
+    "79342311",
+    "79342320",
+    "79342400",
+    "79342410",
+    "79600000",
+    "79800000",
+    "79810000",
+    "79811000",
+    "79820000",
+    "79821000",
+    "79821100",
+    "79822500",
+    "79900000",
+    "79340000",
+    "79000000",
+    "79300000",
+    "79341000",
+    "79341100",
+    "79341200",
+    "79341400",
+    "79341500",
+    "79342000",
+    "79342100",
+    "79342200",
+    "79342300",
+    "79342310",
+    "79342311",
+    "79342320",
+    "79342400",
+    "79342410",
+    "79600000",
+    "79800000",
+    "79810000",
+    "79811000",
+    "79820000",
+    "79821000",
+    "79821100",
+    "79822500",
+    "79900000",
+    "79340000",
+    "79000000",
+    "79300000",
+    "79341000",
+    "79341100",
+    "79341200",
+    "79341400",
+    "79341500",
+    "79342000",
+    "79342100",
+    "79342200",
+    "79342300",
+    "79342310",
+    "79342311",
+    "79342320",
+    "79342400",
+    "79342410",
+    "79600000",
+    "79800000",
+    "79810000",
+    "79811000",
+    "79820000",
+    "79821000",
+    "79821100",
+    "79822500",
+    "79900000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "South East",
+   "summary": "For the supply of Education Recruitment Advertising, Marketing, Attraction and Student Recruitment Services",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100165-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-059404": {
+   "title": "Managed Debt Collection Services",
+   "buyer": "Government Commercial Agency",
+   "value": 650000000,
+   "deadline": "2026-11-27T15:00:00+00:00",
+   "published": "2026-10-22T12:47:45+01:00",
+   "category": "",
+   "cpv_codes": [
+    "66170000",
+    "71621000",
+    "75112000",
+    "75120000",
+    "75130000",
+    "79200000",
+    "79400000",
+    "79720000",
+    "79940000",
+    "79994000",
+    "75131000",
+    "79411000",
+    "79412000",
+    "79721000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "Not stated",
+   "summary": "This framework is for the provision of Managed Debt Collection Services using a Managed Service Provider (MSP). The MSP will manage a panel of FCA regulated Debt Collection Agencies (DCAs) who have specialist capabilities in debt management. The DCAs offer desk based collection services to arrange repayment of outstanding debts. The MSPs will use data to create debt recovery strategies and monitor performance. The MSP will ensure debt is collected sustainably and fairly, including identification and ethical treatment of vulnerable consumers.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099957-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078dd9": {
+   "title": "Air Handling Unit PPMs",
+   "buyer": "West Suffolk NHS Foundation Trust",
+   "value": 160000.0,
+   "deadline": "2026-11-25T12:00:00+00:00",
+   "published": "2026-10-22T12:47:36+01:00",
+   "category": "",
+   "cpv_codes": [
+    "50324200"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "East of England",
+   "summary": "Provision of Air Handling Unit PPMs",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099956-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-06d383": {
+   "title": "T26/27-024 PPM and RM 11 - CCTV Maintenance Services for Lisburn and Castlereagh City Council",
+   "buyer": "Lisburn & Castlereagh City Council",
+   "value": null,
+   "deadline": "2026-11-16T12:00:00+00:00",
+   "published": "2026-10-22T12:56:51+01:00",
+   "category": "",
+   "cpv_codes": [
+    "32235000",
+    "50000000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "Northern Ireland",
+   "summary": "This tender is for the provision of inspection, testing, maintenance, reactive response, asset verification and reporting of CCTV systems across the Council estate. Your proposal MUST be submitted within the eTendersNI portal, via this CfT. NO OTHER METHOD OF SUBMISSION WILL BE ACCEPTED.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099961-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078de1": {
+   "title": "Multi-Supplier Agreement for Design Services",
+   "buyer": "LONDON METROPOLITAN UNIVERSITY",
+   "value": 132000,
+   "deadline": "2026-11-24T17:00:00+00:00",
+   "published": "2026-10-22T13:13:29+01:00",
+   "category": "",
+   "cpv_codes": [
+    "79822500"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "North East",
+   "summary": "1.1\tThe University regularly requires creative design support across a wide range of marketing, communications, recruitment, student engagement, events, and internal and external stakeholder activity.\n1.2\tWhile some design provision is delivered in-house, the University requires a roster of external design agencies to provide additional expertise, capacity and specialist support. This will enable the University to deliver a range of design projects across different budgets, timescales and formats, while maintaining quality, consistency and alignment with London Metropolitan University's brand.\n1.3\tThe appointed agencies will support both day-to-day design requirements and larger strategic or flagship projects. This may include small-scale design and artwork tasks, campaign creative, public",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099969-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078de4": {
+   "title": "Defibs",
+   "buyer": "North East London NHS Foundation Trust",
+   "value": 26400,
+   "deadline": "2026-10-26T12:00:00+00:00",
+   "published": "2026-10-22T13:17:50+01:00",
+   "category": "",
+   "cpv_codes": [
+    "33182100"
+   ],
+   "type": "goods",
+   "status": "active",
+   "region": "Not stated",
+   "summary": "Supply & Deliver 22 New (not refurbished) Philips FRX defibrillators including cases",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099974-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-065a78": {
+   "title": "Pulse Oximetry, Capnography and Related Monitoring Technologies",
+   "buyer": "SUPPLY CHAIN COORDINATION LIMITED",
+   "value": 250000000,
+   "deadline": "2026-11-30T15:00:00+00:00",
+   "published": "2026-10-22T14:08:44+01:00",
+   "category": "",
+   "cpv_codes": [
+    "33140000",
+    "33195000",
+    "33157000",
+    "33195100",
+    "33195110",
+    "35125100",
+    "33195200",
+    "33140000",
+    "33195000",
+    "33157000",
+    "33195100",
+    "33195110",
+    "35125100",
+    "33195200"
+   ],
+   "type": "goods",
+   "status": "active",
+   "region": "Not stated",
+   "summary": "The scope of this procurement is for the provision of pulse oximetry, capnography and related patient monitoring technologies, including but not limited to monitors, devices and associated consumables for the four key base modalities;\nSaturated Pulse Oximetry (SPO2)\nEnd-tidal Carbon Dioxide (ETCO2) \nNear Infra-red Spectroscopy (NIRS)\nTranscutaneous Carbon Dioxide Partial Pressure (PCO2) \nDevices include finger, wrist, hand-held and bedside monitors, along with their compatible consumable products, including cables, wraps, single use and reusable sensors.\nNote: For future tenders the following requirements will apply:  \n• ISO Certification: Tenderers must have ISO 9001: 2015 or ISO 13485:2016 or Medical Device Single Audit Program (MDSAP) certification accredited by the United Kingdom Accre",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100013-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078ded": {
+   "title": "GLLM-ITT-64480 - 3G Pitch Upgrade - Rhos-On-Sea Campus",
+   "buyer": "Grwp Llandrillo Menai",
+   "value": 331000.0,
+   "deadline": "2026-11-19T12:00:00+00:00",
+   "published": "2026-10-22T13:39:03+01:00",
+   "category": "",
+   "cpv_codes": [
+    "45432100",
+    "45432110",
+    "45432111",
+    "45453100",
+    "45454100"
+   ],
+   "type": "works",
+   "status": "active",
+   "region": "Wales",
+   "summary": "Grŵp Llandrillo Menai (GLLM) is seeking tenders from suitably qualified and experienced contractors for the upgrade of the existing 3G artificial grass football pitch at its Rhos-on-Sea Campus.\nThe works will be undertaken in accordance with the technical specification, design and Schedule of Works provided within the tender documentation. The appointed contractor will be responsible for delivering the works in accordance with the specified requirements, applicable standards and agreed programme.\nThe procurement will be conducted through an open and competitive tender process. The tender opportunity will be published on Sell2Wales, with the tender documents, submission of tenders and procurement process managed through the eTenderWales portal.\neTenderWales: https://etenderwales.ukp.app.jag",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099991-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078df0": {
+   "title": "Public Rights of Way: Supply of Gates & Fittings",
+   "buyer": "Worcestershire County Council",
+   "value": 350000,
+   "deadline": "2026-11-20T16:00:00+00:00",
+   "published": "2026-10-22T13:44:30+01:00",
+   "category": "",
+   "cpv_codes": [
+    "44221300",
+    "45421100"
+   ],
+   "type": "goods",
+   "status": "active",
+   "region": "North East",
+   "summary": "The Council is seeking a supplier to deliver a comprehensive range of Public Rights of Way (PRoW) gates, access structures, fittings and replacement components compliant with BS 5709:2018. \nThe successful supplier will provide products to support the installation, maintenance and replacement of access infrastructure across the county, together with associated warranty support, technical information and ongoing availability of spare parts. \nThe Council's objective is to establish a establish a single-supplier contractual arrangement that delivers consistency, quality, accessibility and value for money across its Public Rights of Way network",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099998-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078df1": {
+   "title": "The Provision and Maintenance of a Cell Sorter",
+   "buyer": "MHRA",
+   "value": 475000.0,
+   "deadline": "2026-11-20T10:00:00+00:00",
+   "published": "2026-10-22T13:47:48+01:00",
+   "category": "",
+   "cpv_codes": [
+    "38000000"
+   ],
+   "type": "goods",
+   "status": "active",
+   "region": "Not stated",
+   "summary": "The Agency is looking to purchase a Cell Sorter as a replacement for Aria Cell Sorter (s/n P64828200097). This will include the purchase and maintenance of bespoke consumables and auxiliary equipment, if applicable.    \nThis cell sorter will support a number of projects such as Cancer Genomics, CAR-T cells, nanobody production, immune cell expansion, stem cells isolations, microbiome strain isolations.  \nIt will be required to isolate specific cell populations (e.g. transfected cells or cells with a specific phenotype) or allow clonal expansion of cells or feed into single cell sequencing pipelines if pre-isolation of cells is required.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100001-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078df6": {
+   "title": "Multi-Column Continuous Chromatography System and Automated Viral Inactivation System",
+   "buyer": "Cell & Gene Therapy Catapult",
+   "value": null,
+   "deadline": "2026-11-17T12:00:00+00:00",
+   "published": "2026-10-22T14:02:18+01:00",
+   "category": "",
+   "cpv_codes": [
+    "33100000",
+    "33197000",
+    "35810000",
+    "38000000",
+    "33100000",
+    "33197000",
+    "35810000",
+    "38000000"
+   ],
+   "type": "goods",
+   "status": "active",
+   "region": "London",
+   "summary": "CGTC are looking for the purchase and installation of  a multi-column chromatography system (MCCS) and a viral inactivation hardware system with related services e.g service, repair and maintenance contract, training and consumables for our Braintree Essex site. both systems will be system applicable for biopharmaceutical production.\nFor more information about this opportunity, please visit the eSourcing portal at: \nhttps://www.delta-esourcing.com/tenders/UK-UK-London:-Medical-equipments./6CCRCYB2WJ\nTo respond to this opportunity, please click here: \nhttps://www.delta-esourcing.com/respond/6CCRCYB2WJ",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100007-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078df8": {
+   "title": "LBS Glazing Housing & Non-Housing",
+   "buyer": "Leeds City Council",
+   "value": 1200000,
+   "deadline": "2026-11-26T12:00:00+00:00",
+   "published": "2026-10-22T14:06:33+01:00",
+   "category": "",
+   "cpv_codes": [
+    "45440000",
+    "45440000"
+   ],
+   "type": "works",
+   "status": "active",
+   "region": "Not stated",
+   "summary": "To undertake various glazing works for Leeds Building Services",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100010-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078df9": {
+   "title": "Homelessness Toolkits",
+   "buyer": "Local Government Association (LGA)",
+   "value": null,
+   "deadline": "2026-11-09T17:00:00+00:00",
+   "published": "2026-10-22T14:06:59+01:00",
+   "category": "",
+   "cpv_codes": [
+    "73200000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "London",
+   "summary": "The LGA have received a grant to commission the development of two toolkits delivered by one supplier focussed on homelessness prevention and temporary accommodation management following the publication of the MHCLG National Plan to End Homelessness Strategy.\nThis strategy outlines the cross departmental approach with a significant role for local authorities to play in the delivery of homelessness services and working to end homelessness. This means that, where homelessness does occur, these experiences should be rare – because homelessness is prevented wherever possible, brief – in that people should have access to support quickly, and non-recurring.\nThe purpose of these toolkits is for Local Authority usage as practical support for relevant officers and politicians to inform their work o",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100011-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078dfa": {
+   "title": "Homelessness Toolkits",
+   "buyer": "Local Government Association (LGA)",
+   "value": null,
+   "deadline": "2026-11-09T17:00:00+00:00",
+   "published": "2026-10-22T14:07:51+01:00",
+   "category": "",
+   "cpv_codes": [
+    "73200000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "London",
+   "summary": "The LGA have received a grant to commission the development of two toolkits delivered by one supplier focussed on homelessness prevention and temporary accommodation management following the publication of the MHCLG National Plan to End Homelessness Strategy.\nThis strategy outlines the cross departmental approach with a significant role for local authorities to play in the delivery of homelessness services and working to end homelessness. This means that, where homelessness does occur, these experiences should be rare – because homelessness is prevented wherever possible, brief – in that people should have access to support quickly, and non-recurring.\nThe purpose of these toolkits is for Local Authority usage as practical support for relevant officers and politicians to inform their work o",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100012-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078dfd": {
+   "title": "Highways Traffic Signals Framework",
+   "buyer": "Nottingham City Council",
+   "value": 2000000.0,
+   "deadline": "2026-12-03T12:00:00+00:00",
+   "published": "2026-10-22T16:15:06+01:00",
+   "category": "",
+   "cpv_codes": [
+    "63712700",
+    "45316000"
+   ],
+   "type": "works",
+   "status": "active",
+   "region": "East Midlands",
+   "summary": "Nottingham City Council  is seeking tenders from suitably experienced and qualified suppliers for inclusion on a Framework to deliver traffic signals work within the boundaries of Nottingham City Council.\nSubject to suitability, the Authority is seeking to appoint up to 3 Contractors to the Framework\nThe overall framework will have an estimated total value of £2,000,000 (VAT exclusive)\nThe expected duration of the Framework is for up to 4 years at the Authority’s discretion.\nThe Authority’s detailed requirements are defined in the Contract Specification\nNottingham City Council is migrating from the electronic tendering and procurement portal,, East Mids Tenders (Pro Contract) to the portal, Source East Midlands (powered by Panacea). Suppliers will need to register on Source East Midlands t",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100149-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078e00": {
+   "title": "Multi-Column Continuous Chromatography System and Automated Viral Inactivation System",
+   "buyer": "Cell & Gene Therapy Catapult",
+   "value": null,
+   "deadline": "2026-11-17T12:00:00+00:00",
+   "published": "2026-10-22T14:21:02+01:00",
+   "category": "",
+   "cpv_codes": [
+    "33100000",
+    "33197000",
+    "35810000",
+    "38000000",
+    "33100000",
+    "33197000",
+    "35810000",
+    "38000000"
+   ],
+   "type": "goods",
+   "status": "active",
+   "region": "London",
+   "summary": "CGTC are looking for the purchase and installation of  a multi-column chromatography system (MCCS) and a viral inactivation hardware system with related services e.g service, repair and maintenance contract, training and consumables for our Braintree Essex site. both systems will be system applicable for biopharmaceutical production.\nFor more information about this opportunity, please visit the eSourcing portal at: \nhttps://www.delta-esourcing.com/tenders/UK-UK-London:-Medical-equipments./6CCRCYB2WJ\nTo respond to this opportunity, please click here: \nhttps://www.delta-esourcing.com/respond/6CCRCYB2WJ",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100022-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078e09": {
+   "title": "Ice Cream Concession, Towneley Park",
+   "buyer": "Burnley Borough Council",
+   "value": 320000,
+   "deadline": "2026-11-23T12:00:00+00:00",
+   "published": "2026-10-22T14:47:16+01:00",
+   "category": "",
+   "cpv_codes": [
+    "15555000",
+    "15842300",
+    "55520000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "North West",
+   "summary": "The Council invites tenders for the concession to sell ice cream, confectionery and cold drinks from mobile ice cream vans in Towneley Park, Burnley according to the terms and conditions outlined and the associated Licence Agreement.\nTenders are invited from organisations that have the necessary resources, ability, and experience to meet the Council's requirements. The concession will commence on 1st March 2027 and run until 31st March 2032.\nThe Tender documents for this project contain the instructions for Tendering, and in the appendices/ schedules for completion and submission by tenderers - the Procurement Specific Questionnaire (PSQ) Form of Tender, Certificates of non-collusion and a bona fide tender, and Licence Agreement (for information only).\nIn the event of any conflict arising ",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100037-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-069161": {
+   "title": "Missing Children and Independent Return Home Conversation Service",
+   "buyer": "Buckinghamshire Council",
+   "value": null,
+   "deadline": "2026-11-19T12:00:00+00:00",
+   "published": "2026-10-22T14:59:02+01:00",
+   "category": "",
+   "cpv_codes": [
+    "85311300",
+    "85300000",
+    "85310000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "South East",
+   "summary": "Buckinghamshire Council is seeking to recommission its Missing Children and Independent Return Home Conversation Service.\nStatutory guidance requires children who have been reported missing to be offered an independent Return Home Conversation following their return, with the conversation normally taking place within 72 hours of the child returning home or to their care setting.\nThe Service will provide independent Return Home Conversations for eligible Buckinghamshire children and young people aged 10 to 17 inclusive following a missing episode, including Buckinghamshire children looked after who are placed outside the county.\nThe Service will identify safeguarding concerns, exploitation, unmet needs and factors contributing to missing behaviour, and support the identification and impleme",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100062-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078e15": {
+   "title": "Provision of Digital Customer Engagement Platform",
+   "buyer": "Codi Group Ltd",
+   "value": 200000.0,
+   "deadline": "2026-11-25T14:00:00+00:00",
+   "published": "2026-10-22T15:03:38+01:00",
+   "category": "",
+   "cpv_codes": [
+    "48000000",
+    "72000000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "Wales",
+   "summary": "The Group intends to establish a contract for the procurement of a digital customer engagement platform. Codi have recently launched the new, innovative customer influence framework which resets how customers influence our business. The online platform is one of the strands of this influence framework and will be used as a creative way of working with customers to influence the business through a range of online methodologies.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100068-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-05587c": {
+   "title": "Provision of a School Improvement Partner",
+   "buyer": "London Borough of Waltham Forest",
+   "value": 1689720.0,
+   "deadline": "2026-11-23T12:00:00+00:00",
+   "published": "2026-10-22T15:09:45+01:00",
+   "category": "",
+   "cpv_codes": [
+    "80000000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "London",
+   "summary": "The London Borough of Waltham Forest (&quot;the Authority&quot;) is seeking Tenders from suitably experienced and qualified organisations for the provision of a School Improvement Partner. T\nhe service shall commence on 1st April 2027 and shall continue up to and including 31st March 2028 with the option to extend for four periods of 12 months each at the discretion of the Authority and subject to satisfactory contractual performance. \nThe contract has the following extension options: \nA further 12 months from 1st April 2028 to 31st March 2029 \nA further 12 months from 1st April 2029 to 31st March 2030 \nA further 12 months from 1st April 2030 to 31st March 2031 \nA further 12 months from 1st April 2031 to 31st March 2032 \nThe Contract will cover the Services as follows: The School Improveme",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100075-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078e1c": {
+   "title": "CEFAS26-115 ITT for a Small Autonomous Underwater Vehicle",
+   "buyer": "CENTRE FOR ENVIRONMENT, FISHERIES AND AQUACULTURE SCIENCE",
+   "value": 100000.0,
+   "deadline": "2026-11-16T12:00:00+00:00",
+   "published": "2026-10-22T15:15:16+01:00",
+   "category": "",
+   "cpv_codes": [
+    "35512400"
+   ],
+   "type": "goods",
+   "status": "active",
+   "region": "Not stated",
+   "summary": "Cefas currently uses hand deployable multi-parameter sondes (CTDs) for collecting water column data. With the advent of easy-to-use small AUVs we wish to supplement these programs with more autonomous data collection. We envision a platform which will collect data comparable with our current instruments, which can also operate fully autonomously for a period of hours while our staff conduct other activities.\n3. Technical Requirement\nCefas require one small autonomous underwater vehicle equipped with biogeochemical sensors to supplement our water quality monitoring efforts.\n3.1 The vehicle will be capable of collecting marine biogeochemical observations to a depth of 250 m.\n3.2 It will weigh no more than 20 kg in air and will be deployable by a single person by hand, from shore or small ves",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100083-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078e1d": {
+   "title": "Emotional Mental Health and Wellbeing Service",
+   "buyer": "Wolverhampton City Council",
+   "value": 2832423.95,
+   "deadline": "2026-11-20T12:00:00+00:00",
+   "published": "2026-10-22T15:15:31+01:00",
+   "category": "",
+   "cpv_codes": [
+    "85000000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "West Midlands",
+   "summary": "The City of Wolverhampton Council, in partnership with Black Country Healthcare NHS Foundation Trust, is seeking a delivery partner(s) to provide the local Emotional Mental Health and Wellbeing (EMHWB) service. The EMHWB service will provide support to Children and Young People aged 5-18 years with mild to moderate emotional and mental health needs, extending up to age 25 for individuals with Special Educational Needs and Disabilities (SEND) or those who are care leavers.\nThe service will support a minimum of 1,800 Children and Young People annually.\nThe proposed contract term is an initial 3 years with 2 further optional 1 year extensions (3 + 1 + 1).\nThe contract is valued at £533,500 per annum.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100084-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078e21": {
+   "title": "RUG - Implementation of the Rugby Town Centre Wayfinding Strategy",
+   "buyer": "Rugby Borough Council",
+   "value": 530000,
+   "deadline": "2026-11-23T12:00:00+00:00",
+   "published": "2026-10-22T15:20:02+01:00",
+   "category": "",
+   "cpv_codes": [
+    "34928470",
+    "34928472",
+    "34928471"
+   ],
+   "type": "goods",
+   "status": "active",
+   "region": "West Midlands",
+   "summary": "The Borough Council is seeking the services of a suitably skilled and experienced Provider to design, supply and install a number of physical wayfinding items, as guided by and in compliance with the concepts of the Wayfinding Strategy (Appendix A.1). The aim of the project is to improve connectivity across the town and help ‘stitch’ key destinations and routes together. Sign locations have been determined based on the findings of analysis work. The new sign designs have been developed to respond sensitively to the conservation area while also aligning with the newly developed Rugby place brand, helping to create a cohesive and recognisable identity across the town centre.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100088-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-0785b5": {
+   "title": "Skills Bootcamp - HGV & PCV Driver Training Programme",
+   "buyer": "South Yorkshire Mayoral Combined Authority",
+   "value": 1000000,
+   "deadline": "2026-11-17T10:00:00+00:00",
+   "published": "2026-10-22T15:22:38+01:00",
+   "category": "",
+   "cpv_codes": [
+    "80400000",
+    "80400000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "Yorkshire and the Humber",
+   "summary": "Skills Bootcamp course provision across South Yorkshire, the primary purpose of which is the design, development and delivery of HGV and PCV Driver training programmes.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100091-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078e23": {
+   "title": "Green Links Study, New Forest National Park",
+   "buyer": "New Forest National Park Authority",
+   "value": 100000,
+   "deadline": "2026-11-16T12:00:00+00:00",
+   "published": "2026-10-22T15:23:31+01:00",
+   "category": "",
+   "cpv_codes": [
+    "71400000",
+    "72221000",
+    "72224000",
+    "73000000",
+    "90700000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "South East",
+   "summary": "The New Forest National Park Authority (NFNPA) is seeking a consultant to produce a four part study that examines the potential of connecting areas outside of the New Forest National Park (NFNP) boundary to land within and also connecting land within the core of the NFNP that is transected by major road arteries. See the included brief for a full description of the intended areas to be studied. \nThe budget for the study is £80-100,000 and will include for site visits, identification of potential connection points using existing mapping, published plans and realistic ideas for methods of connectivity.  Added value will clearly need to be proven at the higher end of the budget range.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100093-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078e24": {
+   "title": "ERCF2509N 05 Waterloo Cottage",
+   "buyer": "Conwy County Borough Council",
+   "value": 275000.0,
+   "deadline": "2026-11-19T16:00:00+00:00",
+   "published": "2026-10-22T15:23:34+01:00",
+   "category": "",
+   "cpv_codes": [
+    "45000000"
+   ],
+   "type": "works",
+   "status": "active",
+   "region": "Wales",
+   "summary": "Conwy County Borough Council is seeking a Contractor to undertake the below works in the county of Conwy, postcode LL22 8RH.\nThe existing concrete bag retaining wall supporting Waterloo Hill has deteriorated beyond repair and is at risk of failure. The scheme will replace and stabilise the structure through the installation of soil nails, a reinforced concrete retaining wall with masonry facing and natural stone parapet, together with carriageway reinstatement and resurfacing, ensuring the long-term stability of the highway.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100094-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-06da88": {
+   "title": "Injection Equipment Paraphernalia",
+   "buyer": "The Common Services Agency (more commonly known as Public Services Delivery Scotland) (PSD Scotland)",
+   "value": 4000000,
+   "deadline": "2026-11-19T12:00:00+00:00",
+   "published": "2026-10-22T15:34:22+01:00",
+   "category": "Medical needles",
+   "cpv_codes": [
+    "33141320",
+    "33141320",
+    "24300000",
+    "39223100",
+    "33141310",
+    "33141320",
+    "33157400",
+    "38544000",
+    "33141320",
+    "33141310",
+    "44174000",
+    "39223100",
+    "24300000",
+    "33141123",
+    "33141320",
+    "44174000",
+    "33141310",
+    "33141123",
+    "33600000"
+   ],
+   "type": "goods",
+   "status": "active",
+   "region": "Scotland",
+   "summary": "The Common Services Agency (more commonly known as Public Services Delivery Scotland (PSDS)) (‘the authority') acting through its division Procurement, Commissioning and Facilities is undertaking this procurement of supply and delivery of Individual Items and prepacked\nequipment for single use for people who use drugs including performance and image enhancing drugs as defined in section 5.2 of the IEP guidance IEP-in-Scotland-GPG-SDF-PHS-Oct-2021.pdf​ and for Naloxone products for administering by approved services on behalf of all\nentities constituted pursuant to the National Health Service(Scotland) Act 1978 (i.e. All NHS Scotland Health Boards, Special Health Boards and the Authority of other NHS Organisation established\npursuant to the NHS (Scotland) Act 1978), any integrated Joint Boa",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100110-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078e3e": {
+   "title": "Post Office Branch - Carr House Road",
+   "buyer": "Post Office Limited",
+   "value": null,
+   "deadline": "2026-11-05T23:59:59+00:00",
+   "published": "2026-10-22T16:05:40+01:00",
+   "category": "",
+   "cpv_codes": [
+    "64114000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "Yorkshire and the Humber",
+   "summary": "Post Office Ltd is looking for a successful retailer to incorporate a Post Office Local into their existing or proposed business.\nThe offer available in this Post Office would be:\nPost Office Local - integrating Post Office services into a vibrant and sustainable retail business, so they can be offered over the same opening hours. The exact layout and design will be agreed with you to suit your business.\nEstimated Post Office fees:\nIn the current location in the range of £8,000 - £14,000 per annum.\nFurther information can be found at: https://runapostoffice.co.uk/branch/carr-house-road-post-office-dn1-2by?search_term=DN1 2BY",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100139-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078e47": {
+   "title": "The Provision of Servicing, Maintenance and Supply of Breathing Air Compressors",
+   "buyer": "Cleveland Fire Authority",
+   "value": 210000,
+   "deadline": "2026-11-27T12:00:00+00:00",
+   "published": "2026-10-22T16:26:26+01:00",
+   "category": "",
+   "cpv_codes": [
+    "42123000",
+    "50000000",
+    "42123000",
+    "50000000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "Not stated",
+   "summary": "Cleveland Fire & Rescue Authority are conducting a Tender exercise on behalf of the participated services: Cleveland Fire & Rescue Authority, Durham & Darlington Fire & Rescue Service, Tyne & Wear Fire and Rescue Service and Northumberland Fire and Rescue Service (NFRS is administrated through TWFRS) for the provision of a Service, Maintenance and Supply of Breathing Air Compressors.\nThe purpose of this Introduction and Tender package is to provide all interested parties with the opportunity to propose an accurately priced solution for the provision of Service, Maintenance and Supply of Breathing Air Compressors in accordance with the Specification of requirements, terms and conditions of contract.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100157-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078e52": {
+   "title": "Cotham School - Invitation to Tender  School Management Information System (MIS)",
+   "buyer": "COTHAM SCHOOL",
+   "value": 75000,
+   "deadline": "2026-11-20T12:00:00+00:00",
+   "published": "2026-10-22T17:02:51+01:00",
+   "category": "",
+   "cpv_codes": [
+    "31711310",
+    "72000000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "South West",
+   "summary": "Cotham School are seeking a Software as a Service (SaaS) solution for the provision of a comprehensive Schools Management Information System (MIS). The primary objective of this tender is to procure a solution that enables schools to efficiently and effectively fulfil statutory and legislative responsibilities. The solution must support compliance with all relevant educational regulations and standards. \nThe required school management information system should streamline administrative processes, enhance data management, and improve overall operational efficiency.  It is essential that the solution minimises the need for third-party add-ons by encompassing a wide range of functionalities within a single platform.  This will ensure that schools can operate seamlessly without the additional ",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100184-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078e4f": {
+   "title": "Yorkshire Highway Alliance Road Markings Framework 2026-28",
+   "buyer": "Leeds City Council",
+   "value": 7200000,
+   "deadline": "2026-11-19T12:00:00+00:00",
+   "published": "2026-10-22T17:08:58+01:00",
+   "category": "",
+   "cpv_codes": [
+    "34922100",
+    "45233210"
+   ],
+   "type": "works",
+   "status": "active",
+   "region": "Yorkshire and the Humber",
+   "summary": "Implementation of road markings within Leeds and across the Yorkshire Highway Alliance",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100188-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078e54": {
+   "title": "QNAP NAS Device (New)",
+   "buyer": "British Film Institute",
+   "value": 80000.0,
+   "deadline": "2026-10-27T12:00:00+00:00",
+   "published": "2026-10-22T17:09:35+01:00",
+   "category": "",
+   "cpv_codes": [
+    "30210000",
+    "44316400",
+    "48820000"
+   ],
+   "type": "goods",
+   "status": "active",
+   "region": "London",
+   "summary": "We seek to procure a QNAP NAS device, fully populated with drives. Installation will be required into our operational network in the BFI National Archive Conservation Centre in Berkhamsted, Hertfordshire.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100189-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078e55": {
+   "title": "Renewable Energy Study Commission",
+   "buyer": "Erewash Borough Council",
+   "value": 40000,
+   "deadline": "2026-11-27T12:00:00+00:00",
+   "published": "2026-10-22T17:10:01+01:00",
+   "category": "",
+   "cpv_codes": [
+    "71314300"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "East Midlands",
+   "summary": "Erewash Borough Council (EBC) have started work on a new Local Plan, which will be drawn up using the new National Planning Policy Framework (NPPF) 2026. The Planning Policy team is embarking on an evidence base gathering exercise so that a new Local Plan can be submitted within the next 3 years, in line with Government objectives. EBC are now looking for a contractor to prepare and present a Renewable Energy Study to be used by the Planning Policy team to inform the Local Plan.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100190-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078e58": {
+   "title": "Assessment Venue and Invigilation Services - UK & EU",
+   "buyer": "General Medical Council (GMC)",
+   "value": 2500000.0,
+   "deadline": "2026-11-18T12:00:00+00:00",
+   "published": "2026-10-22T17:15:18+01:00",
+   "category": "",
+   "cpv_codes": [
+    "98341000",
+    "98341000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "Not stated",
+   "summary": "Background information\nThe General Medical Council (GMC) is the regulator for doctors, physician associates (PAs) and anaesthesia associates (AAs). \nThere are various routes to GMC registration for those wishing to work in the UK. All candidates wishing to obtain registration are required to demonstrate they have the necessary knowledge and skills. \nSome routes to registration require an assessment of knowledge and skills. Knowledge is typically demonstrated through an Applied Knowledge Test (AKT). The GMC currently provides AKT assessments for the following routes.\n- Professional Linguistic Assessment Board (PLAB)\n- Anaesthesia Associate Registration Assessment (AARA)\nThe GMC supports another regulator, Medical Council Ireland, to deliver their Pre-Registration Examination Assessment, kno",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100194-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-0787c0": {
+   "title": "CSGCC2627/200 - Design, Supply and Installation of an Accessible Immersive Learning Vehicle",
+   "buyer": "Coleg Sir Gar",
+   "value": 280000.0,
+   "deadline": "2026-11-16T00:00:00+00:00",
+   "published": "2026-10-22T18:23:06+01:00",
+   "category": "",
+   "cpv_codes": [
+    "34000000",
+    "32000000",
+    "48000000"
+   ],
+   "type": "goods",
+   "status": "active",
+   "region": "Not stated",
+   "summary": "The College is seeking to purchase a mobile immersive learning vehicle to provide a flexible and innovative experiential learning environment. The requirement is expected to be based around an accessible vehicle of approximately 3.5 tonnes, capable of travelling between college locations and other suitable sites.\nThe vehicle will incorporate immersive audio, visual, sensory and interactive technology to recreate realistic environments and scenarios. The solution will primarily support learners with Additional Learning Needs (ALN), while also providing opportunities for use across the wider College curriculum.\nThe College is seeking a complete, fully operational solution, including the vehicle, conversion, accessibility adaptations, immersive technology, installation, integration, commissio",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100203-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078e5d": {
+   "title": "ESPLANADE GARDENS, ROCHESTER LANDSCAPE IMPROVEMENTS - OCT 2026",
+   "buyer": "Medway Council",
+   "value": 400000.0,
+   "deadline": "2026-11-10T12:00:00+00:00",
+   "published": "2026-10-22T18:31:29+01:00",
+   "category": "",
+   "cpv_codes": [
+    "45112711"
+   ],
+   "type": "works",
+   "status": "active",
+   "region": "South East",
+   "summary": "Revised specification from July/Aug opportunity due to budget limitations. Landscape improvements and associated works including new playground at Esplanade Gardens, Rochester. Single contract with no staged delivery The Contract will be for an initial period of 0.5 years with an option to extend for a further period or periods up to a total of 1 years. The maximum contract term will therefore be 1 years. Submissions must be sent electronically via Delta on the Kent Business Portal. Hard copy submissions will not be accepted by the authority unless expressly agreed. Queries & Clarifications: Any queries must be addressed via Delta Kent Business Portal.\nFor more information about this opportunity, please visit the eSourcing portal at: \nhttps://www.delta-esourcing.com/tenders/UK-UK-Chatham:-",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100204-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-066a54": {
+   "title": "In-Vitro Diagnostics, Point of Care Testing & Pathology Services",
+   "buyer": "SUPPLY CHAIN COORDINATION LIMITED",
+   "value": 703101796,
+   "deadline": "2026-12-16T15:00:00+00:00",
+   "published": "2026-10-22T19:15:59+01:00",
+   "category": "",
+   "cpv_codes": [
+    "85111800",
+    "33127000",
+    "33124100",
+    "33124130",
+    "33124131",
+    "33140000",
+    "33141500",
+    "33141625",
+    "33186200",
+    "33192500",
+    "33696000",
+    "33696100",
+    "33696200",
+    "33696300",
+    "33696500",
+    "33698100",
+    "33790000",
+    "33793000",
+    "33900000",
+    "33910000",
+    "33930000",
+    "33931000",
+    "33932000",
+    "33933000",
+    "33936000",
+    "33937000",
+    "33944000",
+    "33945000",
+    "33946000",
+    "33947000",
+    "38434000",
+    "38434500",
+    "38434510",
+    "38434520",
+    "38434530",
+    "38434540",
+    "38434550",
+    "38434560",
+    "38434570",
+    "38434580",
+    "38435000",
+    "38436000",
+    "38436150",
+    "38436160",
+    "38436170",
+    "38436300",
+    "38436310",
+    "38436320",
+    "38437000",
+    "38437100",
+    "38437110",
+    "38437120",
+    "38500000",
+    "38520000",
+    "38544000",
+    "38540000",
+    "38911000",
+    "38912000",
+    "38950000",
+    "38951000",
+    "39180000",
+    "39181000",
+    "39711100",
+    "42122500",
+    "42513000",
+    "42513100",
+    "42513200",
+    "45215146",
+    "48180000",
+    "71900000",
+    "73111000",
+    "85111810",
+    "85111820",
+    "85145000",
+    "85111800",
+    "33127000",
+    "33124100",
+    "33124130",
+    "33124131",
+    "33140000",
+    "33141500",
+    "33141625",
+    "33186200",
+    "33192500",
+    "33696000",
+    "33696100",
+    "33696200",
+    "33696300",
+    "33696500",
+    "33698100",
+    "33790000",
+    "33793000",
+    "33900000",
+    "33910000",
+    "33930000",
+    "33931000",
+    "33932000",
+    "33933000",
+    "33936000",
+    "33937000",
+    "33944000",
+    "33945000",
+    "33946000",
+    "33947000",
+    "38434000",
+    "38434500",
+    "38434510",
+    "38434520",
+    "38434530",
+    "38434540",
+    "38434550",
+    "38434560",
+    "38434570",
+    "38434580",
+    "38435000",
+    "38436000",
+    "38436150",
+    "38436160",
+    "38436170",
+    "38436300",
+    "38436310",
+    "38436320",
+    "38437000",
+    "38437100",
+    "38437110",
+    "38437120",
+    "38500000",
+    "38520000",
+    "38544000",
+    "38540000",
+    "38911000",
+    "38912000",
+    "38950000",
+    "38951000",
+    "39180000",
+    "39181000",
+    "39711100",
+    "42122500",
+    "42513000",
+    "42513100",
+    "42513200",
+    "45215146",
+    "48180000",
+    "71900000",
+    "73111000",
+    "85111810",
+    "85111820",
+    "85145000",
+    "85111800",
+    "33127000",
+    "33124100",
+    "33124130",
+    "33124131",
+    "33140000",
+    "33141500",
+    "33141625",
+    "33186200",
+    "33192500",
+    "33696000",
+    "33696100",
+    "33696200",
+    "33696300",
+    "33696500",
+    "33698100",
+    "33790000",
+    "33793000",
+    "33900000",
+    "33910000",
+    "33930000",
+    "33931000",
+    "33932000",
+    "33933000",
+    "33936000",
+    "33937000",
+    "33944000",
+    "33945000",
+    "33946000",
+    "33947000",
+    "38434000",
+    "38434500",
+    "38434510",
+    "38434520",
+    "38434530",
+    "38434540",
+    "38434550",
+    "38434560",
+    "38434570",
+    "38434580",
+    "38435000",
+    "38436000",
+    "38436150",
+    "38436160",
+    "38436170",
+    "38436300",
+    "38436310",
+    "38436320",
+    "38437000",
+    "38437100",
+    "38437110",
+    "38437120",
+    "38500000",
+    "38520000",
+    "38544000",
+    "38540000",
+    "38911000",
+    "38912000",
+    "38950000",
+    "38951000",
+    "39180000",
+    "39181000",
+    "39711100",
+    "42122500",
+    "42513000",
+    "42513100",
+    "42513200",
+    "45215146",
+    "48180000",
+    "71900000",
+    "73111000",
+    "85111810",
+    "85111820",
+    "85145000"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "Not stated",
+   "summary": "NHS Supply Chain intends to launch a National Framework Agreement for the provision of In-Vitro Diagnostic Devices, Point of Care Testing Products & Related Pathology Services, this will include:\n- Pathology Managed Services\n- Reagent Rental Agreements\n- Pathology Maintenance Services\n- Pathology Software\n- Pathology Outsourced Services (Referral Testing Services)\n- Core Laboratory Equipment, Instruments & Consumables, to cover all pathology disciplines such as but not limited to Biochemistry, Microbiology, Immunology, Cellular Pathology, Virology, Haematology, Genomics & Molecular Testing and Reproductive Sciences\n- Point of Care Testing\n- Specimen Collection\n- Specimen Storage",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100209-2026",
+   "first_seen": "2026-10-23"
+  },
+  "ocds-h6vhtk-078e63": {
+   "title": "DCC Wastewater Sludge Cake Haulage",
+   "buyer": "Dwr Cymru Cyfyngedig",
+   "value": null,
+   "deadline": "2026-11-18T23:59:00+00:00",
+   "published": "2026-10-22T21:55:44+01:00",
+   "category": "",
+   "cpv_codes": [
+    "90513700",
+    "90513700",
+    "90513700",
+    "90513700"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "Wales",
+   "summary": "Dŵr Cymru Welsh Water (DCWW) is seeking suitably qualified and experienced suppliers to provide wastewater sludge cake haulage services across four Lots:\n- **Lot 1 – Intercompany Haulage (North Wales)**\n- **Lot 2 – Intercompany Haulage (South Wales)**\n- **Lot 3 – Cake-to-Land Haulage (North Wales)**\n- **Lot 4 – Cake-to-Land Haulage (South Wales)**\nServices include planned and ad hoc collection, transportation and delivery of sludge cake between operational sites, treatment facilities, approved agricultural land and other authorised destinations, including associated activities where required.\nSuppliers may tender for one or more Lots. DCWW intends to appoint Primary Suppliers and may appoint Reserve Suppliers in accordance with the published allocation methodology.\nThe Transfer of Undertak",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100217-2026",
+   "first_seen": "2026-10-23"
   }
  }
 }

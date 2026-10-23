@@ -1,6 +1,45 @@
 {
- "updated": "2026-10-22T05:54:24.950931+00:00",
+ "updated": "2026-10-23T05:55:16.498499+00:00",
  "tenders": [
+  {
+   "title": "GSENZH Lead Financial Advisor",
+   "buyer": "Cambridgeshire and Peterborough Combined Authority",
+   "region": "East of England",
+   "value": null,
+   "deadline": "2026-11-12T12:00:00+00:00",
+   "first_seen": "2026-10-23",
+   "category": "",
+   "score": 6,
+   "why": "Financial consultancy, \"financial advisor\" in title",
+   "summary": "The GSENZH is seeking an appropriately qualified supplier to provide a named Lead Financial Adviser who will act as an intelligent client for GSENZH and its project stakeholders throughout the contract. It is expected that this role will be a named individual who will remain consistent for the duration of the contract. The Supplier will bring deep subject-matter knowledge and extensive experience in developing and delivering investment strategies.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/099750-2026"
+  },
+  {
+   "title": "Green Links Study, New Forest National Park",
+   "buyer": "New Forest National Park Authority",
+   "region": "South East",
+   "value": 100000,
+   "deadline": "2026-11-16T12:00:00+00:00",
+   "first_seen": "2026-10-23",
+   "category": "",
+   "score": 3,
+   "why": "Project management consultancy",
+   "summary": "The New Forest National Park Authority (NFNPA) is seeking a consultant to produce a four part study that examines the potential of connecting areas outside of the New Forest National Park (NFNP) boundary to land within and also connecting land within the core of the NFNP that is transected by major road arteries. See the included brief for a full description of the intended areas to be studied. \nThe budget for the study is £80-100,000 and will include for site visits, identification of potential connection points using existing mapping, published plans and realistic ideas for methods of connectivity.  Added value will clearly need to be proven at the higher end of the budget range.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100093-2026"
+  },
+  {
+   "title": "Renewable Energy Study Commission",
+   "buyer": "Erewash Borough Council",
+   "region": "East Midlands",
+   "value": 40000,
+   "deadline": "2026-11-27T12:00:00+00:00",
+   "first_seen": "2026-10-23",
+   "category": "",
+   "score": 3,
+   "why": "Energy efficiency consultancy",
+   "summary": "Erewash Borough Council (EBC) have started work on a new Local Plan, which will be drawn up using the new National Planning Policy Framework (NPPF) 2026. The Planning Policy team is embarking on an evidence base gathering exercise so that a new Local Plan can be submitted within the next 3 years, in line with Government objectives. EBC are now looking for a contractor to prepare and present a Renewable Energy Study to be used by the Planning Policy team to inform the Local Plan.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/100190-2026"
+  },
   {
    "title": "Provision of Provision of a Cemetery Site Feasibility Assessment and Wider Site Search",
    "buyer": "Peterborough City Council",

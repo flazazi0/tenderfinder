@@ -1,6 +1,71 @@
 {
- "updated": "2026-10-26T05:57:38.549734+00:00",
+ "updated": "2026-10-27T05:56:26.591878+00:00",
  "tenders": [
+  {
+   "title": "Solar PV Feasibility Study Consultancy for the Office and Residential Properties at the British High Commission Lusaka",
+   "buyer": "Foreign, Commonwealth and Development Office",
+   "region": "Not stated",
+   "value": 30000,
+   "deadline": "2026-11-06T15:00:00+00:00",
+   "first_seen": "2026-10-27",
+   "category": "",
+   "score": 4,
+   "why": "\"feasibility\" in title, \"economic appraisal\" in summary",
+   "summary": "Consultancy services for the delivery of a comprehensive Solar PV Feasibility Study for the British High Commission Lusaka estate, including the Chancery, the High Commissioner's Residence and designated staff residential properties. The scope includes site assessments, energy demand analysis, solar PV generation modelling, battery storage and energy resilience assessment, financial and economic appraisal, options analysis, and the provision of a final feasibility report with recommendations to support future procurement and implementation of solar energy solutions. The contract value is £30,000 and the services are to be delivered in accordance with the requirements set out in the Request for Proposal.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/101058-2026"
+  },
+  {
+   "title": "Independent eval. of the NHS solar and battery storage scheme 25/26",
+   "buyer": "NHS England",
+   "region": "London",
+   "value": 95000.0,
+   "deadline": "2026-11-06T12:00:00+00:00",
+   "first_seen": "2026-10-27",
+   "category": "",
+   "score": 4,
+   "why": "Environmental issues consultancy, \"value for money\" in summary",
+   "summary": "Independent evaluation of the Solar and battery storage scheme delivered through the NHS in England. The evaluation will assess the impact, delivery and value for money of capital investment in solar PV and associated battery storage at NHS sites, including the extent to which funded projects reduce carbon emissions, lower energy costs, improve on-site energy generation and strengthen energy resilience.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/101248-2026"
+  },
+  {
+   "title": "Partners in Care and Health – External Evaluation of the Continuous Improvement Programme 2026-29",
+   "buyer": "Improvement and Development Agency for Local Government (IDeA)",
+   "region": "Not stated",
+   "value": 150000.0,
+   "deadline": "2026-12-02T17:00:00+00:00",
+   "first_seen": "2026-10-27",
+   "category": "",
+   "score": 3,
+   "why": "\"evaluation\" in title",
+   "summary": "Design and delivery of the evaluation of the Continuous Improvement Programme 2026-29, a grant funded programme commissioned by the Department of Health and Social Care to deliver improvement support to councils and systems that provide adult social care services.\nThe project will be delivered over the lifespan of the programme, requiring the design of the evaluation methodology in Year 1 and consequent undertaking of the evaluation in Years 2 and 3. The focus will be on capturing and assessing the value and impact of the programme, in line with contractual requirements specified in the grant funding terms and conditions.\nIn delivery of the External Evaluation project, PCH will require the following objectives to be delivered:\nPriority Objectives\n•\tTo develop and implement a robust and tra",
+   "link": "https://www.find-tender.service.gov.uk/Notice/101137-2026"
+  },
+  {
+   "title": "Economic Analysis of Deer Management with a Focus on Venison Supply Chain Development in and around the New Forest National Park",
+   "buyer": "New Forest National Park Authority",
+   "region": "South East",
+   "value": 15000,
+   "deadline": "2026-11-20T12:00:00+00:00",
+   "first_seen": "2026-10-27",
+   "category": "",
+   "score": 3,
+   "why": "Feasibility study, advisory service, analysis",
+   "summary": "The New Forest National Park Authority, Natural England and Forestry Commission are working together to convene experts and stakeholders to produce a Protected Site Strategy (PSS) and Strategic Action Plan (SAP) for deer management for the New Forest National Park and surrounding area. \nA critical component of enabling sustainable deer management is the effective utilisation of venison. A well-functioning venison supply chain can help offset management costs, create economic incentives, and support local food systems and rural economies.\nHowever, the venison supply chain in and around the New Forest is currently perceived as underdeveloped, with constraints in processing capacity, market access, coordination, and demand.\nThis commission seeks to understand the economics of deer management ",
+   "link": "https://www.find-tender.service.gov.uk/Notice/101214-2026"
+  },
+  {
+   "title": "Assessment of Deer Management Capacity and Workforce in and around the New Forest National Park",
+   "buyer": "New Forest National Park Authority",
+   "region": "South East",
+   "value": 25000,
+   "deadline": "2026-11-20T12:00:00+00:00",
+   "first_seen": "2026-10-27",
+   "category": "",
+   "score": 3,
+   "why": "Feasibility study, advisory service, analysis",
+   "summary": "The New Forest National Park Authority, Natural England and Forestry Commission are working together to convene experts and stakeholders to produce a Protected Site Strategy (PSS) and Strategic Action Plan (SAP) for deer management for the New Forest National Park and surrounding area.\nEffective and sustainable deer management is a critical component of achieving outcomes for nature and is dependent on a skilled and sufficiently resourced workforce.\nThis commission seeks to develop a robust evidence base on current deer management capacity and capability within and supporting the project area geography.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/101219-2026"
+  },
   {
    "title": "New Stanton Park Access Improvements: Economic Appraisal of Options",
    "buyer": "Erewash Borough Council",
@@ -67,19 +132,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/100557-2026"
   },
   {
-   "title": "L26036-T-JW Foreign Exchange Tender",
-   "buyer": "London Luton Airport Operations Limited",
-   "region": "Not stated",
-   "value": null,
-   "deadline": "2026-10-28T12:00:00+00:00",
-   "first_seen": "2026-10-24",
-   "category": "Foreign exchange services",
-   "score": 1,
-   "why": "\"value for money\" in summary",
-   "summary": "London Luton Airport Operations Limited (“LLA”) is voluntarily advertising this opportunity through Find a Tender solely to enhance the profile and visibility of the opportunity. LLA does not consider to be subject to the Procurement Act 2023 and publication of this notice does not constitute an acceptance that the Procurement Act 2023 applies to LLA or to this procurement. \nLondon Luton Airport (LLA) is seeking to appoint a Foreign Exchange (FX) concession partner to deliver an innovative and customer-focused FX service. Bidders must demonstrate their ability to provide high-quality service, operational excellence, value for money, and an enhanced passenger experience for approximately 19 million passengers per annum.\nThe concession will have a maximum term of five (5) years. Bidders may ",
-   "link": "https://www.find-tender.service.gov.uk/Notice/100674-2026"
-  },
-  {
    "title": "GSENZH Lead Financial Advisor",
    "buyer": "Cambridgeshire and Peterborough Combined Authority",
    "region": "East of England",
@@ -142,7 +194,7 @@
    "score": 5,
    "why": "General management consultancy, \"net zero\" in summary, \"decarbonisation\" in summary",
    "summary": "In 2021, the NHS Public Board approved a roadmap to drive supplier decarbonisation and support the achievement of the NHS Net Zero target. The 2028 milestone of this roadmap outlines new requirements to be introduced overseeing the provision of carbon footprints for individual products supplied to the NHS. The 2025 Five years of a greener NHS progress report refined the scope of this milestone to high-emission areas, particularly pharmaceuticals, medical technologies, and digital where more granular carbon insights can deliver value on the NHS’s journey to net zero. There isn’t currently a single methodology to measure product level emissions, and further work is required to define the technical approach that will deliver the expected benefits of this policy. This procurement exercise outl",
-   "link": "https://www.find-tender.service.gov.uk/Notice/099715-2026"
+   "link": "https://www.find-tender.service.gov.uk/Notice/101256-2026"
   },
   {
    "title": "T26-112BUS Design and Delivery of the NW Community Wealth Building Programme",
@@ -600,19 +652,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/094286-2026"
   },
   {
-   "title": "ITT - Recording techniques for climate-driven loss - UID 344",
-   "buyer": "Historic England",
-   "region": "South West",
-   "value": 20000,
-   "deadline": "2026-10-28T09:30:00+00:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 3,
-   "why": "Evaluation consultancy",
-   "summary": "This project will support Historic England to develop guidance for asset owners and managers with different levels of expertise, capacity and resource looking to record and document change to heritage assets at risk from climate-driven impacts and loss.\nThe project will examine existing resources, case studies and information on different methods for recording, documenting and engaging with environmental and climate-driven change to heritage assets (e.g. through creative or community-led projects). The project will consult with a range of stakeholders and utilise existing Historic England internal user needs information to make recommendations for recording and documenting methods which would be appropriate for owners and managers with different levels of expertise, capacity and resource.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/089809-2026"
-  },
-  {
    "title": "SOL Local Enterprise Support 2027",
    "buyer": "Solihull Metropolitan Borough Council",
    "region": "West Midlands",
@@ -691,19 +730,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/094655-2026"
   },
   {
-   "title": "Consultation Services for Existing Town Plan Reviews, and Rural Place Plan Review Development for Gilford, Keady and Rathfriland",
-   "buyer": "Armagh City, Banbridge and Craigavon Borough Council",
-   "region": "Northern Ireland",
-   "value": null,
-   "deadline": "2026-10-28T12:00:00+00:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 3,
-   "why": "Development consultancy",
-   "summary": "Armagh City, Banbridge and Craigavon Borough Council invites Tenders from suitably experienced and qualified Consultant Teams to review existing town plans and develop Rural Place Plan Reviews for the three places of Gilford, Keady and Rathfriland. Further detail available within Documents section of eTendersNI CfT workspace.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/094782-2026"
-  },
-  {
    "title": "Domestic Abuse Needs Assessment",
    "buyer": "Birmingham City Council",
    "region": "West Midlands",
@@ -741,19 +767,6 @@
    "why": "\"net zero\" in summary, \"decarbonisation\" in summary",
    "summary": "This procurement is for a Rotherham local area energy plan, or 'LAEP'.  A Rotherham LAEP will be expected to deliver the following: \n•\tStakeholder Engagement with primary and secondary external stakeholders\n•\tData collection and analysis\n•\tModelling scenarios and pathways to net zero local area carbon dioxide emissions from the energy system in Rotherham.\n•\tIdentifying, prioritising and refining projects and enabling actions required to achieve local and regional climate change mitigation goals.\n•\tDefining a monitoring and evaluation framework, comprising key indicators of progress against decarbonisation pathways and delivery, as follows:\n•\tA final report and executive summary for policy makers, conveying the scale and range of activity needed to achieve a net zero local energy system; es",
    "link": "https://www.find-tender.service.gov.uk/Notice/096888-2026"
-  },
-  {
-   "title": "Strategic Estates, Asset Management and Capital Project Consultancy Services",
-   "buyer": "Maiden Erlegh Trust",
-   "region": "South East",
-   "value": 250000.0,
-   "deadline": "2026-10-29T00:00:00+00:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 2,
-   "why": "\"feasibility\" in summary, \"value for money\" in summary",
-   "summary": "The Trust is seeking to appoint an experienced consultancy provider to deliver Strategic Estates, Asset Management and Capital Project Consultancy Services.\nThe successful supplier will act as the Trust's preferred consultancy partner, providing professional advice and support in the planning, development and delivery of estates strategies, asset management initiatives and capital projects across the Trust's portfolio of schools. The appointed supplier will work collaboratively with key stakeholders, including school leaders, Trust executives, estates personnel and other relevant parties, to ensure projects are delivered effectively, achieve value for money, and align with the Trust's strategic objectives.\nIndividual commissions may range from strategic advisory services, feasibility studi",
-   "link": "https://www.find-tender.service.gov.uk/Notice/092905-2026"
   },
   {
    "title": "Photography Services Framework",

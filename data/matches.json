@@ -1,6 +1,71 @@
 {
- "updated": "2026-10-27T05:56:26.591878+00:00",
+ "updated": "2026-10-28T06:02:09.626016+00:00",
  "tenders": [
+  {
+   "title": "Appointment of a Service Provider to Develop the Social Supermarket Network and Deliver a Community Growing and Food Skills Programme Supported by PEACEPLUS",
+   "buyer": "Armagh City Banbridge and Craigavon Borough Council",
+   "region": "Northern Ireland",
+   "value": 165000,
+   "deadline": "2026-11-18T23:59:59+00:00",
+   "first_seen": "2026-10-28",
+   "category": "",
+   "score": 3,
+   "why": "General management consultancy",
+   "summary": "The purpose of this tender is to establish a coordinated and sustainable service across multiple social supermarket locations and partner organisations. The Contractor shall deliver two complementary workstreams in line with the objectives under Theme 1Building Peaceful and Thriving Communities: Workstream 1 Development of a sustainable food supply network for participating social supermarkets. Workstream 2 Delivery of a community growing and food skills programme across five participating locations. Building on this local network, the project will address immediate needs associated with food poverty and food insecurity while helping participants develop a more positive and sustainable relationship with food. Delivery will include practical activity focused on health and nutrition, cooking",
+   "link": "https://www.find-tender.service.gov.uk/Notice/101389-2026"
+  },
+  {
+   "title": "T26/27-008 PEACE PLUS - Celebrating Us",
+   "buyer": "Lisburn and Castlereagh City Council",
+   "region": "Northern Ireland",
+   "value": null,
+   "deadline": "2026-11-27T12:00:00+00:00",
+   "first_seen": "2026-10-28",
+   "category": "",
+   "score": 3,
+   "why": "Project management consultancy",
+   "summary": "The Lisburn and Castlereagh City Council (LCCC) PEACEPLUS Partnership is currently seeking to appoint an appropriate delivery organisation to develop and deliver the Celebrating Us programme under the theme Celebrating Cultures and Diversity. LCCC welcome potential deliverers, working in similar sectors or areas of expertise, to make a submission as a partnership bid. Your proposal MUST be submitted within the eTendersNI portal, via this CfT. NO OTHER METHOD OF SUBMISSION WILL BE ACCEPTED.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/101574-2026"
+  },
+  {
+   "title": "Climate Vulnerability Intelligence Dashboard Feasibility Project",
+   "buyer": "South East Wales Corporate Joint Committee",
+   "region": "Wales",
+   "value": 120000.0,
+   "deadline": "2026-11-13T12:00:00+00:00",
+   "first_seen": "2026-10-28",
+   "category": "",
+   "score": 3,
+   "why": "\"feasibility\" in title",
+   "summary": "Undertake a feasibility assessment for an innovative Climate Vulnerability Intelligence Dashboard for Wales, bringing together climate, carbon, environmental, health, demographic and socio-economic information to develop an innovative solution that enables consistent, evidence-led decisions on climate adaptation and resilience for the public sector.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/101694-2026"
+  },
+  {
+   "title": "Establishment of Framework for Mediation Service– External Conflict Resolution",
+   "buyer": "Independent Commission for Reconciliation and Information Recovery",
+   "region": "Northern Ireland",
+   "value": 40000,
+   "deadline": "2026-11-30T23:59:59+00:00",
+   "first_seen": "2026-10-28",
+   "category": "",
+   "score": 1,
+   "why": "\"value for money\" in summary",
+   "summary": "ICRIR wishes to establish a call-off framework/contract for the provision of independent external workplace mediation and conflict resolution services. The service will provide access to suitably qualified and experienced mediators to support the early resolution of workplace disputes, employee relations issues and conflict situations. The arrangement will operate on an as-required basis with no guarantee of work, enabling the organisation to access specialist mediation expertise only when required. The contract will support positive employee relations outcomes, reduce the risk of escalation into formal procedures, and provide value for money through a flexible, demand-led service model.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/101427-2026"
+  },
+  {
+   "title": "Passenger Services Cost Benchmarking Study",
+   "buyer": "Office of Rail and Road",
+   "region": "Not stated",
+   "value": 90000,
+   "deadline": "2026-11-23T17:00:00+00:00",
+   "first_seen": "2026-10-28",
+   "category": "",
+   "score": 1,
+   "why": "\"value for money\" in summary",
+   "summary": "The Office of Rail and Road (ORR) is the independent economic and safety regulator of Britain's railways. ORR is developing its capability to assess the efficiency, productivity and value for money of passenger train operations.\nHistorically, passenger services have been delivered through a range of Train Operating Companies (TOCs), each with differing operating characteristics, service patterns and cost structures. As most of the industry moves towards a more integrated railway structure, ORR requires a robust framework for understanding variations in train operating expenditure and for benchmarking performance across the railway. \nPrevious analytical work has demonstrated that econometric benchmarking of the cost of passenger operators is feasible using Great Britain rail industry data a",
+   "link": "https://www.find-tender.service.gov.uk/Notice/101583-2026"
+  },
   {
    "title": "Solar PV Feasibility Study Consultancy for the Office and Residential Properties at the British High Commission Lusaka",
    "buyer": "Foreign, Commonwealth and Development Office",
@@ -12,7 +77,7 @@
    "score": 4,
    "why": "\"feasibility\" in title, \"economic appraisal\" in summary",
    "summary": "Consultancy services for the delivery of a comprehensive Solar PV Feasibility Study for the British High Commission Lusaka estate, including the Chancery, the High Commissioner's Residence and designated staff residential properties. The scope includes site assessments, energy demand analysis, solar PV generation modelling, battery storage and energy resilience assessment, financial and economic appraisal, options analysis, and the provision of a final feasibility report with recommendations to support future procurement and implementation of solar energy solutions. The contract value is £30,000 and the services are to be delivered in accordance with the requirements set out in the Request for Proposal.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/101058-2026"
+   "link": "https://www.find-tender.service.gov.uk/Notice/101321-2026"
   },
   {
    "title": "Independent eval. of the NHS solar and battery storage scheme 25/26",
@@ -31,14 +96,14 @@
    "title": "Partners in Care and Health – External Evaluation of the Continuous Improvement Programme 2026-29",
    "buyer": "Improvement and Development Agency for Local Government (IDeA)",
    "region": "Not stated",
-   "value": 150000.0,
+   "value": 125000.0,
    "deadline": "2026-12-02T17:00:00+00:00",
    "first_seen": "2026-10-27",
    "category": "",
    "score": 3,
    "why": "\"evaluation\" in title",
    "summary": "Design and delivery of the evaluation of the Continuous Improvement Programme 2026-29, a grant funded programme commissioned by the Department of Health and Social Care to deliver improvement support to councils and systems that provide adult social care services.\nThe project will be delivered over the lifespan of the programme, requiring the design of the evaluation methodology in Year 1 and consequent undertaking of the evaluation in Years 2 and 3. The focus will be on capturing and assessing the value and impact of the programme, in line with contractual requirements specified in the grant funding terms and conditions.\nIn delivery of the External Evaluation project, PCH will require the following objectives to be delivered:\nPriority Objectives\n•\tTo develop and implement a robust and tra",
-   "link": "https://www.find-tender.service.gov.uk/Notice/101137-2026"
+   "link": "https://www.find-tender.service.gov.uk/Notice/101289-2026"
   },
   {
    "title": "Economic Analysis of Deer Management with a Focus on Venison Supply Chain Development in and around the New Forest National Park",

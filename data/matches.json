@@ -1,6 +1,71 @@
 {
- "updated": "2026-10-29T06:03:41.116923+00:00",
+ "updated": "2026-10-30T06:04:52.627632+00:00",
  "tenders": [
+  {
+   "title": "Masterplan Feasibility Visioning Architect​",
+   "buyer": "Science Museum Group",
+   "region": "London",
+   "value": 100000,
+   "deadline": "2026-11-24T15:00:00+00:00",
+   "first_seen": "2026-10-30",
+   "category": "",
+   "score": 6,
+   "why": "\"feasibility\" in title, \"masterplan\" in title",
+   "summary": "The Science Museum Group (“SMG”) wishes to establish a contract for the provision of a Feasibility Visioning Architect.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/102742-2026"
+  },
+  {
+   "title": "Request for Quotation  Feasibility Study and Business Case to assess the introduction of additional rail services between Doncaster and Scunthorpe",
+   "buyer": "North Lincolnshire Council",
+   "region": "Yorkshire and the Humber",
+   "value": null,
+   "deadline": "2026-11-18T17:00:00+00:00",
+   "first_seen": "2026-10-30",
+   "category": "",
+   "score": 6,
+   "why": "\"business case\" in title, \"feasibility\" in title",
+   "summary": "The project is to deliver a feasibility study and investment-ready business case to help build the case for the reinstatement an hourly Doncaster-Scunthorpe rail service and to introduce a Sunday service operated by Northern Trains.\nThe reinstated service is expected to slot into the existing timetable and restore key links for rural communities, improving access to jobs, education and essential services.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/102914-2026"
+  },
+  {
+   "title": "Gypsy and Traveller Accommodation Assessment for Hull Local Plan",
+   "buyer": "Hull City Council",
+   "region": "Yorkshire and the Humber",
+   "value": 30000,
+   "deadline": "2026-11-16T12:00:00+00:00",
+   "first_seen": "2026-10-30",
+   "category": "",
+   "score": 3,
+   "why": "Urban planning",
+   "summary": "Hull City Council (The Authority) is seeking tenders from interested organisations to provide services for the Gypsy and Traveller Accommodation Assessment for Hull Local Plan, at Kingston Upon Hull. The tender is an open procedure consisting of a one stage process. The contract is anticipated to commence 30th November 2026 ending by 30th April 2027. The Authority has estimated the value of the works to be £30,000 overall. The estimated value is given in good faith to assist tenderers in making their submissions, it should not be interpreted as an undertaking to purchase any goods, services or works to any particular value by the Authority and does not form part of the Contract. Further information is contained within the scope of works/tender documentation. Please ensure all tender submis",
+   "link": "https://www.find-tender.service.gov.uk/Notice/102897-2026"
+  },
+  {
+   "title": "Housing Needs Assessment for Hull Local Plan",
+   "buyer": "Hull City Council",
+   "region": "Yorkshire and the Humber",
+   "value": 45000,
+   "deadline": "2026-11-16T12:00:00+00:00",
+   "first_seen": "2026-10-30",
+   "category": "",
+   "score": 3,
+   "why": "Urban planning",
+   "summary": "Hull City Council (The Authority) is seeking tenders from interested organisations to provide services for Housing Needs Assessment for Hull Local Plan, Kingston Upon Hull. The tender is an open procedure consisting of a one stage process. The contract is anticipated to commence 30th November 2026 ending by 30th April 2027. The Authority has estimated the value of the works to be £45,000 overall. The estimated value is given in good faith to assist tenderers in making their submissions, it should not be interpreted as an undertaking to purchase any goods, services or works to any particular value by the Authority and does not form part of the Contract. Further information is contained within the scope of works/tender documentation. Please ensure all tender submission documents are complete",
+   "link": "https://www.find-tender.service.gov.uk/Notice/102898-2026"
+  },
+  {
+   "title": "Request for Quotation  North Lincolnshire Rail Freight Feasibility Study",
+   "buyer": "North Lincolnshire Council",
+   "region": "Yorkshire and the Humber",
+   "value": null,
+   "deadline": "2026-11-18T17:00:00+00:00",
+   "first_seen": "2026-10-30",
+   "category": "",
+   "score": 3,
+   "why": "\"feasibility\" in title",
+   "summary": "The rail freight feasibility study is being commissioned to identify opportunities to increase rail‑based freight movements in North Lincolnshire. It will assess existing rail heads and sidings, explore potential new sites, review network access, evaluate commercial viability, and quantify economic, social and environmental benefits.\nIt will provide pivotal evidence to support the future economic ambitions of North Lincolnshire and Greater Lincolnshire and strengthen the region's role as a major freight and logistics hub.\nThis work will establish whether new or improved rail freight infrastructure is practical, beneficial, and aligned with local priorities.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/102915-2026"
+  },
   {
    "title": "Habitat Regulations Assessment",
    "buyer": "Borough Council of Kings Lynn and West Norfolk",

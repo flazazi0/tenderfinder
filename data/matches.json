@@ -1,6 +1,32 @@
 {
- "updated": "2026-10-30T06:04:52.627632+00:00",
+ "updated": "2026-10-31T05:59:30.297340+00:00",
  "tenders": [
+  {
+   "title": "North York Moors Active Travel - Esk Valley Feasibility Study",
+   "buyer": "North York Moors National Park Authority",
+   "region": "Yorkshire and the Humber",
+   "value": 50000.0,
+   "deadline": "2026-11-29T23:59:00+00:00",
+   "first_seen": "2026-10-31",
+   "category": "",
+   "score": 6,
+   "why": "Feasibility study, advisory service, analysis, \"feasibility\" in title",
+   "summary": "Accessibility and active travel audit of railway stations and schools - including engagement.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/103422-2026"
+  },
+  {
+   "title": "Mechanical & Electrical Consultancy Services - Replacement of Depot Heating System",
+   "buyer": "North East Derbyshire District Council",
+   "region": "East Midlands",
+   "value": 66666,
+   "deadline": "2026-11-27T12:00:00+00:00",
+   "first_seen": "2026-10-31",
+   "category": "",
+   "score": 3,
+   "why": "Energy efficiency consultancy",
+   "summary": "North East Derbyshire District Council  invites quotations from suitably qualified and experienced Mechanical and Electrical Building Services Consultants for the survey, appraisal, design, specification, tender review and post-contract technical services required to replace the ageing gas-fired radiant tube heating installation at Eckington Depot.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/103048-2026"
+  },
   {
    "title": "Masterplan Feasibility Visioning Architect​",
    "buyer": "Science Museum Group",
@@ -149,13 +175,13 @@
    "buyer": "Foreign, Commonwealth and Development Office",
    "region": "Not stated",
    "value": 30000,
-   "deadline": "2026-11-06T15:00:00+00:00",
+   "deadline": "2026-11-11T15:00:00+00:00",
    "first_seen": "2026-10-27",
    "category": "",
    "score": 4,
    "why": "\"feasibility\" in title, \"economic appraisal\" in summary",
    "summary": "Consultancy services for the delivery of a comprehensive Solar PV Feasibility Study for the British High Commission Lusaka estate, including the Chancery, the High Commissioner's Residence and designated staff residential properties. The scope includes site assessments, energy demand analysis, solar PV generation modelling, battery storage and energy resilience assessment, financial and economic appraisal, options analysis, and the provision of a final feasibility report with recommendations to support future procurement and implementation of solar energy solutions. The contract value is £30,000 and the services are to be delivered in accordance with the requirements set out in the Request for Proposal.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/101321-2026"
+   "link": "https://www.find-tender.service.gov.uk/Notice/103213-2026"
   },
   {
    "title": "Independent eval. of the NHS solar and battery storage scheme 25/26",

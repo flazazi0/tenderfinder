@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T05:59:30.297340+00:00",
+ "updated": "2026-11-01T06:04:16.628156+00:00",
  "tenders": [
   {
    "title": "North York Moors Active Travel - Esk Valley Feasibility Study",
@@ -691,19 +691,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/096175-2026"
   },
   {
-   "title": "Consultants for Registered Provider Status",
-   "buyer": "Cambridge City Council",
-   "region": "East of England",
-   "value": null,
-   "deadline": "2026-11-02T12:00:00+00:00",
-   "first_seen": "2026-10-13",
-   "category": "",
-   "score": 3,
-   "why": "Business and management consultancy",
-   "summary": "Cambridge City Council is seeking to procure the services of a consultant to initially meet with and subsequently assist two local not-for-profit landlords in applying for registration as a not-for-profit registered provider with the Regulator of Social Housing.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/096238-2026"
-  },
-  {
    "title": "Evaluation Services: Events & Participation Programme (2026-2029)",
    "buyer": "North East Combined Authority",
    "region": "North East",
@@ -741,19 +728,6 @@
    "why": "\"evaluation\" in title",
    "summary": "UKRI are looking to procure a supplier to assist in the testing and evaluation of the  Counter-UAS demonstrations in Prison Environments competition.  The supplier   must provide all the required test facilities, personnel and equipment, including a variety of drones to test the C-UAS units against, and one, or more, qualified pilot(s) to fly them.",
    "link": "https://www.find-tender.service.gov.uk/Notice/095793-2026"
-  },
-  {
-   "title": "Norbury Railway Bridge Art Commission",
-   "buyer": "London Borough of Croydon",
-   "region": "London",
-   "value": 32500,
-   "deadline": "2026-11-02T17:00:00+00:00",
-   "first_seen": "2026-10-10",
-   "category": "",
-   "score": 1,
-   "why": "\"regeneration\" in summary",
-   "summary": "Croydon is looking for a supplier to provide the Norbury Railway Bridge Art Commission\nLBC Regeneration will  run a two-stage EOI process and procure/select an artist - SELECTED\nPlease submit your expression of interest by email PrideinPlace@croydon.gov.uk",
-   "link": "https://www.find-tender.service.gov.uk/Notice/097168-2026"
   },
   {
    "title": "Dover Town Centre Regeneration Programme - Lead Consultant Team",
@@ -808,19 +782,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/092786-2026"
   },
   {
-   "title": "West Midlands Violence Reduction Strategy 2027-2030",
-   "buyer": "Police and Crime Commissioner for West Midlands",
-   "region": "West Midlands",
-   "value": 25000,
-   "deadline": "2026-11-02T17:00:00+00:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 3,
-   "why": "General management consultancy",
-   "summary": "The West Midlands Violence Reduction Strategy is due to be reviewed and updated during October 2026- March 2027.  We are seeking to commission an experienced individual or organisation to review progress and learning from the 2023-2026 Strategy and co-produce a new strategy for 2027-2030.  The new strategy must be evidence-led, responsive to current and emerging patterns of violence, and informed by regional and local data research, evaluation evidence and stakeholder insight.  It must align with the Serious Violence Duty, including refreshed and supplementary statutory guidance, and clearly set out the region's priorities, intended outcomes and approach to delivery.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/094271-2026"
-  },
-  {
    "title": "Bwrdd Partneriaeth Rhanbarthol Plant Gogledd Cymru: Adolygiad Gwasanaethau Plant./ North Wales Children's Regional Partnership Board: Childrens Service Review.",
    "buyer": "Cyngor Sir Ddinbych / Denbighshire County Council",
    "region": "Wales",
@@ -832,32 +793,6 @@
    "why": "Project management consultancy",
    "summary": "Ar gyfer unigolyn, neu unigolion, neu sefydliad â phrofiad addas a staff sydd â chymhwyster / cymwysterau proffesiynol perthnasol (“yr Ymgynghorydd” / “yr Ymgynghorwyr” / “yr Ymgynghoriaeth”) i ymgymryd ag adolygiad o Wasanaethau Plant yng Ngogledd Cymru.\nYng Nghymru, nodwyd effaith pandemig COVID-19 ar iechyd meddwl plant a phobl ifanc fel blaenoriaeth gan y Comisiynydd  Plant yn ei adroddiad ‘Coronafeirws a Fi’ ac fel rhan o Gynlluniau Ail-greu ar ôl COVID-19 gan Lywodraeth Cymru. Mae iechyd meddwl yn faes eang, ond mae pwysigrwydd cefnogaeth effeithiol ar gyfer argyfwng iechyd meddwl i blant a phobl ifanc wedi cael ei amlinellu yn ‘Strategaeth Iechyd Meddwl a Lles 2025 i 2035’, ac ‘Atal hunanladdiad a hunan-niweidio: strategaeth a chynllun cyflawni’ i Gymru.\nYn y 6 Awdurdod Lleol a’r Bw",
    "link": "https://www.find-tender.service.gov.uk/Notice/094515-2026"
-  },
-  {
-   "title": "ITT - Heritage as Urban Green Infrastructure: an Evidence Review of Opportunities for Climate Resilience, and Future Directions - UID 366",
-   "buyer": "Historic England",
-   "region": "South West",
-   "value": 15000,
-   "deadline": "2026-11-02T09:30:00+00:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 3,
-   "why": "Environmental issues consultancy",
-   "summary": "Historic England is commissioning a rapid evidence and gap review to understand how heritage assets, places and networks contribute to urban green infrastructure and climate resilience. The commission will synthesise existing evidence, identify relevant policy opportunities and barriers, and provide an initial conceptual framing of heritage as part of wider green infrastructure systems. The findings will provide a strategic evidence base to inform Historic England’s future research, policy development and cross-sector collaboration, and provide two case studies to support the work.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/094655-2026"
-  },
-  {
-   "title": "Domestic Abuse Needs Assessment",
-   "buyer": "Birmingham City Council",
-   "region": "West Midlands",
-   "value": 90000,
-   "deadline": "2026-11-02T12:00:00+00:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 3,
-   "why": "Evaluation consultancy",
-   "summary": "Birmingham City Council is seeking to commission external consultancy to conduct a thorough domestic abuse needs assessment for the city.\nThe needs assessment will form a key part of Birmingham’s evidence-led approach to tackling domestic abuse, providing robust evidence of local need. The needs assessment should take the form of a well-evidenced written report, supported by a thorough compilation of both qualitative and quantitative data. It should provide a comprehensive and honest picture of the prevalence and response to domestic abuse across agencies within Birmingham, looking at changes over the past three years, expected changes in the next three years and any gaps or needs around new communities in the city.\nIt must go beyond the duty set out by the Domestic Abuse Act 2021, which o",
-   "link": "https://www.find-tender.service.gov.uk/Notice/094979-2026"
   },
   {
    "title": "CPU 8129 - Right to Buy Valuation Framework",

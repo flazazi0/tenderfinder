@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-31T05:59:30.297340+00:00",
+ "last_run": "2026-11-01T06:04:16.628156+00:00",
  "tenders": {
   "ocds-h6vhtk-06f452": {
    "title": "UK DTE Projects (various upcoming)",
@@ -30921,6 +30921,28 @@
    "summary": "This is one of two concurrent procurements being progressed, the other being for In-Orbit Manufacturing (IOM) Maturation Research & Development Projects. Please see the respective notice on Find a Tender:\n\t• Title: In-Orbit Manufacturing (IOM) Maturation Research & Development Projects\nThe UK Space Agency is launching a Contracts for Innovation competition to fund approximately three Phase 0/A mission feasibility studies examining credible options for a potential future in-orbit demonstration of a Rendezvous, Proximity Operations and Docking (RPOD)-enabled spacecraft Life Extension service.\nThe studies will develop and assess mission concepts capable of performing safe, reliable and repeatable RPOD with a cooperative or prepared client spacecraft. The intended demonstration may enable or d",
    "link": "https://www.find-tender.service.gov.uk/Notice/103472-2026",
    "first_seen": "2026-10-31"
+  },
+  "ocds-h6vhtk-078b34": {
+   "title": "In-Orbit Manufacturing (IOM) Maturation Research & Development Projects",
+   "buyer": "Department for Science, Innovation & Technology",
+   "value": 1400000,
+   "deadline": "2026-11-27T13:00:00+00:00",
+   "published": "2026-10-31T22:55:29+00:00",
+   "category": "",
+   "cpv_codes": [
+    "34712000",
+    "34712100",
+    "32534000",
+    "73000000",
+    "73300000",
+    "34712200"
+   ],
+   "type": "services",
+   "status": "active",
+   "region": "Not stated",
+   "summary": "The UK Space Agency (UKSA) is launching a Contracts for Innovation competition to fund approximately two In-Orbit Manufacturing (IOM) Maturation Research & Development Projects.\nThe competition will support the research, development and maturation of an In-Orbit Manufacturing process and associated payload. Projects will undertake proportionate design, prototyping, analysis and testing to achieve Technology Readiness Level (TRL) 4/5 by the Final Review milestone and establish a credible route to a potential future demonstration in an appropriate microgravity environment.\nThe IOM Maturation Projects will:\n\t· Mature the IOM manufacturing process and associated payload to TRL 4/5 by the Final Review milestone, generating evidence against relevant performance indicators (such as quality, perfo",
+   "link": "https://www.find-tender.service.gov.uk/Notice/103500-2026",
+   "first_seen": "2026-11-01"
   }
  }
 }

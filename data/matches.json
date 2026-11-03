@@ -1,6 +1,45 @@
 {
- "updated": "2026-11-02T06:23:21.380332+00:00",
+ "updated": "2026-11-03T06:15:39.371931+00:00",
  "tenders": [
+  {
+   "title": "Screen Culture 2033 Interim Evaluation",
+   "buyer": "British Film Institute",
+   "region": "London",
+   "value": 140000.0,
+   "deadline": "2026-11-27T12:00:00+00:00",
+   "first_seen": "2026-11-03",
+   "category": "",
+   "score": 6,
+   "why": "Business and management consultancy, \"evaluation\" in title",
+   "summary": "Screen Culture 2033 Strategy launched in September 2022. As of October 2026, we have completed the FAME Preliminary Review (Phase 1) and are now moving into the Interim Evaluation (Phase 2).",
+   "link": "https://www.find-tender.service.gov.uk/Notice/103623-2026"
+  },
+  {
+   "title": "LEGO299 End-to-End Reporting, Budgeting, Forecasting and Financial Reporting Solution",
+   "buyer": "The Office for Legal Complaints",
+   "region": "Not stated",
+   "value": 100000,
+   "deadline": "2026-11-30T16:00:00+00:00",
+   "first_seen": "2026-11-03",
+   "category": "",
+   "score": 3,
+   "why": "Financial consultancy",
+   "summary": "A fit-for-purpose budgeting, forecasting and financial reporting solution that automates LeO's existing Finance processes, integrates with relevant source systems and can be operated by Finance following implementation.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/103664-2026"
+  },
+  {
+   "title": "ITT - Historic Gardens: Supporting Adaptation to a Changing Climate – Case Studies - UID 372",
+   "buyer": "Historic England",
+   "region": "South West",
+   "value": 30000,
+   "deadline": "2026-11-23T09:30:00+00:00",
+   "first_seen": "2026-11-03",
+   "category": "",
+   "score": 3,
+   "why": "Environmental issues consultancy",
+   "summary": "This project will compile a set of case studies showing how designated historic parks, gardens and demesnes across the UK are experiencing and responding to climate change impacts and risks. The case studies will be presented in a report to be published in the Historic England Research Report Series and summarised in an accompanying non-technical summary of the report. The project is being funded in partnership by Historic England and the National Lottery Heritage Fund.\nThis project builds on stakeholder research commissioned by Heritage Fund and Historic England, which set out to understand how designated historic gardens and demesnes across the UK are being maintained and managed in response to the threats posed by climate change through stakeholder research. The research report included",
+   "link": "https://www.find-tender.service.gov.uk/Notice/103859-2026"
+  },
   {
    "title": "North York Moors Active Travel - Esk Valley Feasibility Study",
    "buyer": "North York Moors National Park Authority",
@@ -12,7 +51,7 @@
    "score": 6,
    "why": "Feasibility study, advisory service, analysis, \"feasibility\" in title",
    "summary": "Accessibility and active travel audit of railway stations and schools - including engagement.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/103422-2026"
+   "link": "https://www.find-tender.service.gov.uk/Notice/103567-2026"
   },
   {
    "title": "Mechanical & Electrical Consultancy Services - Replacement of Depot Heating System",
@@ -767,19 +806,6 @@
    "why": "Business and management consultancy",
    "summary": "City of York Council are seeking a contractor to deliver the 'Supported Housing Needs Assessment' contract.",
    "link": "https://www.find-tender.service.gov.uk/Notice/092786-2026"
-  },
-  {
-   "title": "Bwrdd Partneriaeth Rhanbarthol Plant Gogledd Cymru: Adolygiad Gwasanaethau Plant./ North Wales Children's Regional Partnership Board: Childrens Service Review.",
-   "buyer": "Cyngor Sir Ddinbych / Denbighshire County Council",
-   "region": "Wales",
-   "value": 120000.0,
-   "deadline": "2026-11-04T12:00:00+00:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 3,
-   "why": "Project management consultancy",
-   "summary": "Ar gyfer unigolyn, neu unigolion, neu sefydliad â phrofiad addas a staff sydd â chymhwyster / cymwysterau proffesiynol perthnasol (“yr Ymgynghorydd” / “yr Ymgynghorwyr” / “yr Ymgynghoriaeth”) i ymgymryd ag adolygiad o Wasanaethau Plant yng Ngogledd Cymru.\nYng Nghymru, nodwyd effaith pandemig COVID-19 ar iechyd meddwl plant a phobl ifanc fel blaenoriaeth gan y Comisiynydd  Plant yn ei adroddiad ‘Coronafeirws a Fi’ ac fel rhan o Gynlluniau Ail-greu ar ôl COVID-19 gan Lywodraeth Cymru. Mae iechyd meddwl yn faes eang, ond mae pwysigrwydd cefnogaeth effeithiol ar gyfer argyfwng iechyd meddwl i blant a phobl ifanc wedi cael ei amlinellu yn ‘Strategaeth Iechyd Meddwl a Lles 2025 i 2035’, ac ‘Atal hunanladdiad a hunan-niweidio: strategaeth a chynllun cyflawni’ i Gymru.\nYn y 6 Awdurdod Lleol a’r Bw",
-   "link": "https://www.find-tender.service.gov.uk/Notice/094515-2026"
   },
   {
    "title": "CPU 8129 - Right to Buy Valuation Framework",

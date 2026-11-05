@@ -1,6 +1,19 @@
 {
- "updated": "2026-11-04T06:20:09.923798+00:00",
+ "updated": "2026-11-05T06:21:48.508225+00:00",
  "tenders": [
+  {
+   "title": "Establishment of Framework for Mediation Service– External Conflict Resolution",
+   "buyer": "Independent Commission for Reconciliation and Information Recovery",
+   "region": "Northern Ireland",
+   "value": 40000,
+   "deadline": "2026-12-08T23:59:59+00:00",
+   "first_seen": "2026-11-05",
+   "category": "",
+   "score": 1,
+   "why": "\"value for money\" in summary",
+   "summary": "ICRIR wishes to establish a call-off framework/contract for the provision of independent external workplace mediation and conflict resolution services. The service will provide access to suitably qualified and experienced mediators to support the early resolution of workplace disputes, employee relations issues and conflict situations. The arrangement will operate on an as-required basis with no guarantee of work, enabling the organisation to access specialist mediation expertise only when required. The contract will support positive employee relations outcomes, reduce the risk of escalation into formal procedures, and provide value for money through a flexible, demand-led service model.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/104732-2026"
+  },
   {
    "title": "Lost Peatlands Connections (LPC) Project Evaluation",
    "buyer": "Neath Port Talbot County Borough Council",
@@ -223,17 +236,17 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/101694-2026"
   },
   {
-   "title": "Establishment of Framework for Mediation Service– External Conflict Resolution",
+   "title": "Establishment of Framework for Mediation Service- External Conflict Resolution",
    "buyer": "Independent Commission for Reconciliation and Information Recovery",
    "region": "Northern Ireland",
    "value": 40000,
-   "deadline": "2026-11-30T23:59:59+00:00",
+   "deadline": "2026-11-30T23:59:00+00:00",
    "first_seen": "2026-10-28",
    "category": "",
    "score": 1,
    "why": "\"value for money\" in summary",
    "summary": "ICRIR wishes to establish a call-off framework/contract for the provision of independent external workplace mediation and conflict resolution services. The service will provide access to suitably qualified and experienced mediators to support the early resolution of workplace disputes, employee relations issues and conflict situations. The arrangement will operate on an as-required basis with no guarantee of work, enabling the organisation to access specialist mediation expertise only when required. The contract will support positive employee relations outcomes, reduce the risk of escalation into formal procedures, and provide value for money through a flexible, demand-led service model.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/101427-2026"
+   "link": "https://www.find-tender.service.gov.uk/Notice/104752-2026"
   },
   {
    "title": "Passenger Services Cost Benchmarking Study",
@@ -260,19 +273,6 @@
    "why": "\"feasibility\" in title, \"economic appraisal\" in summary",
    "summary": "Consultancy services for the delivery of a comprehensive Solar PV Feasibility Study for the British High Commission Lusaka estate, including the Chancery, the High Commissioner's Residence and designated staff residential properties. The scope includes site assessments, energy demand analysis, solar PV generation modelling, battery storage and energy resilience assessment, financial and economic appraisal, options analysis, and the provision of a final feasibility report with recommendations to support future procurement and implementation of solar energy solutions. The contract value is £30,000 and the services are to be delivered in accordance with the requirements set out in the Request for Proposal.",
    "link": "https://www.find-tender.service.gov.uk/Notice/103213-2026"
-  },
-  {
-   "title": "Independent eval. of the NHS solar and battery storage scheme 25/26",
-   "buyer": "NHS England",
-   "region": "London",
-   "value": 95000.0,
-   "deadline": "2026-11-06T12:00:00+00:00",
-   "first_seen": "2026-10-27",
-   "category": "",
-   "score": 4,
-   "why": "Environmental issues consultancy, \"value for money\" in summary",
-   "summary": "Independent evaluation of the Solar and battery storage scheme delivered through the NHS in England. The evaluation will assess the impact, delivery and value for money of capital investment in solar PV and associated battery storage at NHS sites, including the extent to which funded projects reduce carbon emissions, lower energy costs, improve on-site energy generation and strengthen energy resilience.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/101248-2026"
   },
   {
    "title": "Partners in Care and Health – External Evaluation of the Continuous Improvement Programme 2026-29",
@@ -483,19 +483,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/099661-2026"
   },
   {
-   "title": "Ethnographic Study – Healthy Streets",
-   "buyer": "Birmingham City Council",
-   "region": "West Midlands",
-   "value": 41666.67,
-   "deadline": "2026-11-06T12:00:00+00:00",
-   "first_seen": "2026-10-22",
-   "category": "",
-   "score": 3,
-   "why": "Economic research",
-   "summary": "Birmingham City Council (the Council) is seeking to appoint an organisation for the provision of Ethnographic Study – Healthy Streets to deliver an ethnographic research study exploring resident lived experience of the issue of car dependency in Birmingham.\nThe Public Health Built & Natural Environment team intends to commission a specialist organisation to undertake an ethnographic research study exploring residents’ lived experiences of car dependency in Birmingham. The study forms part of the wider Healthy Streets: Public Health Car Dependency Study and will support delivery of the Birmingham Transport Plan and Road Harm Reduction Strategy.\nThe research will explore how social, economic, environmental and street conditions influence travel choices, including barriers to walking, cycling",
-   "link": "https://www.find-tender.service.gov.uk/Notice/099731-2026"
-  },
-  {
    "title": "Tech support for the dev. of the PCF requirements of the NHS Supplier Roadmap",
    "buyer": "NHS England",
    "region": "London",
@@ -598,19 +585,6 @@
    "why": "Environmental issues consultancy",
    "summary": "Pembrokeshire County Council on behalf of the South West Wales Corporate Joint Committee is developing the South West Wales DATGLOI Powering Cleaner Rivers project to explore how catchment-scale anaerobic digestion can support Wales’s climate change and nature recovery targets by bringing together agricultural nutrient management, renewable energy generation, river restoration and circular economy innovation within a single integrated model.\nThe project will focus on the potential development of anaerobic digestion infrastructure at a pilot site at Cwm Gwyrdd Nantycaws; the emerging circular economy park in Carmarthenshire. The study will assess how agricultural slurry, and other organic waste streams could be collected, processed and converted into renewable energy, while also supporting ",
    "link": "https://www.find-tender.service.gov.uk/Notice/097911-2026"
-  },
-  {
-   "title": "Consultancy Services for an Independent Mixed-Use Viability, Market Demand and Development Options Review - Fleetwood Farm, Banks",
-   "buyer": "West Lancashire Borough Council",
-   "region": "North West",
-   "value": null,
-   "deadline": "2026-11-06T12:00:00+00:00",
-   "first_seen": "2026-10-17",
-   "category": "",
-   "score": 1,
-   "why": "\"regeneration\" in summary",
-   "summary": "West Lancashire Borough Council is seeking to appoint an independent consultant team to undertake an evidence-led review of the development potential of Fleetwood Farm, Banks.\nThe purpose of the commission is to provide objective, professionally independent and evidence-based advice to inform future Council decision-making, having regard to funding (GRA vs HRA), planning considerations, market demand, regeneration objectives, viability, public value, land control, deliverability and financial risk.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/097887-2026"
   },
   {
    "title": "Growing Mid Wales Datgloi Project - Specialist Consultancy Services / Prosiect Datgloi Canolbarth Cymru sy'n Tyfu - Gwasanaethau Ymgynghori Arbenigol",
@@ -756,58 +730,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/096175-2026"
   },
   {
-   "title": "Evaluation Services: Events & Participation Programme (2026-2029)",
-   "buyer": "North East Combined Authority",
-   "region": "North East",
-   "value": 90000,
-   "deadline": "2026-11-06T12:00:00+00:00",
-   "first_seen": "2026-10-10",
-   "category": "",
-   "score": 8,
-   "why": "Evaluation consultancy, \"economic impact\" in summary, \"value for money\" in summary, \"evaluation\" in title",
-   "summary": "The North East MSA intends to appoint a single supplier to deliver independent evaluation services for the Events & Participation Programme (2026-2029).\nThe appointed supplier will be required to design and deliver a comprehensive programme-level evaluation covering all approved activity funded through both the Events Investment Programme and the Sport and Cultural Participation Programme.\nThe evaluation will assess:\n Programme delivery and implementation\n Achievement of programme outputs and outcomes\n Economic impact and value for money\n Participation and behaviour change\n Health and wellbeing outcomes\n Volunteering impacts\n Equality, diversity and inclusion impacts\n Environmental sustainability impacts\n Social value generated through investment\n Lessons learned and recommendati",
-   "link": "https://www.find-tender.service.gov.uk/Notice/095507-2026"
-  },
-  {
-   "title": "Well-Led Review of Avon and Wiltshire Mental Health Partnership NHS Trust",
-   "buyer": "Avon and Wiltshire Mental Health Partnership NHS trust",
-   "region": "Not stated",
-   "value": 50000.0,
-   "deadline": "2026-11-06T12:00:00+00:00",
-   "first_seen": "2026-10-10",
-   "category": "",
-   "score": 3,
-   "why": "Evaluation consultancy",
-   "summary": "Avon and Wiltshire Mental Health Partnership NHS Trust (AWP) provides mental health services across Bath and North East Somerset, Bristol, North Somerset, South Gloucestershire, Swindon and Wiltshire, from more than 90 community and inpatient sites and through partnerships with external organisations. Services include acute mental health, recovery, liaison and dementia services, forensic services, Child and Adolescent Mental Health Services and a range of highly specialist mental health services.\nAWP is currently in segment 3 of the NHS Oversight Framework and rated Amber-Green under the Provider Capability assessment. Following a Care Quality Commission inspection in 2024, reported in May 2025, the Trust’s well-led rating was ‘requires improvement’. AWP operates across two financially cha",
-   "link": "https://www.find-tender.service.gov.uk/Notice/095736-2026"
-  },
-  {
-   "title": "UKRI-6358 Testing and Evaluation of Counter-UAS (Drone)",
-   "buyer": "UK Research & Innovation (UKRI)",
-   "region": "Not stated",
-   "value": 80000.0,
-   "deadline": "2026-11-06T11:00:00+00:00",
-   "first_seen": "2026-10-10",
-   "category": "",
-   "score": 3,
-   "why": "\"evaluation\" in title",
-   "summary": "UKRI are looking to procure a supplier to assist in the testing and evaluation of the  Counter-UAS demonstrations in Prison Environments competition.  The supplier   must provide all the required test facilities, personnel and equipment, including a variety of drones to test the C-UAS units against, and one, or more, qualified pilot(s) to fly them.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/095793-2026"
-  },
-  {
-   "title": "Dover Town Centre Regeneration Programme - Lead Consultant Team",
-   "buyer": "Dover District Council",
-   "region": "South East",
-   "value": 500000.0,
-   "deadline": "2026-11-06T12:00:00+00:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 9,
-   "why": "Project management consultancy, \"regeneration\" in title, \"town centre\" in title",
-   "summary": "Dover District Council wishes to appoint a multidisciplinary Lead Consultant Team to support the progression of key regeneration projects within Dover Town Centre and invites Tenderers to submit a Tender to meet the Council’s requirements. The Contract is anticipated to commence 11th January 2027 and end 31st March 2028 (unless terminated earlier by the Council).\nExpressions of interest will only be accepted via the Kent Business Portal. The completed ITT response is to be submitted electronically via the Kent Business Portal by no later than 12:00 hours on 6th November  2026.\nFor more information about this opportunity, please visit the Kent Business Portal portal at: https://www.kentbusinessportal.org.uk/tenders/UK-Dover:-Building-consultancy-services./5T722KD5QF\nTo respond to this oppor",
-   "link": "https://www.find-tender.service.gov.uk/Notice/091018-2026"
-  },
-  {
    "title": "C120/2026/2027 - Process evaluation of the Disabled People’s Rights Plan",
    "buyer": "Llywodraeth Cymru / Welsh Government",
    "region": "Wales",
@@ -834,17 +756,17 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/092777-2026"
   },
   {
-   "title": "Rotherham Local Area Energy Plan",
-   "buyer": "Rotherham Borough Council",
-   "region": "Yorkshire and the Humber",
-   "value": null,
-   "deadline": "2026-11-06T12:00:00+00:00",
+   "title": "CPU 8129 - Right to Buy Valuation Framework",
+   "buyer": "Nottingham City Council",
+   "region": "East Midlands",
+   "value": 297000,
+   "deadline": "2026-11-11T12:00:00+00:00",
    "first_seen": "2026-10-08",
    "category": "",
-   "score": 2,
-   "why": "\"net zero\" in summary, \"decarbonisation\" in summary",
-   "summary": "This procurement is for a Rotherham local area energy plan, or 'LAEP'.  A Rotherham LAEP will be expected to deliver the following: \n•\tStakeholder Engagement with primary and secondary external stakeholders\n•\tData collection and analysis\n•\tModelling scenarios and pathways to net zero local area carbon dioxide emissions from the energy system in Rotherham.\n•\tIdentifying, prioritising and refining projects and enabling actions required to achieve local and regional climate change mitigation goals.\n•\tDefining a monitoring and evaluation framework, comprising key indicators of progress against decarbonisation pathways and delivery, as follows:\n•\tA final report and executive summary for policy makers, conveying the scale and range of activity needed to achieve a net zero local energy system; es",
-   "link": "https://www.find-tender.service.gov.uk/Notice/096888-2026"
+   "score": 3,
+   "why": "Evaluation consultancy",
+   "summary": "Nottingham City Council is looking to procure a suitably qualified and experienced agency to carry out Right to Buy valuations on properties subject to applications via the Right to Buy scheme submitted by tenants of Nottingham City Council.\nFull details of the scope of service can be located in the contract specification within this tender pack.\nDuring the anticipated contract period, Nottingham and Nottinghamshire may be subject to Local Government Reorganisation (LGR), a national programme led by central government to restructure two-tier authorities into single unitary councils. This process involves Nottingham City Council, Nottinghamshire County Council, the district/borough councils, and the Ministry of Housing, Communities & Local Government, and may lead to changes in governance, ",
+   "link": "https://www.find-tender.service.gov.uk/Notice/104819-2026"
   }
  ]
 }

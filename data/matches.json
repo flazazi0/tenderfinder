@@ -1,6 +1,32 @@
 {
- "updated": "2026-11-06T06:21:30.118761+00:00",
+ "updated": "2026-11-07T06:07:43.241067+00:00",
  "tenders": [
+  {
+   "title": "ITT - Evaluation of Learning Resources for Schools (UID 400)",
+   "buyer": "Historic England",
+   "region": "Not stated",
+   "value": 35000,
+   "deadline": "2026-11-30T09:30:00+00:00",
+   "first_seen": "2026-11-07",
+   "category": "",
+   "score": 6,
+   "why": "Business and management consultancy, \"evaluation\" in title",
+   "summary": "Historic England seeks an independent evaluation of its education resources, to assess pedagogical quality, curriculum relevance, heritage and place-based learning, teacher usability, inclusion and accessibility. The commission will combine resource review with teacher research and a focused comparison with other free online history and heritage resources for schools, identifying distinctive value, overlap and gaps in provision. It will produce prioritised recommendations, an evidence-based assessment of the case for continued free resource production and a practical quality framework for future resource development and commissioning.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/105638-2026"
+  },
+  {
+   "title": "Tender for Feasibility Study of Kitchen and Dining Facilities, Ysgol Syr Hugh Owen, Caernarfon.",
+   "buyer": "Cyngor Gwynedd",
+   "region": "Not stated",
+   "value": 20000.0,
+   "deadline": "2026-11-19T12:00:00+00:00",
+   "first_seen": "2026-11-07",
+   "category": "",
+   "score": 3,
+   "why": "\"feasibility\" in title",
+   "summary": "Cyngor Gwynedd invites proposals from suitably qualified and experienced\narchitectural consultants/Surveyors to undertake a feasibility study for options to\ndevelop kitchen facilities and a dining on the campus of Ysgol Sir Hugh Owen at\nCaernarfon, Gwynedd, LL55 1HW. The study will assess the viability of developing\nseveral options to satisfy the brief within the confines of the campus.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/105641-2026"
+  },
   {
    "title": "Leeds Culture Strategy Renewal",
    "buyer": "Leeds City Council",

@@ -1,6 +1,32 @@
 {
- "updated": "2026-11-08T06:09:08.346828+00:00",
+ "updated": "2026-11-09T14:06:01.424374+00:00",
  "tenders": [
+  {
+   "title": "Neurodiverse Environmental Audits v2",
+   "buyer": "Oxford Health NHS Foundation Trust",
+   "region": "South East",
+   "value": 80000.0,
+   "deadline": "2026-11-27T23:45:00+00:00",
+   "first_seen": "2026-11-09",
+   "category": "",
+   "score": 3,
+   "why": "Environmental issues consultancy",
+   "summary": "As part of alignment with new national standards, we are looking to commission a structured neurodiversity-informed environmental audit, coproduced by people with lived experience of neurodiversity and mental health services for Low and Medium-Secure Forensic Mental Health Services within the sites of Oxford Health NHS Foundation Trust (Thames Valley and Wessex, Adult Secure Neurodiverse Environmental Audits). We seek to identify any gaps and priorities for improvement. This may inform new environment recommendations including day to day operation of environments and estate adjustments with an aim to improve experience for our service users.\nPeople accessing low- and medium-secure forensic mental health services frequently experience heightened sensory sensitivities and require reasonable ",
+   "link": "https://www.find-tender.service.gov.uk/Notice/106017-2026"
+  },
+  {
+   "title": "Sheffield Export Support Programme",
+   "buyer": "Sheffield City Council",
+   "region": "Yorkshire and the Humber",
+   "value": 70000,
+   "deadline": "2026-11-23T12:00:00+00:00",
+   "first_seen": "2026-11-09",
+   "category": "",
+   "score": 3,
+   "why": "Business development consultancy",
+   "summary": "Sheffield City Council is looking to appoint an organisation with strong export and international trade expertise to deliver a programme of specialist business support and advice to SMEs in Sheffield. The programme will primarily support two groups of businesses: • New and aspiring exporters that have the potential to trade internationally but need support to prepare for and take their first steps into exporting. • Existing exporters seeking to enter a new international market, where specialist advice and support is required to understand the opportunity, overcome barriers and successfully enter that market.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/106236-2026"
+  },
   {
    "title": "ITT - Evaluation of Learning Resources for Schools (UID 400)",
    "buyer": "Historic England",
@@ -483,32 +509,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/100190-2026"
   },
   {
-   "title": "Provision of Provision of a Cemetery Site Feasibility Assessment and Wider Site Search",
-   "buyer": "Peterborough City Council",
-   "region": "East of England",
-   "value": 40000,
-   "deadline": "2026-11-10T10:00:00+00:00",
-   "first_seen": "2026-10-22",
-   "category": "",
-   "score": 6,
-   "why": "Feasibility study, advisory service, analysis, \"feasibility\" in title",
-   "summary": "Peterborough City Council is seeking to appoint a suitably experienced consultant to undertake a cemetery site feasibility assessment and strategic search for alternative cemetery sites within the Peterborough area.\nThe commission comprises two mandatory workstreams:\nA detailed geo-environmental, geological, hydrogeological, planning and deliverability assessment of a nominated site; and a comprehensive search, screening and comparative appraisal of alternative sites capable of meeting the Council's future burial needs.\nThe appointed consultant will assess the suitability of the nominated site for cemetery development, identify any significant constraints, determine the likely extent of usable burial land, and recommend any further investigations required. In parallel, the consultant will ",
-   "link": "https://www.find-tender.service.gov.uk/Notice/099272-2026"
-  },
-  {
-   "title": "Tech support for the dev. of the PCF requirements of the NHS Supplier Roadmap",
-   "buyer": "NHS England",
-   "region": "London",
-   "value": 96000.0,
-   "deadline": "2026-11-11T12:00:00+00:00",
-   "first_seen": "2026-10-22",
-   "category": "",
-   "score": 5,
-   "why": "General management consultancy, \"net zero\" in summary, \"decarbonisation\" in summary",
-   "summary": "In 2021, the NHS Public Board approved a roadmap to drive supplier decarbonisation and support the achievement of the NHS Net Zero target. The 2028 milestone of this roadmap outlines new requirements to be introduced overseeing the provision of carbon footprints for individual products supplied to the NHS. The 2025 Five years of a greener NHS progress report refined the scope of this milestone to high-emission areas, particularly pharmaceuticals, medical technologies, and digital where more granular carbon insights can deliver value on the NHS’s journey to net zero. There isn’t currently a single methodology to measure product level emissions, and further work is required to define the technical approach that will deliver the expected benefits of this policy. This procurement exercise outl",
-   "link": "https://www.find-tender.service.gov.uk/Notice/101256-2026"
-  },
-  {
    "title": "T26-112BUS Design and Delivery of the NW Community Wealth Building Programme",
    "buyer": "Derry City and Strabane District Council",
    "region": "Northern Ireland",
@@ -587,19 +587,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/098931-2026"
   },
   {
-   "title": "NCC1999 NE Rural Growth Programme Evaluation",
-   "buyer": "Northumberland County Council",
-   "region": "North East",
-   "value": 75000,
-   "deadline": "2026-11-10T12:00:00+00:00",
-   "first_seen": "2026-10-20",
-   "category": "",
-   "score": 6,
-   "why": "Business development consultancy, \"evaluation\" in title",
-   "summary": "Northumberland County Council seeks an experienced and creative provider to undertake an independent programme-level evaluation of The North East Rural Growth Programme (NE-RGP).\nFurther details can be found in the document: \nREQUEST FOR QUOTATION (RFQ) NCC1999\nTo view this opportunity please register for https://www.open-uk.org/ and search the project title - \"NCC1999 NE Rural Growth Programme Evaluation\" or the project reference: \n\"OPEN-PR-19102026132838984\"",
-   "link": "https://www.find-tender.service.gov.uk/Notice/098585-2026"
-  },
-  {
    "title": "Specialist Advice/Advisor Service for Gloucestershire’s Advanced Engineering and Manufacturing Sector",
    "buyer": "Tewkesbury Borough Council",
    "region": "South West",
@@ -626,19 +613,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/098898-2026"
   },
   {
-   "title": "Specialist Consultancy Services for the South West Wales Datgloi Powering Cleaner Rivers Project",
-   "buyer": "Pembrokeshire County Council",
-   "region": "Wales",
-   "value": 250000.0,
-   "deadline": "2026-11-11T14:00:00+00:00",
-   "first_seen": "2026-10-17",
-   "category": "",
-   "score": 3,
-   "why": "Environmental issues consultancy",
-   "summary": "Pembrokeshire County Council on behalf of the South West Wales Corporate Joint Committee is developing the South West Wales DATGLOI Powering Cleaner Rivers project to explore how catchment-scale anaerobic digestion can support Wales’s climate change and nature recovery targets by bringing together agricultural nutrient management, renewable energy generation, river restoration and circular economy innovation within a single integrated model.\nThe project will focus on the potential development of anaerobic digestion infrastructure at a pilot site at Cwm Gwyrdd Nantycaws; the emerging circular economy park in Carmarthenshire. The study will assess how agricultural slurry, and other organic waste streams could be collected, processed and converted into renewable energy, while also supporting ",
-   "link": "https://www.find-tender.service.gov.uk/Notice/097911-2026"
-  },
-  {
    "title": "Financial Advisor.",
    "buyer": "Great British Energy - Nuclear",
    "region": "Not stated",
@@ -663,45 +637,6 @@
    "why": "Evaluation consultancy",
    "summary": "Wrexham County Borough Council wish to commission a suitably qualified coordinator for the Four Lanterns Network, one of six UK-wide partnerships participating in Art Fund's Going Places programme. The coordinator will provide strategic, administrative and operational coordination across four partner organisations, supporting the delivery of touring exhibitions and associated engagement programmes between January 2027 and September 2029. The role will ensure effective communication, reporting, financial monitoring, environmental monitoring and collaborative working throughout the duration of the project. \nThe Four Lanterns Network comprises: (1) Tŷ Pawb, Wrexham; (2) William Morris Gallery, London Borough of Waltham Forest; (3) Dovecot Studios, Edinburgh; and (4) Blackwell - The Arts & Cra",
    "link": "https://www.find-tender.service.gov.uk/Notice/096777-2026"
-  },
-  {
-   "title": "Water Treatment Services including Water Risk Asesssments",
-   "buyer": "Solihull College and University Centre",
-   "region": "West Midlands",
-   "value": 80000,
-   "deadline": "2026-11-10T12:00:00+00:00",
-   "first_seen": "2026-10-15",
-   "category": "",
-   "score": 1,
-   "why": "\"value for money\" in summary",
-   "summary": "An existing contract for Water Treatment Services across all College campuses will expire on 31 December 2026.  To ensure continuity of provision, a value for money assessment and compliance with College Financial Regulations the requirement is being competitively tendered for a contract start 01.01.27.  The College is seeking tenders for both Water Treatment Services and Water Risk Assessments across all three campuses; Blossomfield (B91 1SB), Woodlands (B36 0NF) ,  Stratford-upon-Avon (CV37 9QR).  Services will include Planned Preventative Maintenance, emergency call outs, remedial repairs, annual updates to schematics and installation works.  Please see the tender pack available for download (free of charge) at  https://supplier.in-tend.co.uk/educationportal/home",
-   "link": "https://www.find-tender.service.gov.uk/Notice/096879-2026"
-  },
-  {
-   "title": "Oakham East Transport and Public Realm Improvements - Multidisciplinary Preliminary Design Consultancy Services",
-   "buyer": "Rutland County Council",
-   "region": "East Midlands",
-   "value": 90000.0,
-   "deadline": "2026-11-10T12:00:00+00:00",
-   "first_seen": "2026-10-14",
-   "category": "",
-   "score": 3,
-   "why": "Urban planning",
-   "summary": "Rutland County Council is seeking to appoint a suitably qualified and experienced consultant to undertake preliminary design work for a package of transport and public realm improvements in Oakham.\nThe proposed programme is intended to improve pedestrian accessibility, safety and connectivity within the eastern part of Oakham, while enhancing the quality and functionality of the public realm.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/096443-2026"
-  },
-  {
-   "title": "1074279646 T1416 - Feasibility and impact of a full description of train path",
-   "buyer": "RSSB",
-   "region": "London",
-   "value": 120000.0,
-   "deadline": "2026-11-10T12:00:00+00:00",
-   "first_seen": "2026-10-14",
-   "category": "",
-   "score": 3,
-   "why": "\"feasibility\" in title",
-   "summary": "RSSB is seeking to appoint a supplier to undertake research into the feasibility and potential impact of developing a more detailed description of a train’s full path than is currently possible through the existing TIPLOC-based timetable. The research will consider the information, data and technical requirements needed, demonstrate how a more granular path description could work alongside existing railway systems, and explore the potential benefits, risks and implementation considerations for the GB rail industry.\nFor more information about this opportunity, please visit the eSourcing portal at: \nhttps://rssb.delta-esourcing.com/tenders/UK-UK-London:-Research-services./8D5Z4669FC\nTo respond to this opportunity, please click here: \nhttps://rssb.delta-esourcing.com/respond/8D5Z4669FC",
-   "link": "https://www.find-tender.service.gov.uk/Notice/096458-2026"
   },
   {
    "title": "1073434028 T1427 Strategy for Harmonising Automatic Current Limitation Across Electric Rolling Stock in GB",
@@ -754,19 +689,6 @@
    "why": "Evaluation consultancy, \"evaluation\" in title",
    "summary": "The Welsh Government launched its Disabled People's Rights Plan on the 15th of December 2025. The Disabled People’s Rights Plan sets out a 10-year cross-government framework to advance the rights and opportunities of disabled people in Wales, removing societal barriers, and challenging the prejudice and discrimination they face. In line with the Public Sector Equality Duty to address the inequalities experienced by those with protected characteristics, the Disabled People’s Rights Plan directly targets the 670,000 disabled people in Wales who continue to experience inequalities and barriers across a range of areas, including in employment, education, healthcare, access to services, transport, housing, community participation and justice.\nThe Plan was published alongside a supporting docume",
    "link": "https://www.find-tender.service.gov.uk/Notice/094286-2026"
-  },
-  {
-   "title": "CPU 8129 - Right to Buy Valuation Framework",
-   "buyer": "Nottingham City Council",
-   "region": "East Midlands",
-   "value": 297000,
-   "deadline": "2026-11-11T12:00:00+00:00",
-   "first_seen": "2026-10-08",
-   "category": "",
-   "score": 3,
-   "why": "Evaluation consultancy",
-   "summary": "Nottingham City Council is looking to procure a suitably qualified and experienced agency to carry out Right to Buy valuations on properties subject to applications via the Right to Buy scheme submitted by tenants of Nottingham City Council.\nFull details of the scope of service can be located in the contract specification within this tender pack.\nDuring the anticipated contract period, Nottingham and Nottinghamshire may be subject to Local Government Reorganisation (LGR), a national programme led by central government to restructure two-tier authorities into single unitary councils. This process involves Nottingham City Council, Nottinghamshire County Council, the district/borough councils, and the Ministry of Housing, Communities & Local Government, and may lead to changes in governance, ",
-   "link": "https://www.find-tender.service.gov.uk/Notice/104819-2026"
   }
  ]
 }

@@ -1,6 +1,19 @@
 {
- "updated": "2026-11-09T14:06:01.424374+00:00",
+ "updated": "2026-11-10T13:38:11.373302+00:00",
  "tenders": [
+  {
+   "title": "Development of a Pay and Reward Strategy for the Food Standards Agency",
+   "buyer": "Food Standards Agency",
+   "region": "Yorkshire and the Humber",
+   "value": 45000.0,
+   "deadline": "2026-12-07T12:00:00+00:00",
+   "first_seen": "2026-11-10",
+   "category": "",
+   "score": 3,
+   "why": "Business and management consultancy",
+   "summary": "The Food Standards Agency (FSA) is an independent Government department working across England, Wales and Northern Ireland to protect public health and consumers wider interest in food.  We make sure food is safe and what it says it is. \nThe Agency employs approximately 1,600 staff across a diverse range of professions and specialisms, including policy, science, digital, operational delivery, veterinary and inspection functions. Delivery of the Agency's strategic objectives depends upon attracting, developing, motivating and retaining a highly skilled, engaged and sustainable workforce.\nThe Agency has recently completed a Strategic Workforce Planning exercise which identified future workforce requirements, critical capability needs, workforce risks and opportunities over the short, medium ",
+   "link": "https://www.find-tender.service.gov.uk/Notice/106333-2026"
+  },
   {
    "title": "Neurodiverse Environmental Audits v2",
    "buyer": "Oxford Health NHS Foundation Trust",
@@ -194,7 +207,7 @@
    "score": 6,
    "why": "Feasibility study, advisory service, analysis, \"feasibility\" in title",
    "summary": "Accessibility and active travel audit of railway stations and schools - including engagement.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/103567-2026"
+   "link": "https://www.find-tender.service.gov.uk/Notice/106320-2026"
   },
   {
    "title": "Mechanical & Electrical Consultancy Services - Replacement of Depot Heating System",
@@ -353,19 +366,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/101583-2026"
   },
   {
-   "title": "Solar PV Feasibility Study Consultancy for the Office and Residential Properties at the British High Commission Lusaka",
-   "buyer": "Foreign, Commonwealth and Development Office",
-   "region": "Not stated",
-   "value": 30000,
-   "deadline": "2026-11-11T15:00:00+00:00",
-   "first_seen": "2026-10-27",
-   "category": "",
-   "score": 4,
-   "why": "\"feasibility\" in title, \"economic appraisal\" in summary",
-   "summary": "Consultancy services for the delivery of a comprehensive Solar PV Feasibility Study for the British High Commission Lusaka estate, including the Chancery, the High Commissioner's Residence and designated staff residential properties. The scope includes site assessments, energy demand analysis, solar PV generation modelling, battery storage and energy resilience assessment, financial and economic appraisal, options analysis, and the provision of a final feasibility report with recommendations to support future procurement and implementation of solar energy solutions. The contract value is £30,000 and the services are to be delivered in accordance with the requirements set out in the Request for Proposal.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/103213-2026"
-  },
-  {
    "title": "Partners in Care and Health – External Evaluation of the Continuous Improvement Programme 2026-29",
    "buyer": "Improvement and Development Agency for Local Government (IDeA)",
    "region": "Not stated",
@@ -468,19 +468,6 @@
    "why": "\"feasibility\" in summary",
    "summary": "Trinity House (TH) holds the operation and maintenance responsibility for over 60 lighthouses around England, Wales, the Channel Islands and Gibraltar. These critical aids-to-navigation (AtoNs) include several Rock Tower lighthouses that require regular modernisation and ongoing maintenance.\nAccordingly, Trinity House would like to investigate the feasibility of utilising jack-up and floating assets to avoid repeated journeys to these remote locations by helicopter to mobilise personnel, equipment and tools.\nTo support this investigation, it is important to have accurate bathymetric and topographic surveys of the surrounding area.\nIn order to ensure successful completion of all survey by the end of March 2027, Trinity House reserve the right to appoint a singular or multiple suppliers to f",
    "link": "https://www.find-tender.service.gov.uk/Notice/100557-2026"
-  },
-  {
-   "title": "GSENZH Lead Financial Advisor",
-   "buyer": "Cambridgeshire and Peterborough Combined Authority",
-   "region": "East of England",
-   "value": null,
-   "deadline": "2026-11-12T12:00:00+00:00",
-   "first_seen": "2026-10-23",
-   "category": "",
-   "score": 6,
-   "why": "Financial consultancy, \"financial advisor\" in title",
-   "summary": "The GSENZH is seeking an appropriately qualified supplier to provide a named Lead Financial Adviser who will act as an intelligent client for GSENZH and its project stakeholders throughout the contract. It is expected that this role will be a named individual who will remain consistent for the duration of the contract. The Supplier will bring deep subject-matter knowledge and extensive experience in developing and delivering investment strategies.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/099750-2026"
   },
   {
    "title": "Green Links Study, New Forest National Park",
@@ -652,43 +639,17 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/096546-2026"
   },
   {
-   "title": "Cadder Housing Association - Director of Operations (Consultancy Services)",
-   "buyer": "Cadder Housing Association",
-   "region": "Scotland",
-   "value": null,
-   "deadline": "2026-11-12T12:00:00+00:00",
-   "first_seen": "2026-10-13",
-   "category": "Housing services",
-   "score": 3,
-   "why": "General management consultancy",
-   "summary": "Cadder Housing Association Limited, invite tenders for the provision of Director of Operations Services from November 2026 until 31 March 2027. There is an option to extend this service for period up to a maximum of 12 months",
-   "link": "https://www.find-tender.service.gov.uk/Notice/096166-2026"
-  },
-  {
-   "title": "Cadder Housing Association - Director of Operations (Consultancy Services)",
-   "buyer": "Cadder Housing Association",
-   "region": "Scotland",
-   "value": null,
-   "deadline": "2026-11-12T12:00:00+00:00",
-   "first_seen": "2026-10-13",
-   "category": "Housing services",
-   "score": 3,
-   "why": "General management consultancy",
-   "summary": "Cadder Housing Association Limited, invite tenders for the provision of Director of Operations Services from November 2026 until 31 March 2027. There is an option to extend this service for period up to a maximum of 12 months",
-   "link": "https://www.find-tender.service.gov.uk/Notice/096175-2026"
-  },
-  {
    "title": "C120/2026/2027 - Process evaluation of the Disabled People’s Rights Plan",
    "buyer": "Llywodraeth Cymru / Welsh Government",
    "region": "Wales",
    "value": 200000.0,
-   "deadline": "2026-11-14T16:00:00+00:00",
+   "deadline": "2026-11-20T16:00:00+00:00",
    "first_seen": "2026-10-08",
    "category": "",
    "score": 6,
    "why": "Evaluation consultancy, \"evaluation\" in title",
    "summary": "The Welsh Government launched its Disabled People's Rights Plan on the 15th of December 2025. The Disabled People’s Rights Plan sets out a 10-year cross-government framework to advance the rights and opportunities of disabled people in Wales, removing societal barriers, and challenging the prejudice and discrimination they face. In line with the Public Sector Equality Duty to address the inequalities experienced by those with protected characteristics, the Disabled People’s Rights Plan directly targets the 670,000 disabled people in Wales who continue to experience inequalities and barriers across a range of areas, including in employment, education, healthcare, access to services, transport, housing, community participation and justice.\nThe Plan was published alongside a supporting docume",
-   "link": "https://www.find-tender.service.gov.uk/Notice/094286-2026"
+   "link": "https://www.find-tender.service.gov.uk/Notice/106338-2026"
   }
  ]
 }

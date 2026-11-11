@@ -1,6 +1,71 @@
 {
- "updated": "2026-11-10T13:38:11.373302+00:00",
+ "updated": "2026-11-11T12:50:01.710509+00:00",
  "tenders": [
+  {
+   "title": "ACE 1128 ITQ Youth Voice Sector Insight and Evidence",
+   "buyer": "The Arts Council of England",
+   "region": "Not stated",
+   "value": 20833.33,
+   "deadline": "2026-11-30T10:00:00+00:00",
+   "first_seen": "2026-11-11",
+   "category": "",
+   "score": 3,
+   "why": "Development consultancy",
+   "summary": "Arts Council England (ACE), the national development agency for creativity and culture, are seeking a suitably qualified supplier to undertake a research and mapping exercise to establish a baseline understanding of youth voice practice across the arts and cultural sector in England.\nThe purpose of this commission is to build a robust evidence base on youth voice practice across the sector, identifying strengths, gaps, challenges and opportunities. Findings will inform future organisational development, sector support activity and potential investment priorities relating to youth voice.\nACE is seeking a supplier to design and deliver an appropriate research methodology combining desk research, evidence review and quantitative data collection. This will include a sector-wide survey of arts ",
+   "link": "https://www.find-tender.service.gov.uk/Notice/106838-2026"
+  },
+  {
+   "title": "ITT - Historic England response to the Flooding and Coastal Erosion Risk Management Strategy SEA - UID 395",
+   "buyer": "Historic England",
+   "region": "South West",
+   "value": 15000,
+   "deadline": "2026-11-25T09:30:00+00:00",
+   "first_seen": "2026-11-11",
+   "category": "",
+   "score": 3,
+   "why": "Environmental issues consultancy",
+   "summary": "This proposal seeks approval for a 4–6 week consultancy to help Historic England shape its response to the forthcoming Flood and Coastal Erosion Risk Management Strategy SEA consultation and to make recommendations about how Historic England can improve future engagement in the FCERM Strategy and the schemes and activities that underpin it.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/106978-2026"
+  },
+  {
+   "title": "ITT - Creative Content Exchange - UID 392",
+   "buyer": "Historic England",
+   "region": "South West",
+   "value": 69000,
+   "deadline": "2026-12-04T09:30:00+00:00",
+   "first_seen": "2026-11-11",
+   "category": "",
+   "score": 3,
+   "why": "Business development consultancy",
+   "summary": "Historic England is seeking specialist consultancy support to assess the commercial licensing, publication and reuse potential of its digital collections and datasets through the Creative Content Exchange (CCE). The consultancy will undertake a strategic diagnostic review of current licensing, governance, pricing and commercial arrangements, identify legal and operational risks and opportunities, benchmark sector best practice, and provide practical recommendations for enabling compliant and sustainable commercial reuse, including AI-related licensing opportunities.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/106981-2026"
+  },
+  {
+   "title": "SHF Wave 3 - Resident Engagement and Evaluation Partner",
+   "buyer": "London Borough of Lewisham",
+   "region": "London",
+   "value": 300000,
+   "deadline": "2026-12-10T12:00:00+00:00",
+   "first_seen": "2026-11-11",
+   "category": "",
+   "score": 3,
+   "why": "\"evaluation\" in title",
+   "summary": "Appointment of a Resident Engagement and Evaluation Partner to support Lewisham Council's Warm Homes: Social Housing Fund (SHF) Wave 3 programme, including resident engagement, consultation, communications, and evaluation of programme outcomes. Contract term: 30 months (April 2027 to September 2029).",
+   "link": "https://www.find-tender.service.gov.uk/Notice/107053-2026"
+  },
+  {
+   "title": "ITT - Historic England’s work with young people: youth-sector research and Young Advisers evaluation - UID 399",
+   "buyer": "Historic England",
+   "region": "South West",
+   "value": 45000,
+   "deadline": "2026-12-04T09:30:00+00:00",
+   "first_seen": "2026-11-11",
+   "category": "",
+   "score": 3,
+   "why": "\"evaluation\" in title",
+   "summary": "Historic England is commissioning consultancy research to identify its enabling role within the youth sector and evaluate the Young Advisers programme. The findings will inform strategic choices, partnerships and practical next steps for its work with young people. Full details can be found in the ITT.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/107074-2026"
+  },
   {
    "title": "Development of a Pay and Reward Strategy for the Food Standards Agency",
    "buyer": "Food Standards Agency",
@@ -327,19 +392,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/101574-2026"
   },
   {
-   "title": "Climate Vulnerability Intelligence Dashboard Feasibility Project",
-   "buyer": "South East Wales Corporate Joint Committee",
-   "region": "Wales",
-   "value": 120000.0,
-   "deadline": "2026-11-13T12:00:00+00:00",
-   "first_seen": "2026-10-28",
-   "category": "",
-   "score": 3,
-   "why": "\"feasibility\" in title",
-   "summary": "Undertake a feasibility assessment for an innovative Climate Vulnerability Intelligence Dashboard for Wales, bringing together climate, carbon, environmental, health, demographic and socio-economic information to develop an innovative solution that enables consistent, evidence-led decisions on climate adaptation and resilience for the public sector.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/101694-2026"
-  },
-  {
    "title": "Establishment of Framework for Mediation Service- External Conflict Resolution",
    "buyer": "Independent Commission for Reconciliation and Information Recovery",
    "region": "Northern Ireland",
@@ -548,19 +600,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/099188-2026"
   },
   {
-   "title": "Tees Bird Mapping Project",
-   "buyer": "Natural England",
-   "region": "North East",
-   "value": 33330,
-   "deadline": "2026-11-13T12:00:00+00:00",
-   "first_seen": "2026-10-21",
-   "category": "",
-   "score": 3,
-   "why": "Environmental issues consultancy",
-   "summary": "The Teesmouth & Cleveland Coast SSSI, SPA and Ramsar support assemblages of over 20K over-wintering coastal birds alongside specific SSSI & SPA qualifying bird speices. This project will produce fine scale maps and analysis of designated bird species usage of supporting habitats, FLL ands brownfield habitats. A report detailing the methods, results and discussions must be provided, along with GIS mapping layers that allows interrogation of the analysis and a short guidance document on the use of the mapping tool.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/104278-2026"
-  },
-  {
    "title": "Askham Bryan College - Provision for External Audit Services",
    "buyer": "Askham Bryan College",
    "region": "Not stated",
@@ -598,19 +637,6 @@
    "why": "Business development consultancy",
    "summary": "Business North East is a new region-wide approach to business support developed by the North East Mayoral Strategic Authority (North East MSA) in partnership with the seven constituent local authorities. It will provide a simplified, coordinated and accessible business support system for entrepreneurs and businesses across the North East.\nThe model will include a regional hub and use local authority networks to maintain strong relationships with businesses.\nThe wider Business North East programme is expected to operate through five integrated areas of activity across the business lifecycle:\nInspire - increase entrepreneurial awareness and aspiration, particularly amongst younger people and underrepresented groups.\nExplore - improve enterprise readiness and strengthen the quality of busines",
    "link": "https://www.find-tender.service.gov.uk/Notice/098898-2026"
-  },
-  {
-   "title": "Financial Advisor.",
-   "buyer": "Great British Energy - Nuclear",
-   "region": "Not stated",
-   "value": 500000,
-   "deadline": "2026-11-12T15:00:00+00:00",
-   "first_seen": "2026-10-15",
-   "category": "",
-   "score": 6,
-   "why": "Financial consultancy, \"financial advisor\" in title",
-   "summary": "Great British Energy – Nuclear (GBE-N) is procuring specialist financial advisory services to support the assessment of funding and financing options for the Gwyndod Small Modular Reactor (SMR) Project and wider SMR programme. The appointed adviser will support the development of evidence-based analysis and recommendations, undertake assessment of public, private and hybrid funding and financing approaches, support market engagement activities, and provide advice to inform future government decisions. The adviser will be expected to assess the advantages, disadvantages, risks, opportunities and enabling conditions associated with different approaches.  \nThe information provided above is intended to give Tenderers a high-level overview of the requirements of this procurement. A detailed sco",
-   "link": "https://www.find-tender.service.gov.uk/Notice/097231-2026"
   },
   {
    "title": "Four Lanterns Network Coordinator – Art Fund Going Places Programme",

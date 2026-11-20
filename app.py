@@ -19,13 +19,14 @@ st.set_page_config(page_title="Tender Finder", page_icon="📋", layout="centere
 st.markdown("""
 <style>
 .stApp {
-    background: url("https://raw.githubusercontent.com/flazazi0/tenderfinder/main/background.png") center / cover fixed;
+    background: url("https://raw.githubusercontent.com/flazazi0/tenderfinder/main/gcf-riverside.webp") center / cover no-repeat fixed #102342;
 }
 header[data-testid="stHeader"] {
     background: transparent;
 }
-.stApp a {
-    color: black !important;
+[data-testid="stMainBlockContainer"] {
+    background-color: var(--background-color);
+    border-radius: 1rem;
 }
 </style>
 """, unsafe_allow_html=True)

@@ -19,7 +19,15 @@ st.set_page_config(page_title="Tender Finder", page_icon="📋", layout="centere
 st.markdown("""
 <style>
 .stApp {
-    background: url("https://raw.githubusercontent.com/flazazi0/tenderfinder/main/gcf-riverside.webp") center / cover no-repeat fixed #102342;
+    background-color: #102342;
+    background-image:
+        url("https://raw.githubusercontent.com/flazazi0/tenderfinder/main/branding/by-fares.png"),
+        url("https://raw.githubusercontent.com/flazazi0/tenderfinder/main/branding/global-city-futures.png"),
+        url("https://raw.githubusercontent.com/flazazi0/tenderfinder/main/gcf-riverside.webp");
+    background-position: left 1.25rem top 4rem, right 1.25rem top 4rem, center;
+    background-size: 5rem auto, 8rem auto, cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 header[data-testid="stHeader"] {
     background: transparent;
@@ -27,6 +35,11 @@ header[data-testid="stHeader"] {
 [data-testid="stMainBlockContainer"] {
     background-color: var(--background-color);
     border-radius: 1rem;
+}
+@media (max-width: 70rem) {
+    [data-testid="stMainBlockContainer"] {
+        margin-top: 7.25rem;
+    }
 }
 </style>
 """, unsafe_allow_html=True)
@@ -56,7 +69,7 @@ def as_csv(rows):
 
 # ---------------------------------------------------------------------------
 
-st.title("Welcome to the Tender Finder")
+st.title("Tender Finder")
 
 if not os.path.exists(MATCHES_FILE):
     st.info("No data yet. The first update runs tomorrow morning.")

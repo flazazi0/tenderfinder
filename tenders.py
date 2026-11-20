@@ -106,7 +106,7 @@ NOTICE_URL = "https://www.find-tender.service.gov.uk/Notice/"
 # ---------------------------------------------------------------------------
 
 def get_json(url):
-    """Fetch a URL and return JSON, waiting and retrying if rate limited."""
+    """Fetch a URL and return JSON, retrying temporary network failures."""
     for attempt in range(5):
         try:
             request = urllib.request.Request(url, headers={"Accept": "application/json"})
@@ -122,8 +122,10 @@ def get_json(url):
                 time.sleep(wait)
                 continue
             raise
-        except urllib.error.URLError:
-            print("  Connection problem, retrying in 10s...")
+        except (urllib.error.URLError, TimeoutError) as error:
+            if attempt == 4:
+                raise RuntimeError("Tender API request failed after 5 attempts") from error
+            print(f"  {error}, retrying in 10s...", flush=True)
             time.sleep(10)
     raise RuntimeError("Gave up after too many retries")
 

@@ -14,7 +14,7 @@ import streamlit as st
 MATCHES_FILE = os.path.join("data", "matches.json")
 NEW_DAYS = 2  # how long a tender keeps its "New" label
 
-st.set_page_config(page_title="Burger King", page_icon="📋", layout="centered")
+st.set_page_config(page_title="Tender Finder", page_icon="📋", layout="centered")
 
 st.markdown("""
 <style>
@@ -69,7 +69,7 @@ def as_csv(rows):
 
 # ---------------------------------------------------------------------------
 
-st.title("Burger King")
+st.title("Tender Finder")
 
 if not os.path.exists(MATCHES_FILE):
     st.info("No data yet. The first update runs tomorrow morning.")

@@ -1,6 +1,97 @@
 {
- "updated": "2026-11-19T14:32:57.808578+00:00",
+ "updated": "2026-11-21T13:36:08.573449+00:00",
  "tenders": [
+  {
+   "title": "NPQH Evaluation on behalf of Dysgu",
+   "buyer": "Caerphilly County Borough Council",
+   "region": "Wales",
+   "value": 75000.0,
+   "deadline": "2026-12-21T13:00:00+00:00",
+   "first_seen": "2026-11-21",
+   "category": "",
+   "score": 6,
+   "why": "Economic research, \"evaluation\" in title",
+   "summary": "Mae Dysgu yn comisiynu gwerthusiad allanol annibynnol o'r Cymhwyster Proffesiynol Cenedlaethol ar gyfer Prifathrawiaeth (CPCP Cymru).\n CPCP Cymru yw'r cymhwyster gorfodol ar gyfer prifathrawiaeth yng Nghymru, gan wneud ei ansawdd, ei hygrededd a'i effaith yn hanfodol i hyder y gweithlu cenedlaethol a pharatoi arweinwyr ysgolion y dyfodol yn effeithiol. Fel rhan o'i ymrwymiad strategol i sicrhau ansawdd ac effaith, mae Dysgu yn sefydlu dull gwerthuso cadarn i sicrhau bod rhaglenni arweinyddiaeth o ansawdd uchel, yn seiliedig ar dystiolaeth, yn dryloyw ac yn cyd-fynd â blaenoriaethau cenedlaethol, gan gynnwys y Safonau Proffesiynol ar gyfer Cynorthwyo Addysgu, Addysgu ac Arweinyddiaeth. Mae'r briff hwn yn gwahodd cynigion gan sefydliadau sydd â phrofiad addas i gyflwyno gwerthusiad annibynno",
+   "link": "https://www.find-tender.service.gov.uk/Notice/109891-2026"
+  },
+  {
+   "title": "C0193 - AI Programme - Learning & Evaluation",
+   "buyer": "The National Lottery Community Fund",
+   "region": "Not stated",
+   "value": 83333,
+   "deadline": "2027-01-15T17:00:00+00:00",
+   "first_seen": "2026-11-21",
+   "category": "",
+   "score": 6,
+   "why": "Evaluation consultancy, \"evaluation\" in title",
+   "summary": "Artificial intelligence (AI) is developing quickly and is already affecting how communities, public services and civil society organisations operate. It brings opportunities to improve services, reduce administrative pressure and develop new approaches to community needs. It also presents risks relating to exclusion, bias, environmental sustainability and the concentration of power. The Fund wants communities and civil society organisations to play an active role in shaping how AI is developed and used. The Fund has approved AI-related funding designed to build community agency, support responsible adoption and generate practical learning for the Fund and the wider sector. The Fund’s AI-related funding portfolio currently includes three strands: • AI capacity-building uplifts in England an",
+   "link": "https://www.find-tender.service.gov.uk/Notice/110199-2026"
+  },
+  {
+   "title": "ID 6541768 - DFE - INVEST NI - CLUSTER STRATEGY, LEADERSHIP AND SYSTEM-BUILDING PROGRAMME FOR PHOTONICS AND BIOTECH",
+   "buyer": "Invest Northern Ireland",
+   "region": "Northern Ireland",
+   "value": 240000,
+   "deadline": "2026-12-15T15:00:00+00:00",
+   "first_seen": "2026-11-21",
+   "category": "",
+   "score": 3,
+   "why": "Business and management consultancy",
+   "summary": "Invest Northern Ireland (Invest NI) (the Buyer) is the regional business development agency for Northern Ireland. Through the Enhanced Investment Zone (EIZ), Invest NI is investing in the development of innovation intensive clusters that can deliver long term productivity growth, attract private investment and anchor high value jobs. As part of this ambition, Invest NI is a Supplier to support the strategic development of the Photonics and Biotech and Life and Health Sciences emerging clusters. The Supplier must design and deliver a tailored, blended (in person and online) programme to strengthen strategic capability, leadership practice and international connectivity across the Photonics and Biotech clusters. Suppliers should refer to the Specification Schedule for full detail on the requ",
+   "link": "https://www.find-tender.service.gov.uk/Notice/109851-2026"
+  },
+  {
+   "title": "PONV 013 - Playing Pitch Strategy and Open Space Needs Assessment",
+   "buyer": "Shropshire Council",
+   "region": "West Midlands",
+   "value": null,
+   "deadline": "2026-12-03T12:00:00+00:00",
+   "first_seen": "2026-11-21",
+   "category": "",
+   "score": 3,
+   "why": "Development consultancy",
+   "summary": "Shropshire Council wishes to appoint a Contractor to undertake a Playing Pitch and Open Space Strategy for Shropshire. \nThe Playing Pitch and Open Space Strategy will form part of the evidence base for the Local Plan Review. It will provide a strategic framework to ensure that the provision of outdoor playing pitches and open spaces meets the needs of residents (both existing and future) and visitors to the Shropshire Council area. It will also support those organisations, including the Council, involved in the provision of outdoor sports facilities and open space in the county. The Strategy will be produced in accordance with Sport England and Fields in Trust guidance and provide robust and objective justification for future playing pitch provision throughout Shropshire. \nThe Playing Pitc",
+   "link": "https://www.find-tender.service.gov.uk/Notice/109912-2026"
+  },
+  {
+   "title": "WHC - Museum Service Review",
+   "buyer": "Welwyn Hatfield Borough Council",
+   "region": "East of England",
+   "value": 15000,
+   "deadline": "2026-12-14T12:00:00+00:00",
+   "first_seen": "2026-11-21",
+   "category": "",
+   "score": 3,
+   "why": "General management consultancy",
+   "summary": "An integrated review of Welwyn Hatfield Borough Council’s museum service, covering Mill Green Museum & Watermill and Welwyn Roman Baths.\nMill Green brings together a working historic watermill, museum exhibitions and the borough’s archaeology, social history, art and photography collections. Welwyn Roman Baths presents the surviving bathhouse remains of the Roman villa at Dicket Mead. Together, the sites and collections tell the stories of Welwyn Garden City, Hatfield and the surrounding villages.\nThe review will bring together service review, community consultation, education and learning, and the service’s future role and legacy.\nThe intended outcomes are:\n•\tIdentify how the service can become more relevant and accessible.\n•\tIdentify opportunities to reach people who do not currently eng",
+   "link": "https://www.find-tender.service.gov.uk/Notice/110056-2026"
+  },
+  {
+   "title": "Provision of Consultancy Services for the Development of a Hillingdon Circus Junction Movement and Public Realm Strategy",
+   "buyer": "London Borough of Hillingdon",
+   "region": "London",
+   "value": null,
+   "deadline": "2027-01-06T17:00:00+00:00",
+   "first_seen": "2026-11-21",
+   "category": "",
+   "score": 3,
+   "why": "Feasibility study",
+   "summary": "Hillingdon Circus is strategically located at the junction of Long Lane and the A40 Western Avenue, with Hillingdon Underground Station to the north and the Master Brewer development site occupying the land to the east of Long Lane, between the A40 and Freezeland Way.\nThe Circus functions as an important multimodal gateway, connecting strategic movement along the A40 with Underground, bus and coach services, alongside local walking and cycling routes. Long Lane forms an important north-south corridor, linking Ickenham and areas to the north of the A40 with Hillingdon, Uxbridge Road and neighbourhoods to the south, while also connecting local shops, schools and community facilities.\nHowever, this strong strategic connectivity is accompanied by highway-dominated infrastructure and complex tr",
+   "link": "https://www.find-tender.service.gov.uk/Notice/110099-2026"
+  },
+  {
+   "title": "Planning for Nature: Strategic Planning, Decision-making and Delivery - two connected work packages",
+   "buyer": "Improvement and Development Agency for Local Government (IDeA)",
+   "region": "London",
+   "value": 99000.0,
+   "deadline": "2026-12-11T18:00:00+00:00",
+   "first_seen": "2026-11-21",
+   "category": "",
+   "score": 3,
+   "why": "Development consultancy",
+   "summary": "The Planning Advisory Service (PAS), part of the Local Government Association (LGA), is seeking to commission specialist consultancy support for the Planning for Nature programme, focusing on strategic planning, decision-making and delivery through two connected work packages.\nThe commission will provide an integrated programme of work, with both packages contributing to the overall objectives of Planning for Nature. The successful supplier will be expected to work collaboratively with PAS and relevant stakeholders and bring appropriate specialist knowledge, experience and capacity to deliver the requirements set out in the Invitation to Tender.\nThe maximum contract value is £99,000 excluding VAT (£118,800 including VAT). The commission is divided into two stages. Stage 1 represents 25% of",
+   "link": "https://www.find-tender.service.gov.uk/Notice/110280-2026"
+  },
   {
    "title": "Detailed Project Design (DPD) for the Hoo Peninsula Heat Network",
    "buyer": "Medway Council",
@@ -13,19 +104,6 @@
    "why": "Energy efficiency consultancy, \"business case\" in summary, \"outline business case\" in summary, \"heat network\" in title",
    "summary": "Medway Council is seeking quotes from prospective suppliers for a specialist consultancy support to undertake a Heat Network Options Refresh and Outline Business Case (OBC) for the Hoo Peninsula. Medway Council operates a fully electronic procurement process and requires all bidders refer to the most up to date documents located within the Kent Business Portal and direct any communications they may have through the same system to support the integrity and transparency of this activity.\nFor more information about this opportunity, please visit the eSourcing portal at: \nhttps://www.kentbusinessportal.org.uk/tenders/UK-UK-Chatham:-Infrastructure-works-consultancy-services./BQ85HA9K97\nTo respond to this opportunity, please click here: \nhttps://www.kentbusinessportal.org.uk/respond/BQ85HA9K97",
    "link": "https://www.find-tender.service.gov.uk/Notice/109774-2026"
-  },
-  {
-   "title": "Provision of Consultancy Services for the Development of a Hillingdon Circus Junction Movement and Public Realm Strategy",
-   "buyer": "London Borough of Hillingdon",
-   "region": "London",
-   "value": null,
-   "deadline": "2027-01-11T17:00:00+00:00",
-   "first_seen": "2026-11-19",
-   "category": "",
-   "score": 4,
-   "why": "Feasibility study, \"town centre\" in summary",
-   "summary": "The purpose of the work is to identify, test and refine a movement\nand public realm strategy. This Strategy must demonstrably achieve the following outcomes:\n• Rebalance street space so the Town Centre functions primarily as a place for people rather than a\ntraffic corridor, by reducing excessive carriageway provision and re-purposing this space as a\nhigh-quality public realm and placemaking opportunity that positively connects the shop parade,\nallocated development sites and Hillingdon Underground Station;\n• Improve the pedestrian and cycling infrastructure, delivering safer, more accessible, legible and\nattractive routes within and through the Town Centre;\n• Positively integrate the bus station identifying the optimal location to make this a high quality bus\ninterchange to include the Ox",
-   "link": "https://www.find-tender.service.gov.uk/Notice/109182-2026"
   },
   {
    "title": "GMCA2197 MBacc Award (Stage 1) Evaluation & Learning Partner",
@@ -275,19 +353,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/107376-2026"
   },
   {
-   "title": "itt_128292 - Proc-26-149 | RIBA Stage 3 Designs | Abbey Road and Wrexham Library",
-   "buyer": "Wrexham County Borough Council",
-   "region": "Wales",
-   "value": 50000.0,
-   "deadline": "2026-11-23T10:00:00+00:00",
-   "first_seen": "2026-11-12",
-   "category": "",
-   "score": 2,
-   "why": "\"feasibility\" in summary, \"decarbonisation\" in summary",
-   "summary": "This Invitation to Tender (the ITT) relates to a mini competition to procure a Supplier under Lot 1/2 NMWTRA Consultancy Professional Services Framework Contract 2026 to undertake a RIBA Stage 3 feasibility, spatial coordination, and cost planning exercise to support funding applications for the decarbonisation of the existing fossil fuel heating systems at Abbey Road and Wrexham Library",
-   "link": "https://www.find-tender.service.gov.uk/Notice/107175-2026"
-  },
-  {
    "title": "ACE 1128 ITQ Youth Voice Sector Insight and Evidence",
    "buyer": "The Arts Council of England",
    "region": "Not stated",
@@ -377,19 +442,6 @@
    "why": "Environmental issues consultancy",
    "summary": "As part of alignment with new national standards, we are looking to commission a structured neurodiversity-informed environmental audit, coproduced by people with lived experience of neurodiversity and mental health services for Low and Medium-Secure Forensic Mental Health Services within the sites of Oxford Health NHS Foundation Trust (Thames Valley and Wessex, Adult Secure Neurodiverse Environmental Audits). We seek to identify any gaps and priorities for improvement. This may inform new environment recommendations including day to day operation of environments and estate adjustments with an aim to improve experience for our service users.\nPeople accessing low- and medium-secure forensic mental health services frequently experience heightened sensory sensitivities and require reasonable ",
    "link": "https://www.find-tender.service.gov.uk/Notice/106017-2026"
-  },
-  {
-   "title": "Sheffield Export Support Programme",
-   "buyer": "Sheffield City Council",
-   "region": "Yorkshire and the Humber",
-   "value": 70000,
-   "deadline": "2026-11-23T12:00:00+00:00",
-   "first_seen": "2026-11-09",
-   "category": "",
-   "score": 3,
-   "why": "Business development consultancy",
-   "summary": "Sheffield City Council is looking to appoint an organisation with strong export and international trade expertise to deliver a programme of specialist business support and advice to SMEs in Sheffield. The programme will primarily support two groups of businesses: • New and aspiring exporters that have the potential to trade internationally but need support to prepare for and take their first steps into exporting. • Existing exporters seeking to enter a new international market, where specialist advice and support is required to understand the opportunity, overcome barriers and successfully enter that market.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/106236-2026"
   },
   {
    "title": "ITT - Evaluation of Learning Resources for Schools (UID 400)",
@@ -507,19 +559,6 @@
    "why": "Financial consultancy",
    "summary": "A fit-for-purpose budgeting, forecasting and financial reporting solution that automates LeO's existing Finance processes, integrates with relevant source systems and can be operated by Finance following implementation.",
    "link": "https://www.find-tender.service.gov.uk/Notice/103664-2026"
-  },
-  {
-   "title": "ITT - Historic Gardens: Supporting Adaptation to a Changing Climate – Case Studies - UID 372",
-   "buyer": "Historic England",
-   "region": "South West",
-   "value": 30000,
-   "deadline": "2026-11-23T09:30:00+00:00",
-   "first_seen": "2026-11-03",
-   "category": "",
-   "score": 3,
-   "why": "Environmental issues consultancy",
-   "summary": "This project will compile a set of case studies showing how designated historic parks, gardens and demesnes across the UK are experiencing and responding to climate change impacts and risks. The case studies will be presented in a report to be published in the Historic England Research Report Series and summarised in an accompanying non-technical summary of the report. The project is being funded in partnership by Historic England and the National Lottery Heritage Fund.\nThis project builds on stakeholder research commissioned by Heritage Fund and Historic England, which set out to understand how designated historic gardens and demesnes across the UK are being maintained and managed in response to the threats posed by climate change through stakeholder research. The research report included",
-   "link": "https://www.find-tender.service.gov.uk/Notice/103859-2026"
   },
   {
    "title": "North York Moors Active Travel - Esk Valley Feasibility Study",

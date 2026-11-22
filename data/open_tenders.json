@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-21T13:36:08.573449+00:00",
+ "last_run": "2026-11-22T13:28:58.775625+00:00",
  "tenders": {
   "ocds-h6vhtk-06f452": {
    "title": "UK DTE Projects (various upcoming)",
@@ -4972,25 +4972,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/099738-2026",
    "first_seen": "2026-10-23"
   },
-  "ocds-h6vhtk-078d66": {
-   "title": "Port of Dover - IT Professional Resource Framework",
-   "buyer": "Dover Harbour Board",
-   "value": 3000000,
-   "deadline": "2026-11-21T17:00:00+00:00",
-   "published": "2026-10-22T08:43:52+01:00",
-   "category": "",
-   "cpv_codes": [
-    "72000000",
-    "72227000",
-    "72228000"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "South East",
-   "summary": "DHB require IT Professional Resource Framework partners to provide suitably qualified people on a Time Charge and Work Order basis. The Framework will primarily support the Client's IGNITE digital transformation programme, alongside other IT projects across the Port. The Client's primary interest is in the following service areas, all of which are of equal importance: architecture and design, cyber security, project and change delivery, data and insight, testing and quality assurance, user experience and design, service transition, and IT support and technical services.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/099744-2026",
-   "first_seen": "2026-10-23"
-  },
   "ocds-h6vhtk-068746": {
    "title": "Medical Electrodes, CTG Monitoring and Gels",
    "buyer": "SUPPLY CHAIN COORDINATION LIMITED",
@@ -7877,23 +7858,6 @@
    "region": "Scotland",
    "summary": "Supply and Delivery of Chlorine Gas.",
    "link": "https://www.find-tender.service.gov.uk/Notice/101590-2026",
-   "first_seen": "2026-10-28"
-  },
-  "ocds-h6vhtk-079157": {
-   "title": "SSEN Website Development & Support PQQ",
-   "buyer": "SOUTHERN ELECTRIC POWER DISTRIBUTION PLC",
-   "value": 2500000,
-   "deadline": "2026-11-21T17:00:00+00:00",
-   "published": "2026-10-27T14:19:00+00:00",
-   "category": "",
-   "cpv_codes": [
-    "72212222"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "Not stated",
-   "summary": "support, maintenance, enhancement, optimisation and development services",
-   "link": "https://www.find-tender.service.gov.uk/Notice/101599-2026",
    "first_seen": "2026-10-28"
   },
   "ocds-h6vhtk-06d7a0": {
@@ -13976,23 +13940,6 @@
    "region": "South West",
    "summary": "The Company is seeking to establish a framework agreement for the provision of hire vehicles and plant equipment/machinery. The framework will provide access to a range of suppliers capable of delivering reliable, responsive, and cost-effective vehicle and plant hire services to support operational requirements across the Company.\nThe objective of this procurement is to secure best value for money while ensuring service continuity, operational efficiency, and high standards of performance.\nTo Respond to this opportunity, please click here: https://www.delta-esourcing.com/respond/68Q9ERBX77\nAccess Code: 68Q9ERBX77",
    "link": "https://www.find-tender.service.gov.uk/Notice/104368-2026",
-   "first_seen": "2026-11-04"
-  },
-  "ocds-h6vhtk-07969d": {
-   "title": "Understanding the Interconnection of Nature, Climate and Health Challenges",
-   "buyer": "Natural England",
-   "value": 20000,
-   "deadline": "2026-11-22T12:00:00+00:00",
-   "published": "2026-11-16T11:59:47+00:00",
-   "category": "",
-   "cpv_codes": [
-    "80500000"
-   ],
-   "type": "services",
-   "status": "active",
-   "region": "South East",
-   "summary": "Training for staff on Understanding the Interconnection of Nature, Climate and Health Challenges. 2 sessions 1 must be in person in Reading. All supporting materials to have intellectual property rights as defined in the specification. Training expected to be delivered in March.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/108396-2026",
    "first_seen": "2026-11-04"
   },
   "ocds-h6vhtk-0796a0": {

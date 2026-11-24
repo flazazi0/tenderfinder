@@ -1,6 +1,19 @@
 {
- "updated": "2026-11-23T16:14:14.607089+00:00",
+ "updated": "2026-11-24T16:01:41.004486+00:00",
  "tenders": [
+  {
+   "title": "Consultancy services to produce a local (heritage-led) design code",
+   "buyer": "Council of the Isles of Scilly",
+   "region": "South West",
+   "value": 25000,
+   "deadline": "2026-12-22T23:59:59+00:00",
+   "first_seen": "2026-11-24",
+   "category": "",
+   "score": 2,
+   "why": "\"regeneration\" in summary, \"levelling up\" in summary",
+   "summary": "The Council of the Isles of Scilly is seeking to commission a suitably qualified and experienced consultant or consultancy team to prepare a Local Design Code in accordance with the National Model Design Code (NMDC) and the Levelling Up and Regeneration Act 2023. The design code will support the emerging Local Plan and reflect the unique heritage, landscape, and built environment of the Isles.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/111289-2026"
+  },
   {
    "title": "NPQH Evaluation on behalf of Dysgu",
    "buyer": "Caerphilly County Borough Council",
@@ -90,7 +103,7 @@
    "score": 3,
    "why": "Development consultancy",
    "summary": "The Planning Advisory Service (PAS), part of the Local Government Association (LGA), is seeking to commission specialist consultancy support for the Planning for Nature programme, focusing on strategic planning, decision-making and delivery through two connected work packages.\nThe commission will provide an integrated programme of work, with both packages contributing to the overall objectives of Planning for Nature. The successful supplier will be expected to work collaboratively with PAS and relevant stakeholders and bring appropriate specialist knowledge, experience and capacity to deliver the requirements set out in the Invitation to Tender.\nThe maximum contract value is £99,000 excluding VAT (£118,800 including VAT). The commission is divided into two stages. Stage 1 represents 25% of",
-   "link": "https://www.find-tender.service.gov.uk/Notice/110280-2026"
+   "link": "https://www.find-tender.service.gov.uk/Notice/111226-2026"
   },
   {
    "title": "Detailed Project Design (DPD) for the Hoo Peninsula Heat Network",
@@ -532,7 +545,7 @@
    "score": 3,
    "why": "Financial consultancy",
    "summary": "A fit-for-purpose budgeting, forecasting and financial reporting solution that automates LeO's existing Finance processes, integrates with relevant source systems and can be operated by Finance following implementation.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/103664-2026"
+   "link": "https://www.find-tender.service.gov.uk/Notice/110850-2026"
   },
   {
    "title": "North York Moors Active Travel - Esk Valley Feasibility Study",

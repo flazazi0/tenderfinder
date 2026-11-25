@@ -1,6 +1,58 @@
 {
- "updated": "2026-11-24T16:01:41.004486+00:00",
+ "updated": "2026-11-25T15:49:51.389359+00:00",
  "tenders": [
+  {
+   "title": "Bicester Town Centre Masterplan",
+   "buyer": "Cherwell District Council",
+   "region": "Not stated",
+   "value": 125000,
+   "deadline": "2026-12-22T14:00:00+00:00",
+   "first_seen": "2026-11-25",
+   "category": "",
+   "score": 10,
+   "why": "Urban planning, \"regeneration\" in summary, \"masterplan\" in title, \"town centre\" in title",
+   "summary": "The Council is seeking a multidisciplinary team with expertise in placemaking, masterplanning and town centre regeneration to submit a tender to deliver a transformative place shaping project in Bicester. The contract will be for a period of up to 8 months.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/111472-2026"
+  },
+  {
+   "title": "CCTV Review, Technical Design and Video Management System Options Appraisal",
+   "buyer": "Liverpool John Moores University",
+   "region": "North West",
+   "value": 166000,
+   "deadline": "2027-01-08T12:00:00+00:00",
+   "first_seen": "2026-11-25",
+   "category": "",
+   "score": 6,
+   "why": "Feasibility study, advisory service, analysis, \"options appraisal\" in title",
+   "summary": "Liverpool John Moores University (\"LJMU\") is conducting a procurement exercise to appoint an independent, specialist security consultancy to deliver a CCTV Review, Technical Design and Video Management System Options Appraisal across the LJMU estate.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/111674-2026"
+  },
+  {
+   "title": "Lawrence House Museum - Conservation Architect led Heritage Regeneration Project",
+   "buyer": "Launceston Town Council",
+   "region": "South West",
+   "value": null,
+   "deadline": "2026-12-18T12:00:00+00:00",
+   "first_seen": "2026-11-25",
+   "category": "",
+   "score": 3,
+   "why": "\"regeneration\" in title",
+   "summary": "Launceston Town Council (LTC) is seeking tenders from suitably experienced and qualified consultants to provide Design Team services for the museum at Lawrence House. Initially, the Project Planning Phase (RIBA Stages 1 & 2) is being supported through a grant from the National Lottery Heritage Fund.\nFor more information, the following documents are available by contacting Lauren Greene at:\nneptune@launceston-tc.gov.uk\nor\n01566 773693\n1. Brief for a Conservation Architect Led Design Team\n2. Invitation to Tender for Conservation Architect Led Design Team\n3. LHM Pricing Table for Design Team\n4. LHM Measured Survey of the building\n5. LHM Statement of Heritage Report",
+   "link": "https://www.find-tender.service.gov.uk/Notice/111328-2026"
+  },
+  {
+   "title": "Staffordshire Business Helpline Service",
+   "buyer": "Staffordshire County Council",
+   "region": "West Midlands",
+   "value": 210000,
+   "deadline": "2026-12-22T12:00:00+00:00",
+   "first_seen": "2026-11-25",
+   "category": "",
+   "score": 3,
+   "why": "Business and management consultancy",
+   "summary": "The Stoke-on-Trent & Staffordshire Growth Hub works to create private sector growth by supporting the development of sustainable new businesses. Helping companies grow and diversify, encouraging new product/market development.  \nThe Stoke-on-Trent and Staffordshire wish to commission a single point of contact business helpline service. The service provides a single telephone number for businesses of any scale seeking advice and support across the whole of the administrative areas of Staffordshire County Council and City of Stoke-on-Trent Council.\nStaffordshire County Council is now issuing a tender on behalf of the Stoke-on-Trent and Staffordshire Growth Hub, and in conjunction with City of Stoke-on-Trent Council, for the ongoing operation of a business support helpline service which is th",
+   "link": "https://www.find-tender.service.gov.uk/Notice/111376-2026"
+  },
   {
    "title": "Consultancy services to produce a local (heritage-led) design code",
    "buyer": "Council of the Isles of Scilly",
@@ -38,7 +90,7 @@
    "score": 6,
    "why": "Evaluation consultancy, \"evaluation\" in title",
    "summary": "Artificial intelligence (AI) is developing quickly and is already affecting how communities, public services and civil society organisations operate. It brings opportunities to improve services, reduce administrative pressure and develop new approaches to community needs. It also presents risks relating to exclusion, bias, environmental sustainability and the concentration of power. The Fund wants communities and civil society organisations to play an active role in shaping how AI is developed and used. The Fund has approved AI-related funding designed to build community agency, support responsible adoption and generate practical learning for the Fund and the wider sector. The Fund’s AI-related funding portfolio currently includes three strands: • AI capacity-building uplifts in England an",
-   "link": "https://www.find-tender.service.gov.uk/Notice/110199-2026"
+   "link": "https://www.find-tender.service.gov.uk/Notice/111412-2026"
   },
   {
    "title": "ID 6541768 - DFE - INVEST NI - CLUSTER STRATEGY, LEADERSHIP AND SYSTEM-BUILDING PROGRAMME FOR PHOTONICS AND BIOTECH",
@@ -130,19 +182,6 @@
    "why": "\"evaluation\" in title",
    "summary": "Greater Manchester Combined Authority (GMCA) is seeking an independent Evaluation and Learning Partner to evaluate Stage 1 of the MBacc Award. The commission will assess the programme's implementation, effectiveness, inclusivity and early outcomes, drawing on engagement with young people, schools, colleges, employers and other key stakeholders. \nThe partner will be expected to develop and deliver a proportionate mixed-method evaluation, provide timely learning to support programme development, and produce interim and final evaluation reports. The evaluation will include appropriate consideration of disadvantaged learners, including young people with special educational needs and disabilities and those in alternative provision. \nThe initial contract period is expected to run for 15 months, ",
    "link": "https://www.find-tender.service.gov.uk/Notice/108628-2026"
-  },
-  {
-   "title": "Inward Investment Proposition Refresh",
-   "buyer": "WEST MIDLANDS GROWTH COMPANY LIMITED",
-   "region": "West Midlands",
-   "value": 75000,
-   "deadline": "2026-11-27T12:00:00+00:00",
-   "first_seen": "2026-11-19",
-   "category": "",
-   "score": 3,
-   "why": "Development consultancy",
-   "summary": "West Midlands Growth Company (WMGC) is seeking to appoint a suitably qualified supplier to refresh its inward investment sector and subsector propositions, ensuring that they are current, compelling, evidence-led and responsive to evolving investor requirements and market opportunities.\nThe commission will draw on relevant existing intelligence, including the previous Sector Narrative Refresh and resulting investment pitchbooks, alongside the 2024–25 Regional Inward Investment Review and associated sector strategies. These materials will serve as reference sources rather than a fixed strategic baseline, recognising that market conditions, investor requirements and investment opportunities have evolved since their development.\nThe appointed supplier will undertake up-to-date market and inve",
-   "link": "https://www.find-tender.service.gov.uk/Notice/108827-2026"
   },
   {
    "title": "Tender 69/2026 - Mentoring Programme  “Empowering Business Through Artificial Intelligence (AI) Awareness”",
@@ -522,19 +561,6 @@
    "link": "https://www.find-tender.service.gov.uk/Notice/104263-2026"
   },
   {
-   "title": "Screen Culture 2033 Interim Evaluation",
-   "buyer": "British Film Institute",
-   "region": "London",
-   "value": 140000.0,
-   "deadline": "2026-11-27T12:00:00+00:00",
-   "first_seen": "2026-11-03",
-   "category": "",
-   "score": 6,
-   "why": "Business and management consultancy, \"evaluation\" in title",
-   "summary": "Screen Culture 2033 Strategy launched in September 2022. As of October 2026, we have completed the FAME Preliminary Review (Phase 1) and are now moving into the Interim Evaluation (Phase 2).",
-   "link": "https://www.find-tender.service.gov.uk/Notice/103623-2026"
-  },
-  {
    "title": "LEGO299 End-to-End Reporting, Budgeting, Forecasting and Financial Reporting Solution",
    "buyer": "The Office for Legal Complaints",
    "region": "Not stated",
@@ -559,32 +585,6 @@
    "why": "Feasibility study, advisory service, analysis, \"feasibility\" in title",
    "summary": "Accessibility and active travel audit of railway stations and schools - including engagement.",
    "link": "https://www.find-tender.service.gov.uk/Notice/106320-2026"
-  },
-  {
-   "title": "Mechanical & Electrical Consultancy Services - Replacement of Depot Heating System",
-   "buyer": "North East Derbyshire District Council",
-   "region": "East Midlands",
-   "value": 66666,
-   "deadline": "2026-11-27T12:00:00+00:00",
-   "first_seen": "2026-10-31",
-   "category": "",
-   "score": 3,
-   "why": "Energy efficiency consultancy",
-   "summary": "North East Derbyshire District Council  invites quotations from suitably qualified and experienced Mechanical and Electrical Building Services Consultants for the survey, appraisal, design, specification, tender review and post-contract technical services required to replace the ageing gas-fired radiant tube heating installation at Eckington Depot.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/103048-2026"
-  },
-  {
-   "title": "T26/27-008 PEACE PLUS - Celebrating Us",
-   "buyer": "Lisburn and Castlereagh City Council",
-   "region": "Northern Ireland",
-   "value": null,
-   "deadline": "2026-11-27T12:00:00+00:00",
-   "first_seen": "2026-10-28",
-   "category": "",
-   "score": 3,
-   "why": "Project management consultancy",
-   "summary": "The Lisburn and Castlereagh City Council (LCCC) PEACEPLUS Partnership is currently seeking to appoint an appropriate delivery organisation to develop and deliver the Celebrating Us programme under the theme Celebrating Cultures and Diversity. LCCC welcome potential deliverers, working in similar sectors or areas of expertise, to make a submission as a partnership bid. Your proposal MUST be submitted within the eTendersNI portal, via this CfT. NO OTHER METHOD OF SUBMISSION WILL BE ACCEPTED.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/101574-2026"
   },
   {
    "title": "Establishment of Framework for Mediation Service- External Conflict Resolution",
@@ -624,19 +624,6 @@
    "why": "\"masterplan\" in title",
    "summary": "Tenders are invited from contractors having the resources, sufficient capacity and experience working with Local Authority clients to prepare conservation area appraisals, masterplans and design guides. All works must be in accordance with the specification in the tender documents.  \nThe full details of the Council's requirement can be found in the tender documents\nThe contract will likely commence January 2027, and we anticipate a contract period of approximately 16 weeks.",
    "link": "https://www.find-tender.service.gov.uk/Notice/100296-2026"
-  },
-  {
-   "title": "Renewable Energy Study Commission",
-   "buyer": "Erewash Borough Council",
-   "region": "East Midlands",
-   "value": 40000,
-   "deadline": "2026-11-27T12:00:00+00:00",
-   "first_seen": "2026-10-23",
-   "category": "",
-   "score": 3,
-   "why": "Energy efficiency consultancy",
-   "summary": "Erewash Borough Council (EBC) have started work on a new Local Plan, which will be drawn up using the new National Planning Policy Framework (NPPF) 2026. The Planning Policy team is embarking on an evidence base gathering exercise so that a new Local Plan can be submitted within the next 3 years, in line with Government objectives. EBC are now looking for a contractor to prepare and present a Renewable Energy Study to be used by the Planning Policy team to inform the Local Plan.",
-   "link": "https://www.find-tender.service.gov.uk/Notice/100190-2026"
   }
  ]
 }

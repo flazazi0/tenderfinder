@@ -1,6 +1,58 @@
 {
- "updated": "2026-11-26T15:29:20.181307+00:00",
+ "updated": "2026-11-27T15:22:30.711564+00:00",
  "tenders": [
+  {
+   "title": "Community Impact Fund - Evaluation Partner",
+   "buyer": "North East Combined Authority",
+   "region": "North East",
+   "value": null,
+   "deadline": "2026-12-22T12:00:00+00:00",
+   "first_seen": "2026-11-27",
+   "category": "",
+   "score": 7,
+   "why": "Financial consultancy, \"value for money\" in summary, \"evaluation\" in title",
+   "summary": "The North East Mayoral Strategic Authority is seeking to appoint an independent Evaluation Partner to undertake a programme-level evaluation of the £12 million North East Community Impact Fund (CIF). CIF aims to improve outcomes for children and families experiencing poverty by strengthening the capacity, capability and sustainability of the VCSE sector and enabling more preventative and outcomes-based approaches to service delivery.\nThe evaluation will assess CIF's implementation, emerging outcomes and value for money across its different components, including its support to strengthen VCSE capability and commissioning readiness and the development and delivery of preventative and outcomes-based services. It will draw together evidence from across CIF-supported activity and establish the ",
+   "link": "https://www.find-tender.service.gov.uk/Notice/112604-2026"
+  },
+  {
+   "title": "Multi-Disciplinary and Professional Expertise, Skills and Capacity Support for the Council's Energy Island Programme",
+   "buyer": "Isle of Anglesey County Council",
+   "region": "Wales",
+   "value": 500000,
+   "deadline": "2026-12-22T12:00:00+00:00",
+   "first_seen": "2026-11-27",
+   "category": "",
+   "score": 3,
+   "why": "Development consultancy",
+   "summary": "Consultancy support for the Council's Energy Island Programme, for work in relation to a new nuclear development at Wylfa. Please see tender documents for more information.",
+   "link": "https://www.find-tender.service.gov.uk/Notice/112249-2026"
+  },
+  {
+   "title": "Be a Councillor (BaC) partner programme",
+   "buyer": "Improvement and Development Agency for Local Government (IDeA)",
+   "region": "Not stated",
+   "value": 57000.0,
+   "deadline": "2026-12-11T12:00:00+00:00",
+   "first_seen": "2026-11-27",
+   "category": "",
+   "score": 3,
+   "why": "Project management consultancy",
+   "summary": "The Be a Councillor partner programme consists of the promotion and delivery of a programme of support aimed at encouraging members of the public, and especially members of groups who are currently under-represented in local government, to put themselves forward for election as local councillors.\nCommissioned partners will be expected to work with the LGA’s Be a Councillor team, and other partners as appropriate, to plan the programme of support, shaping session plans and agendas, providing facilitation and/or chairing and undertaking promotion of the programme to a diverse range of audiences.\nIn addition to the partner programme (Lot 1), the LGA is also seeking to appoint a provider with experience in encouraging democratic and political participation for the following two Be a Councillor",
+   "link": "https://www.find-tender.service.gov.uk/Notice/112307-2026"
+  },
+  {
+   "title": "FLARE India Hospitality Consultant - Diagnostic Assessments & Implementation Pilots",
+   "buyer": "Waste & Resources Action Programme",
+   "region": "Not stated",
+   "value": null,
+   "deadline": "2026-12-11T23:45:00+00:00",
+   "first_seen": "2026-11-27",
+   "category": "",
+   "score": 3,
+   "why": "Business and management consultancy",
+   "summary": "As part of a three-year programme to reduce food loss and waste in India, WRAP and its subsidiary IFWC will engage extensively with the hospitality sector — hotels, restaurants, events spaces, and catering outfits — to map key food waste hotspots and implement reduction strategies. \nAs part of this work, we are looking to engage an organisation or individual to deliver diagnostic pilots at 10 sites, using the IFWC hotspot mapping methodology, across a representative spread of hospitality segments (e.g. hotel groups, SME hotels, catering, banqueting/events, and sports & leisure).\nFor more information about this opportunity, please visit the eSourcing portal at: \nhttps://www.delta-esourcing.com/tenders/UK-UK-Banbury:-Business-and-management-consultancy-and-related-services./THMP77GDB2\nTo res",
+   "link": "https://www.find-tender.service.gov.uk/Notice/112556-2026"
+  },
   {
    "title": "Island Sustainable Travel Masterplans",
    "buyer": "Argyll and Bute Council",
@@ -64,7 +116,7 @@
    "score": 1,
    "why": "\"masterplan\" in summary",
    "summary": "The purpose of this contract is to produce a landscape vision and masterplan for the Crowland and Cowbit Washes Flood Storage Area (FSR) for the Client on the 'Crowland and Cowbit Washes' project",
-   "link": "https://www.find-tender.service.gov.uk/Notice/112033-2026"
+   "link": "https://www.find-tender.service.gov.uk/Notice/112491-2026"
   },
   {
    "title": "Bicester Town Centre Masterplan",
